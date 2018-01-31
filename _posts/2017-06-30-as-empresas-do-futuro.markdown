@@ -4,7 +4,7 @@ title:  "As empresas do futuro"
 description: Desde a primeira revolução industrial, é um fato que o crescimento de uma indústria é ligado ao aumento do seu consumo[...]
 date: 2018-01-31
 categories: EJ
-img: smart.png
+img: post1.png
 author: Primária Energia
 ---
 
