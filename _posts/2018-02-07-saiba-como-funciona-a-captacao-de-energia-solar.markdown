@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Saiba como funciona a captação de energia solar para alimentar veículos que prestam serviços"
+title:  "Captação de energia solar para alimentar foodtrucks"
 description: Um mercado que cresce cada vez mais no Brasil é o de serviços oferecidos por veículos, como por exemplo foodtrucks[...]
 date: 2018-02-07
 categories: EJ
