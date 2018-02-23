@@ -2,7 +2,7 @@
 layout: post
 title:  "Conheça as 5 maiores empresas que já investem em energia solar
 "
-description:O aumento do uso de energias renováveis por indústrias é notável em todo o mundo, pois[...]
+description: "O aumento do uso de energias renováveis por indústrias é notável em todo o mundo, pois[...]"
 date: 2018-02-23
 categories: EJ
 img: 5-multinacionais.png
