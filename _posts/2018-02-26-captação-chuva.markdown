@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Com a escassez de água e o aumento das tarifas ao redor do Brasil, muitos estão[...]"
+title: "Captação de água da chuva"
+description:  "Com a escassez de água e o aumento das tarifas ao redor do Brasil, muitos estão[...]"
 date: 2018-02-26
 categories: EJ
 img: água-da-chuva.png
