@@ -3,7 +3,7 @@ layout: post
 title:  "Maior teleférico do mundo é movido a energia solar
 "
 description: A energia fotovoltaica tem um papel revolucionário nos mais atuais meios de transporte.[...]
-date: 2018-03-02
+date: 2018-03-05
 categories: EJ
 img: LA-PAZ.png
 author: Primária Energia
