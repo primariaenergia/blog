@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Causa incêndio 110 Norte"
+title:  "Causa do incêndio 110 Norte"
 description: Incêndio que ocorreu na 110 norte pode ter ocorrido por falha nas instalações elétricas[...]
 date: 2018-05-16
 categories: Energia Elétrica
