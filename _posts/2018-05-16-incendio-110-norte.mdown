@@ -11,7 +11,9 @@ author: Caio Martins
 
 Na tarde do dia 14/05 ocorreu um incêndio no bloco M da 110 norte, onde 90 pessoas ficaram desabrigadas, como conta a [notícia do correio Brasiliense](https://www.correiobraziliense.com.br/app/noticia/cidades/2018/05/16/interna_cidadesdf,680981/mais-de-90-pessoas-estao-desalojadas-apos-incendio-em-predio.shtml). As pericias da causa do incêndio só sairão em 30 dias, mas há fortes indícios que tenha sido causado pela má proteção do sistema de instalação elétrica. Apesar de ser uma tragédia, esse acontecimento não está tão distante de nós, como diz a [reportagem do Jornal de Brasília](http://www.jornaldebrasilia.com.br/cidades/df-registrou-mais-de-250-incendios-domesticos-neste-ano/).
 A reportagem cita que já foram 254 incêndios esse ano e que uma das principais causas desses incêndios são fenômenos elétricos. Assim como o do incêndio da 110 norte. 
-Esse curto circuito pode ser causado por alguns motivos:
+Esse curto circuito pode ser causado por alguns motivos:    
+
+
 •	Instalações elétricas com mais de 15 anos
 •	Troca de disjuntores sem a devida troca dos cabos, ou seja, sem um projeto prévio 
 •	Adição de ar condicionado no prédio sem o aval das instalações elétricas feitas por um eletricista
