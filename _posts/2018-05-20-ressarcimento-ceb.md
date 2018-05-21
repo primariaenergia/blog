@@ -28,9 +28,9 @@ Mas e se eu tiver tudo isso e mesmo assim meu equipamento for queimado, eu posso
 A CEB irá até o local averiguar se as instalações se encontram de acordo com a norma de instalações elétricas. Incluindo se existe a presença do DPS, por exemplo. Estando toda a instalação correta ela irá autorizar o ressarcimento. A CEB tem 10 dias para fazer essa vistoria
 
 **4.	Fazer orçamentos de reparo**    
-Com a vistoria aprovada você precisará fazer 2 orçamentos e passar a concessionária seguindo o modelo dito no próprio **[site]**(http://www.ceb.com.br/index.php/informacoes-ceb-separator/ressarcimento-de-danos)
+Com a vistoria aprovada você precisará fazer 2 orçamentos e passar a concessionária seguindo o modelo dito no próprio **[site](http://www.ceb.com.br/index.php/informacoes-ceb-separator/ressarcimento-de-danos)**
 Após isso, ela te pagará em até 20 dias
 
 
 Pronto! Agora você já sabe como ser ressarcido e não gastar mais seu dinheiro. Mas não deixe de se atentar sobre a qualidade de sua instalação.
-Se quiser saber como estão suas instalações é só nos mandar uma **[mensagem]**(www.primariaenergia.com/contact.html) que ficaremos feliz em ajudar.
+Se quiser saber como estão suas instalações é só nos mandar uma **[mensagem](www.primariaenergia.com/contact.html)** que ficaremos feliz em ajudar.
