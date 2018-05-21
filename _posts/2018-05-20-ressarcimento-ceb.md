@@ -22,7 +22,7 @@ Mas e se eu tiver tudo isso e mesmo assim meu equipamento for queimado, eu posso
 É preciso aqui dizer quando ocorreu o problema, quais são as características do aparelho queimado e relatar qual problema que ele apresenta
 
 
-**2.	Não consertar seu equipamento antes da vistoria**
+**2.	Não consertar seu equipamento antes da vistoria**  
 **3.	Vistoria da CEB**  
 
 A CEB irá até o local averiguar se as instalações se encontram de acordo com a norma de instalações elétricas. Incluindo se existe a presença do DPS, por exemplo. Estando toda a instalação correta ela irá autorizar o ressarcimento. A CEB tem 10 dias para fazer essa vistoria
