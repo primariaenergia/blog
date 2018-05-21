@@ -33,4 +33,4 @@ Após isso, ela te pagará em até 20 dias
 
 
 Pronto! Agora você já sabe como ser ressarcido e não gastar mais seu dinheiro. Mas não deixe de se atentar sobre a qualidade de sua instalação.
-Se quiser saber como estão suas instalações é só nos mandar uma **[mensagem](www.primariaenergia.com/contact.html)** que ficaremos feliz em ajudar.
+Se quiser saber como estão suas instalações é só nos mandar uma **[mensagem](http://primariaenergia.com/contact.html)** que ficaremos feliz em ajudar.
