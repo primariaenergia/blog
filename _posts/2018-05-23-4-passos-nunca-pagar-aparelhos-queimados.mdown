@@ -4,7 +4,7 @@ title:  "4 passos para nunca mais pagar por aparelhos queimados"
 description: A CEB em vários casos paga aos moradores por causa dos aparelhos queimados
 date: 2018-05-20
 categories: Energia Elétrica
-img: ressarcimentoceb.png
+img: Como-não pagar-aparelhos-queimados.png
 author: Caio Martins
 ---
 
