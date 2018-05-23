@@ -1,6 +1,6 @@
-title: Blog da ENETEC
-description: Mr.Brown is a responsive jekyll theme
-url: "enetec.unb.br" # the base hostname & protocol for your site, e.g. http://example.com
+title: Blog da Primária
+description: Blog com as principais novidades para fotovoltaica, instalações elétricas e a reaproveitamento de água
+url: "primariaenergia.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 
@@ -9,7 +9,8 @@ discus_identifier: mr-brown
 
 # Social settings
 twitter_url: https://twitter.com/artemsheludko_
-facebook_url: https://facebook.com/
+facebook_url: https://facebook.com/primariaenergia.com
 googleplus_url: https://plus.google.com/
 instagram_url: https://instagram.com
 github_url: https://github.com/artemsheludko/
+facebook_like: false  
