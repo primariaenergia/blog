@@ -2,6 +2,8 @@
 layout: post
 title:  "7 passos para ter energia solar em sua casa"
 description: Curioso em saber como você pode ter um sistema de energia solar fotovoltaica na sua casa?[...]
+keywords: energia solar, fotovoltaica
+robots: index
 date: 2018-03-07
 categories: energia solar
 img: passo-a-passo.png
