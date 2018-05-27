@@ -1,54 +1,55 @@
 ---
 layout: post
-title:  "As empresas do futuro"
+title:  "Conta de energia e Bandeiras Tarifárias- Guia Completo"
 description: Clique aqui e saiba tudo sobre sua conta de energia, com isso você vai estar mais preparados para suas mudanças e saber como economizar mais.
-date: 2018-01-31
+date: 2018-05-28
 categories: Conta de Luz
-img: post1.png
+img: Conta-luz-bandeira-guia-completo.png
 author: Caio Martins
 ---
-#Conta de energia- Saiba como funciona
+# Conta de energia- Saiba como funciona
 Em julho teremos um novo aumento de nossa conta de luz (mais uma!), como mostra a reportagem da [folha](https://www1.folha.uol.com.br/mercado/2018/05/conta-de-luz-tera-bandeira-vermelha-2-em-junho-nivel-mais-caro-diz-aneel.shtml). Esse aumento será pelo fato das famosas bandeiras tarifárias, que são ajustadas mês a mês pelo governo federal, mas poucas pessoas entendem como funcionam essas bandeiras e esses aumentos, que são anunciados, mas não explicados. Então vamos lá para todos entenderem de uma vez por todas o que são essas bandeiras  
 
-##Bandeiras tarifárias
-###Como a conta são influenciadas pelas bandeiras
-Para esse mês estamos em bandeira vermelha patamar 2. Isso significa que atingimos o pior nível, logo temos a bandeira mais cara para o mês de julho. 
-	*Mas como essas bandeiras são ajustadas?*  
-	      
-
-	Elas são mudadas de acordo com a geração de energia do Brasil. Quando as fontes de geração são mais baratas, por exemplo em épocas de chuva abundantes, as termoelétricas não são ligadas e o preço da geração é baixo, as bandeiras ficam mais baratas. Quanto mais vezes for necessário ligar as usinas termelétricas mais caro fica a bandeira e consequente a conta de luz. 
+## Bandeiras tarifárias
+### Como a conta são influenciadas pelas bandeiras
+Para esse mês estamos em bandeira vermelha patamar 2. Isso significa que atingimos o pior nível, logo temos a bandeira mais cara para o mês de julho.  
+  
+	*Mas como essas bandeiras são ajustadas?*
+   
+Elas são mudadas de acordo com a geração de energia do Brasil. Quando as fontes de geração são mais baratas, por exemplo em épocas de chuva abundantes, as termoelétricas não são ligadas e o preço da geração é baixo, as bandeiras ficam mais baratas. Quanto mais vezes for necessário ligar as usinas termelétricas mais caro fica a bandeira e consequente a conta de luz. 
 	Isso nos mostra o quanto é importante o uso das energias renováveis para não depender do diesel, o qual nós já sabemos que está caro, para produzir nossa energia. Com isso, além de diminuir a própria conta de luz da casa uma pessoa ao ter energia solar também ajuda a diminuir o preço para todos do país.  
-
-###Bandeiras tarifárias  
+	
+### Bandeiras tarifárias  
   
  
-o	*Tarifa Verde*
+o	*Tarifa Verde*  
 Condições favoráveis que não tem nenhum acréscimo na conta de luz  
-o	*Tarifa Amarela*  
+o	*Tarifa Amarela*   
 São condições menos favoráveis e tem um acréscimo de R$0,010 por kwh na conta  
-o	*Tarifa Vermelho – Patamar 1*     
+o	*Tarifa Vermelho – Patamar 1*         
 São condições desfavoráveis. O acréscimo é de R$0,03 por kwh na conta  
-o	*Tarifa Vermelho – Patamar 2*   
+o	*Tarifa Vermelho – Patamar 2*     
 Piores condições de geração.  O acréscimo é de R$0,05 por kwh na conta  
   
 
-###Quanto irei pagar a mais na conta?  
+### Quanto irei pagar a mais na conta?  
   	  
-	Com esse aumento previsto para julho uma pessoa que hoje consome 600 kWh pagando em torno de R$420,00 com a bandeira verde, irá pagar no mês de julho um total de R$450,00 em julho. Algo bem considerável.
+Com esse aumento previsto para julho uma pessoa que hoje consome 600 kWh pagando em torno de R$420,00 com a bandeira verde, irá pagar no mês de julho um total de R$450,00 em julho. Algo bem considerável.
 
 
-##Contas de luz e seus tipos
+## Contas de luz e seus tipos
   
-	Além da bandeira tarifária que falamos acima existem vários outros detalhes em nossa conta de luz que não prestamos muita atenção. Por exemplo, caso você que está lendo esse texto tiver ou trabalhar em uma empresa que consome muita energia, provavelmente a conta é diferente da que estamos acostumados a pagar. Essa conta é do tipo A, que tem várias particularidades diferentes. Caso você tiver apenas sua casa e/ou um pequeno comércio e não tem interesse em saber mais sobre esse tipo de conta pode pular direto para a conta do tipo B(link).  
+Além da bandeira tarifária que falamos acima existem vários outros detalhes em nossa conta de luz que não prestamos muita atenção. Por exemplo, caso você que está lendo esse texto tiver ou trabalhar em uma empresa que consome muita energia, provavelmente a conta é diferente da que estamos acostumados a pagar. Essa conta é do tipo A, que tem várias particularidades diferentes. Caso você tiver apenas sua casa e/ou um pequeno comércio e não tem interesse em saber mais sobre esse tipo de conta pode pular direto para a conta do tipo B(link).  
 
-###Conta tipo A
+### Conta tipo A
+  
 A conta do tipo A ela é dividida em mais partes que a conta de sua casa. Ela é dividida em:  
-  
+    
 o	*Demanda*
 o	*Consumo em ponta*
 o	*Consumo em fora ponta*
 o	*Energia Reativa*
-  
+    
 
 Cada uma dessas partes tem uma tarifa diferente para ela e representa uma parte do consumo.
 A demanda corresponde o tanto de potência que sua empresa precisa, nela você precisa contratar um valor fixo por mês, o qual você sempre pagará por ele. Caso ultrapasse esse valor pagará uma multa por isso. 
@@ -59,7 +60,7 @@ A parte de consumo de ponta e fora de ponta pode se fazer ajustes no estilo de u
 Por fim, para deixar de pagar a multa por energia reativa, pode colocar um banco de capacitores corrigindo o fator de potência do local.
 Caso queira saber se sua empresa pode economizar em contas do tipo A nos mande uma [mensagem](http://primariaenergia.com/contact) e uma foto da conta de luz que ficaremos feliz em te ajudar.
 
-###Conta do tipo B 
+### Conta do tipo B 
   
 As contas do tipo B são as que pagamos em nossa casa no dia a dia, mas mesmo elas tem várias subdivisões. 
 Hoje consumidores que consomem mais que 500KwH podem optar por continuar na tarifa condicional ou migrar para a tarifa branca. 
@@ -75,7 +76,7 @@ Caso precise de ajuda não hesite em nos mandar uma mensagem!
 Além dessas duas formas tarifárias a conta do tipo B conta com vários atributos que compõe a tarifa final.   
   
 
-##Atributos da minha conta de energia  
+## Atributos da minha conta de energia  
  
 A nossa conta chega com um valor final de tarifa, mas você sabe o porquê daquele valor?
 A tarifa é dividida em:  
@@ -90,23 +91,23 @@ o	*Iluminação pública*
 
 Vamos explicar cada uma rapidamente aqui:
 
-###Custos com compras e transmissão
+### Custos com compras e transmissão
   
 Elas representam grande parte da tarifa. Esses custos podem não dependem da Concessionária de energia. Elas representam 42% da tarifa. Logo quanto mais caro se paga pela geração de energia mais caro fica a conta de energia. 
   
-###Custo de distribuição
+### Custo de distribuição
   
 É o custo para a CEB manter o sistema dela funcionando e suas linhas atendendo a todos. Ela representa 14,5% da nossa tarifa  
    
-###Impostos federais  
+### Impostos federais  
   
 De todo a tarifa 16,5% vai para pagar impostos da união. Nele se enquandram o PIS e CONFINS  
  
-###Iluminação pública
+### Iluminação pública
   
 Além da tarifa para o kwh consumido, o consumidor ainda precisa pagar a taxa de iluminação pública que para uma conta de 600kWh fica em torno de R$33,10. Acrescendo mais um valor a nossa conta de energia.
   
-###ICMS  
+### ICMS  
   
 Ele representa 25% da tarifa em determinados casos, que é repassado ao governo estadual.
 Apesar desse número alto, pode ser uma boa notícia para os consumidores. O ICMS pode ser ressarcido de acordo com a jurisprudência vigente. Então o morador pode fazer o cálculo de quanto ele pode ser ressarcido em 5 anos. O que é um bom dinheiro.
@@ -116,12 +117,13 @@ Com as bandeiras energéticas, já explicadas no início desse texto, fechamos c
 
 *Mas agora, se eu tiver uma fonte de energia fotovoltaica, o que eu deixaria de pagar?*
 
-##Conta menor com fotovoltaica
+## Conta menor com fotovoltaica
 
 Tendo um sistema fotovoltaico podemos diminuir grande parte dessa tarifa que pagamos todos os dias da conta de luz. Além de ter várias incentivos do governo, como o **[IPTU verde](http://primariaenergia.com/blog/iptu-verde/)**	
 
 
-###tipo B
+### tipo B  
+  
 Para esse tipo de conta você só precisa pagar um mínimo exigido pela CEB, que é:  
   
 o	*100Kwh para casas trifásicas*
@@ -130,7 +132,8 @@ o	*30 Kwh para casas monofásicas*
 Além disso, as bandeiras tarifárias, impostos e taxa de iluminação pública você só paga por esse mínimo exigido. Com esses fatores o valor da conta de luz cai em até 99% do seu valor.
 Caso você queira saber quanto você produziria dê uma olhada em nosso **[simulador](http://primariaenergia.com/simulador2)**  
   
-###Conta tipo A
+### Conta tipo A  
+  
 Para contas do tipo A, a fotovoltaica só pode abater a parte de consumo, que é a parte de consumo fora ponta e consumo ponta. Porém como a tarifa das duas são diferentes e apenas se pode injetar no horário de fora ponta, normalmente não é viável se abater no horário de ponta, já que para abater esse mesmo valor seriam necessários 3 vezes mais placas do que no horário convencional.
 A parte de demanda também não deixa de ser paga pelo morador, já que ela é o tanto de potência que se injeta na rede. Além disso, a potência do sistema instalado não pode ser menor do que a demanda pedida para a concessionária.
 Por fim, a parte de EREX, também só é possível ser reduzida com a instalação do banco de capacitores.
