@@ -14,7 +14,7 @@ Em julho teremos um novo aumento de nossa conta de luz (mais uma!), como mostra 
 ### Como a conta são influenciadas pelas bandeiras
 Para esse mês estamos em bandeira vermelha patamar 2. Isso significa que atingimos o pior nível, logo temos a bandeira mais cara para o mês de julho.  
   
-	*Mas como essas bandeiras são ajustadas?*
+*Mas como essas bandeiras são ajustadas?*
    
 Elas são mudadas de acordo com a geração de energia do Brasil. Quando as fontes de geração são mais baratas, por exemplo em épocas de chuva abundantes, as termoelétricas não são ligadas e o preço da geração é baixo, as bandeiras ficam mais baratas. Quanto mais vezes for necessário ligar as usinas termelétricas mais caro fica a bandeira e consequente a conta de luz. 
 	Isso nos mostra o quanto é importante o uso das energias renováveis para não depender do diesel, o qual nós já sabemos que está caro, para produzir nossa energia. Com isso, além de diminuir a própria conta de luz da casa uma pessoa ao ter energia solar também ajuda a diminuir o preço para todos do país.  
@@ -45,18 +45,20 @@ Além da bandeira tarifária que falamos acima existem vários outros detalhes e
   
 A conta do tipo A ela é dividida em mais partes que a conta de sua casa. Ela é dividida em:  
     
-o	*Demanda*
-o	*Consumo em ponta*
-o	*Consumo em fora ponta*
-o	*Energia Reativa*
+o	*Demanda*  
+o	*Consumo em ponta*    
+o	*Consumo em fora ponta*  
+o	*Energia Reativa*  
     
 
 Cada uma dessas partes tem uma tarifa diferente para ela e representa uma parte do consumo.
-A demanda corresponde o tanto de potência que sua empresa precisa, nela você precisa contratar um valor fixo por mês, o qual você sempre pagará por ele. Caso ultrapasse esse valor pagará uma multa por isso. 
-O consumo em ponta é o consumo em horário nobre de 18:00 as 21:00 e tem uma tarifa mais cara. O consumo fora de ponta tem uma tarifa mais barata para se consumir nos outros horários. Isso é feito para incentivar as indústrias a usar seus equipamentos em momentos em que não sobrecarregue tanto o sistema elétrico brasileiro. Esse horário de ponta é definido, pois é o horário onde as pessoas estão chegando em casa e usando seus chuveiros elétricos.
+A demanda corresponde o tanto de potência que sua empresa precisa, nela você precisa contratar um valor fixo por mês, o qual você sempre pagará por ele. Caso ultrapasse esse valor pagará uma multa por isso.  
+O consumo em ponta é o consumo em horário nobre de 18:00 as 21:00 e tem uma tarifa mais cara. O consumo fora de ponta tem uma tarifa mais barata para se consumir nos outros horários. Isso é feito para incentivar as indústrias a usar seus equipamentos em momentos em que não sobrecarregue tanto o sistema elétrico brasileiro. Esse horário de ponta é definido, pois é o horário onde as pessoas estão chegando em casa e usando seus chuveiros elétricos.  
+   
 Por fim, também é cobrado uma multa em caso de uso de energia reativa. Essa energia reativa é cobrada quando o fator de potência da instalação fica abaixo de 0,92. Você pode entender mais sobre isso energia reativa nesse post da [Enetec](http://enetec.unb.br/blog/EREX/)
 Podemos economizar dinheiro em todos os casos acima. Na parte da demanda pode otimizar o melhor valor para energia contratando uma empresa de engenharia elétrica.
-A parte de consumo de ponta e fora de ponta pode se fazer ajustes no estilo de uso para fazer medidas de eficiência que reduzam a conta de luz.
+A parte de consumo de ponta e fora de ponta pode se fazer ajustes no estilo de uso para fazer medidas de eficiência que reduzam a conta de luz.  
+  
 Por fim, para deixar de pagar a multa por energia reativa, pode colocar um banco de capacitores corrigindo o fator de potência do local.
 Caso queira saber se sua empresa pode economizar em contas do tipo A nos mande uma [mensagem](http://primariaenergia.com/contact) e uma foto da conta de luz que ficaremos feliz em te ajudar.
 
@@ -66,11 +68,12 @@ As contas do tipo B são as que pagamos em nossa casa no dia a dia, mas mesmo el
 Hoje consumidores que consomem mais que 500KwH podem optar por continuar na tarifa condicional ou migrar para a tarifa branca. 
 A tarifa branca é parecida com a conta do tipo A que explicamos no tópico anterior, tendo três valores diferentes na conta de luz  
 
-o	*Fora de ponta*: Demais horários
-o	*Intermediário*: 17:00 as 18:00 e 21:00 as 22:00
-o	*Ponta*: 18:00 as 21:00  
+o	*Fora de ponta*: Demais horários  
+o	*Intermediário*: 17:00 as 18:00 e 21:00 as 22:00  
+o	*Ponta*: 18:00 as 21:00    
   
 A CEB muda o relógio e marca o quanto foi consumido em cada faixa de horário, pagando um valor diferente em cada uma dessa faixas. Você pode conferir aqui na **[CEB](http://www.ceb.com.br/index.php/component/content/article/83-tarifa-branca/476-tarifa-branca-de-energia)** o quanto você pagará em cada caso.  
+  
 Para moradores que usam pouco esse horário essa pode ser uma ótima forma de economizar o dinheiro no fim do mês. Nós da Primária estamos ajudando alguns clientes que irão reduzir em R$200,00 mensais o valor de sua conta com medidas para adotar essa nova tarifa.
 Caso precise de ajuda não hesite em nos mandar uma mensagem!
 Além dessas duas formas tarifárias a conta do tipo B conta com vários atributos que compõe a tarifa final.   
@@ -81,13 +84,13 @@ Além dessas duas formas tarifárias a conta do tipo B conta com vários atribut
 A nossa conta chega com um valor final de tarifa, mas você sabe o porquê daquele valor?
 A tarifa é dividida em:  
   
-o	*Custos geração*
-o	*Custos de transmissão*
-o	*distribuição*
-o	*Impostos federais*
-o	*Impostos estaduais*
-o	*Bandeira tarifária*
-o	*Iluminação pública*
+o	*Custos geração*  
+o	*Custos de transmissão*  
+o	*distribuição*  
+o	*Impostos federais*  
+o	*Impostos estaduais*  
+o	*Bandeira tarifária*  
+o	*Iluminação pública*  
 
 Vamos explicar cada uma rapidamente aqui:
 
@@ -122,7 +125,7 @@ Com as bandeiras energéticas, já explicadas no início desse texto, fechamos c
 Tendo um sistema fotovoltaico podemos diminuir grande parte dessa tarifa que pagamos todos os dias da conta de luz. Além de ter várias incentivos do governo, como o **[IPTU verde](http://primariaenergia.com/blog/iptu-verde/)**	
 
 
-### tipo B  
+### Conta tipo B  
   
 Para esse tipo de conta você só precisa pagar um mínimo exigido pela CEB, que é:  
   
@@ -135,7 +138,8 @@ Caso você queira saber quanto você produziria dê uma olhada em nosso **[simul
 ### Conta tipo A  
   
 Para contas do tipo A, a fotovoltaica só pode abater a parte de consumo, que é a parte de consumo fora ponta e consumo ponta. Porém como a tarifa das duas são diferentes e apenas se pode injetar no horário de fora ponta, normalmente não é viável se abater no horário de ponta, já que para abater esse mesmo valor seriam necessários 3 vezes mais placas do que no horário convencional.
-A parte de demanda também não deixa de ser paga pelo morador, já que ela é o tanto de potência que se injeta na rede. Além disso, a potência do sistema instalado não pode ser menor do que a demanda pedida para a concessionária.
+A parte de demanda também não deixa de ser paga pelo morador, já que ela é o tanto de potência que se injeta na rede. Além disso, a potência do sistema instalado não pode ser menor do que a demanda pedida para a concessionária.  
+  
 Por fim, a parte de EREX, também só é possível ser reduzida com a instalação do banco de capacitores.
 Mesmo assim, o sistema fotovoltaico não deixa de ser uma excelente opção para esse tipo de conta devido ao seu alto consumo. Além disso é bem fácil de ter um são necessários só de **[7 passos](http://primariaenergia.com/blog/7-passos-energia-solar-casa/)** !
 
