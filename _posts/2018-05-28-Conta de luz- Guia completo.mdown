@@ -11,13 +11,13 @@ author: Caio Martins
 Em julho teremos um novo aumento de nossa conta de luz (mais uma!), como mostra a reportagem da [folha](https://www1.folha.uol.com.br/mercado/2018/05/conta-de-luz-tera-bandeira-vermelha-2-em-junho-nivel-mais-caro-diz-aneel.shtml). Esse aumento será pelo fato das famosas bandeiras tarifárias, que são ajustadas mês a mês pelo governo federal, mas poucas pessoas entendem como funcionam essas bandeiras e esses aumentos, os quais são anunciados, mas não explicados. Então vamos lá para todos entenderem de uma vez por todas o que são essas bandeiras.  
 
 ## Bandeiras tarifárias
-### Como a conta são influenciadas pelas bandeiras
+### Como as contas são influenciadas pelas bandeiras
 Para esse mês, estamos em bandeira vermelha patamar 2. Isso significa que atingimos o pior nível, logo temos a bandeira mais cara para o mês de julho.  
   
 *Mas como essas bandeiras são ajustadas?*
    
-Elas são mudadas de acordo com a geração de energia do Brasil. Quando as fontes de geração são mais baratas, por exemplo em épocas de chuva abundantes, as termoelétricas não são ligadas e o preço da geração é baixo, as bandeiras ficam mais baratas. Quanto mais vezes for necessário ligar as usinas termelétricas mais caro fica a bandeira e consequente a conta de luz. 
-	Isso nos mostra o quão importante é o uso das energias renováveis, para não depender do diesel, o qual nós já sabemos que está caro(só olhar a greve dos caminhoneiros), para produzir nossa energia. Com isso, além de diminuir a própria conta de luz, uma pessoa ao ter energia solar também ajuda a diminuir o preço para todos do país.  
+Elas são mudadas de acordo com a geração de energia do Brasil. Quando as fontes de geração são mais baratas, por exemplo em épocas de chuvas abundantes, as termoelétricas não são ligadas e o preço da geração é baixo, as bandeiras ficam mais baratas. Quanto mais vezes for necessário ligar as usinas termelétricas mais caro fica a bandeira e consequentemente a conta de luz. 
+	Isso nos mostra o quão importante é o uso das energias renováveis, para não depender do diesel, o qual nós já sabemos que está caro (é só olhar a greve dos caminhoneiros), para produzir nossa energia. Com isso, além de diminuir a própria conta de luz, uma pessoa ao ter energia solar também ajuda a diminuir o preço para todos do país.  
 	
 ### Bandeiras tarifárias  
   
@@ -34,7 +34,7 @@ Piores condições de geração.  O acréscimo é de R$0,05 por kwh na conta
 
 ### Quanto irei pagar a mais na conta?  
   	  
-Com esse aumento previsto para julho uma pessoa que hoje consome 600 kWh pagando em torno de R$420,00 com a bandeira verde, irá pagar no mês de julho um total de R$450,00 em julho. Algo bem considerável.
+Com esse aumento previsto para julho, uma pessoa que hoje consome 600 kWh pagando em torno de R$420,00 com a bandeira verde, irá pagar no mês de julho um total de R$450,00. Algo bem considerável.
 
 
 ## Contas de luz e seus tipos
