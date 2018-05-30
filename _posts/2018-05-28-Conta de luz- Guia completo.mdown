@@ -4,7 +4,7 @@ title:  "Conta de energia e Bandeiras Tarifárias- Guia Completo"
 description: Clique aqui e saiba tudo sobre sua conta de energia, com isso você vai estar mais preparados para suas mudanças e saber como economizar mais.
 date: 2018-05-28
 categories: Conta de Luz
-img: Conta-luz-bandeira-guia-completo.png
+img: Conta-luz-bandeira-guia-completo.png alt ="conta-de-luz"
 author: Caio Martins
 ---
 
