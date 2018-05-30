@@ -7,7 +7,7 @@ categories: Conta de Luz
 img: Conta-luz-bandeira-guia-completo.png
 author: Caio Martins
 ---
-# Conta de energia- Saiba como funciona
+
 Em julho teremos um novo aumento de nossa conta de luz (mais uma!), como mostra a reportagem da [folha](https://www1.folha.uol.com.br/mercado/2018/05/conta-de-luz-tera-bandeira-vermelha-2-em-junho-nivel-mais-caro-diz-aneel.shtml). Esse aumento será pelo fato das famosas bandeiras tarifárias, que são ajustadas mês a mês pelo governo federal, mas poucas pessoas entendem como funcionam essas bandeiras e esses aumentos, os quais são anunciados, mas não explicados. Então vamos lá para todos entenderem de uma vez por todas o que são essas bandeiras.  
 
 ## Bandeiras tarifárias
