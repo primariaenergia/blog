@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reaproveitamento de água,descubra como algumas escolas fazem isso"
+title:  "Aproveitamento de água,descubra como algumas escolas fazem isso"
 description: Clique aqui e saiba como algumas escolas tem feito para reutilizar a água consumida na escola, trazendo uma maior consciência ambiental para seus alunos e diminuindo suas despesas
 date: 2018-06-04
 categories: Reaproveitamento de água
@@ -14,7 +14,7 @@ Um dos mais importantes focos de iniciativas ecológicas é a água. Isso porque
 Esse problema afeta não só os moradores no que tange ao racionamento de água, igual o que enfrentamos a mais de um ano, como também no aumento de conta de energia, por causa das **[bandeiras tarifárias](http://primariaenergia.com/blog/Conta-de-luz-Guia-completo)**, já que nossa energia vem principalmente de usinas hidrelétricas.
 É importante que as escolas tomem iniciativas que incentivem os alunos a valorizarem ela. Esse é o exemplo de algumas escolas ao redor, que vêm trabalhando com a reutilização da água. 
            
-##Como algumas escolas reaproveitam agua
+## Como algumas escolas reaproveitam agua
 
 O Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) é um exemplo de instituição que tornou possível para os alunos propor e implementar medidas ecológicas. Duas alunas do curso técnico em Petroquímica perceberam em um estudo, que havia um amplo desperdício de água nos bebedouros da escola e decidiram arrumar uma solução para isso.
 A medida desenvolvida por elas é simples e de fácil acesso. A saída de água do bebedouro, em vez de estar ligada a rede de escoamento, foi direcionada com um simples cano PVC até um recipiente de plástico utilizado para armazenamento equipado com rodinhas e posicionado abaixo do equipamento. Dessa forma, a água que antes iria para a rede de esgoto é reutilizada para a limpeza em geral e irrigação. Como mostra a reportagem sobre o **[sistema de reaproveitamento](http://tribunadoceara.uol.com.br/noticias/educacao/estudantes-criam-sistema-de-reutilizacao-de-agua-de-bebedouros-em-escolas/)**
@@ -22,7 +22,7 @@ A medida desenvolvida por elas é simples e de fácil acesso. A saída de água 
  Outra escola que investiu na reutilização da água foi a Escola Municipal Rural Pólo Paiolzinho e Extensões, de Corumbá. Incentivados por uma campanha municipal em razão do Dia Mundial da Água, os alunos do 9° ano fizeram um vídeo que mostrava as diversas medidas contra o desperdício da instituição, que aproveita ao máximo esse recurso indispensável. Graças a esse vídeo, a prefeitura decidiu fazer um estudo do modelo para poder reproduzi-lo na rede de ensino municipal. Confira um pouco mais sobre a **[reportagem](http://www.correiodecorumba.com.br/?s=noticia&id=29544)**. 
 
 
-##Como minha escola pode reaproveitar agua
+## Como minha escola pode reaproveitar agua
   
 *Interessado em estabelecer um exemplo de escola engajado nas necessidades ambientais e também formar cidadãos conscientes?*  
      
@@ -39,11 +39,11 @@ São diversas as medidas que podem ser tomadas além do reaproveitamento da águ
 É interessante saber que as sugestões citadas acima são todas de formas diretas de lidar com a reutilização da água. Isso porque quase todo material utilizado no cotidiano tem uma porcentagem de água considerável na sua produção. Isso vale especialmente para materiais de origem orgânica, como papel e comida. Por isso é importante ter a consciência de que a reutilização de materiais também é uma forma de reuso da água. 
 Um ponto importante nessa linha de pensamento é o conhecimento da quantidade de água que é utilizada para a produção da comida. Um quilo de frango, por exemplo, gasta cerca de 3900 litros para ser fabricado, segundo essa **[matéria da Super Interessante](https://www.google.com.br/amp/s/super.abril.com.br/blog/planeta/me-ve-16-mil-litros-de-agua/amp/)**. Por isso o combate ao desperdício de alimentos é tão importante nas escolas. Ele pode ser promovido envolvendo a criança no processo de produção da merenda, o que a leva a valorizar mais o que come ou ao promover momentos em que os pequenos entrem em contato com novas frutas e sabores, diminuindo a rejeição a novos lanches.
 
-##Vantagens de se economizar a água  
+## Vantagens de se economizar a água  
    
 A implementação das medidas diretas de reutilização da água é vantajosa em diversos aspectos. Eis abaixo uma lista das maiores vantagens que uma escola pode usufruir ao implementar essas medidas:  
   
-1.	O sistema de captação de água da chuva garante um desconto no Imposto Predial e Territorial Urbano (IPTU), uma forma de incentivo do governo a práticas ecológicas, conhecida como **[IPTU Verde](http://primariaenergia.com/blog/iptu-verde). O desconto por várias atitudes nessa linha de ação pode chegar a 30%.  
+1.	O sistema de captação de água da chuva garante um desconto no Imposto Predial e Territorial Urbano (IPTU), uma forma de incentivo do governo a práticas ecológicas, conhecida como **[IPTU Verde](http://primariaenergia.com/blog/iptu-verde)**. O desconto por várias atitudes nessa linha de ação pode chegar a 30%.  
 2.	O reuso da água e o combate ao desperdício tem um impacto imenso na conta de água.  
 3.	Escolas que tomam essas atitudes se tornam destaque no Brasil e no mundo, atraindo pais e alunos focados no desenvolvimento de uma consciência ecológica.  
 4.	Atitudes como essas serão comuns no futuro, então tomá-las agora será um passo de inovação inevitável.
