@@ -63,11 +63,11 @@ Alguns fabricantes indicam qual deve ser a distância máxima que um chuveiro po
 Nessa análise será necessário observar o quadro elétrico. Para uma maior segurança, a norma pede que circuitos de área molhada, tenham além do disjuntor uma proteção extra. Essa proteção é chamada de Dispositivo residual (DR). Esse equipamento é ligado junto aos disjuntores e ele desarma quando detecta uma fuga de corrente. Logo ele desarma ao perceber que uma pessoa está levando um choque, antes de causar qualquer consequência a ela.
 O DR é ainda muito pouco usado na maioria das casas, mas ele é de extrema importância para prevenção de acidentes com choques elétricos.
   
-6.	**Disjuntor fazendo zumbido**  
+6.**Disjuntor fazendo zumbido**  
 Quando um disjuntor está fazendo um barulho alto ao ligar algum equipamento elétrico, pode significar duas coisas. Uma é que ele está com os fios pouco apertados, logo gastando energia à toa e fazendo esse ruído. Para solucionar esse problema basta desligar o quadro elétrico, apertar os fios nos disjuntores com uma chave de fenda e religar o quadro. Essa manutenção de aperto de disjuntores é muito importante de ser feita regularmente.
 Caso esse procedimento não funcione, é bem provável que seu disjuntor esteja mal dimensionado. Com isso, é necessária sua substituição. Lembre-se de avaliar se o condutor suporta um aumento do disjuntor, caso contrário, será necessário também a substituição do condutor por um de seção nominal maior.  
     
-7.	**A luz diminui quando o chuveiro está ligado**  
+7.**A luz diminui quando o chuveiro está ligado**  
 Esse problema é causado quando a lâmpada ou outros equipamentos elétricos estão ligados no mesmo circuito do chuveiro. É recomendado que o chuveiro fique em um circuito exclusivo para ele. Ao ligar ele junto aos outros aparelhos, o chuveiro quando em funcionamento faz diminuir a intensidade de corrente que chega nesses outros equipamentos elétricos, o que pode causar desgastes dos mesmos e diminuição de sua vida útil.
 Para resolver esse problema basta colocar o chuveiro em um circuito independente para ele, para isso é necessário ter um condutor e um disjuntor indo exclusivamente para o chuveiro elétrico.
   
