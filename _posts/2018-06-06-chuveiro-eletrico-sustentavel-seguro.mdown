@@ -4,7 +4,7 @@ title:  "Como deixar os chuveiros elétricos mais seguros e eficientes"
 description: Clique aqui e saiba tudo sobre como deixar as instalações elétricas do seus chuveiros mais seguras, além de descobrir como gastar menos com os chuveiros elétricos
 date: 2018-06-06
 categories: Chuveiro Elétrico
-img: ![Chuveiroeletrico](chuveiro-eletrico.png)
+img: chuveiro-eletrico.png
 author: Caio Martins
 ---
 
