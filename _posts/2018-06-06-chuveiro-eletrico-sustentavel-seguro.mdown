@@ -5,6 +5,7 @@ description: Clique aqui e saiba tudo sobre como deixar as instalações elétri
 date: 2018-06-06
 categories: Chuveiro Elétrico
 img: chuveiro-eletrico.png
+alt: Chuveiroeletrico
 author: Caio Martins
 ---
 
