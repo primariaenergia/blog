@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "ICMS - Como recuperar seu dinheiro"
+description: Clique aqui e saiba como você pedir o ressarcimento do ICMS pago em suas contas, diminuindo seu preço e ainda sendo ressarcido pelos últimos 6 anos
+date: 2018-06-18
+categories: ICMS
+img: ICMS.png
+author: Caio Martins
+---
+
+As contas de luz são divididas em várias partes como mostramos em **[Conta de luz](http://primariaenergia.com/blog/Conta-de-luz-Guia-completo)**. Uma dessas partes é o ICMS, mas que está sendo cobrado de forma incorreta. O ICMS não pode ser cobrado em cima da transmissão, encargos setoriais e distribuição. Hoje em dia esse valor é cobrado sobre esses setores.
+ 
+## Decisão judicial favorável  
+  
+Hoje já existe jurisprudência favorável para os casos citados como cita a **[notícia]( https://www.em.com.br/app/noticia/economia/2017/04/03/internas_economia,859242/cresce-veto-da-justica-em-cobrancas-de-icms-na-conta-de-luz.shtml).**   
+Os consumidores que tiverem interesse podem entrar administrativamente ou judicialmente contra o estado pedindo a restituição. É importante lembrar que o processo precisa ser contra o Estado e não contra a companhia energética, já que ela apenas repassa esse valor ao consumidor.  
+  
+## Cálculo da restituição  
+    
+Para fazer o cálculo da restituição é necessário obter todas as contas de 5 anos, que é possível pedir a restituição do dinheiro. Com as contas em mão é necessário obter os valores pagos por transmissão, distribuição e encargos setoriais. Esses valores ficam na parte inferior esquerda da conta de luz. 
+Com os valores é necessário multiplicar por 25% que corresponde ao valor de ICMS pago. Por exemplo, caso na conta se tenha pago R$10,00 de transmissão, consegue uma restituição de R$2,50. Precisa fazer a mesma conta para os valores de distribuição e encargos setoriais. Por fim, precisa fazer a correção monetária. Essa correção normalmente é calculada com base no INPC. Como ainda não é totalmente decidido o valor na hora de fazer o cálculo, pode-se fazer sem atualização monetária e esperar esse cálculo pelo juiz.
+Para facilitar essas contas fizemos uma planilha exclusiva para você, a qual pode ser baixada no link abaixo. 
+**[planilha ICMS](http://primariaenergia.com/icms).**
+
+Qualquer dúvida é só entrar em **[contato](http://primariaenergia.com/contact)** conosco que ficaremos felizes em ajudar. 
+
+
+
