@@ -9,7 +9,7 @@ author: Caio Martins
 ---
 
 
-A energia que chamamos de energia solar é aquela proveniente do sol e das energias renováveis é uma das mais abundantes em nosso planeta, sendo considerada infinita do ponto de vista humano. Essa energia pode ser usada de diversas maneiras diferentes que já estão consolidadas no mercado e de outras formas que as pessoas têm inventado para aproveitar essa energia.
+A energia que chamamos de energia solar é aquela proveniente do sol e das energias renováveis, ela é uma das mais abundantes em nosso planeta, sendo considerada infinita do ponto de vista humano. Essa energia pode ser usada de diversas maneiras diferentes que já estão consolidadas no mercado e de outras formas que as pessoas têm inventado para aproveitar essa energia.
 E você quer descobrir como você também pode usufruir dessa energia? Nesse texto mostraremos todas as opções para você poder aproveitar a energia solar da melhor maneira possível.  
 
 ## Vantagens e desvantagens de energia solar
@@ -17,22 +17,22 @@ E você quer descobrir como você também pode usufruir dessa energia? Nesse tex
    
 ### Vantagens energia solar  
   
-•	Energia totalmente limpa e abundante em nosso planeta
-•	Pode ser aproveitada de diversas maneiras.
-•	Quanto maior o empreendimento menor fica seu custo unitário e menor o tempo de retorno de seu investimento
-•	Ficar independente da rede elétrica, em casos com baterias
-•	Conseguem levar energia a qualquer lugar que tenha sol
-•	Os custos de manutenção são baixíssimos
-•	Tem uma vida útil muito grande, como a **[vida útil do painel solar](https://www.portal-energia.com/qual-o-tempo-de-vida-util-real-de-um-painel-solar/)**.
+•	Energia totalmente limpa e abundante em nosso planeta  
+•	Pode ser aproveitada de diversas maneiras.  
+•	Quanto maior o empreendimento menor fica seu custo unitário e menor o tempo de retorno de seu investimento  
+•	Ficar independente da rede elétrica, em casos com baterias  
+•	Conseguem levar energia a qualquer lugar que tenha sol  
+•	Os custos de manutenção são baixíssimos  
+•	Tem uma vida útil muito grande, como a **[vida útil do painel solar](https://www.portal-energia.com/qual-o-tempo-de-vida-util-real-de-um-painel-solar/)**.  
   
 ### Desvantagens da energia solar  
    
-•	O preço para se ter o sistema ainda é um valor alto
-•	O sistema de armazenamento de energia ainda é pior que o sistema de armazenamento, de outras fontes como o petróleo e o carvão
-•	Lugares com pouca irradiação tem uma baixa eficiência
-•	Só produz energia durante uma parte do dia, necessitando ter um meio de armazenamento da energia
-•	Sua produção em locais com muitas nuvens diminui bastante
-•	Desconhecimento do público em geral sobre seu funcionamento
+•	O preço para se ter o sistema ainda é um valor alto  
+•	O sistema de armazenamento de energia ainda é pior que o sistema de armazenamento, de outras fontes como o petróleo e o carvão  
+•	Lugares com pouca irradiação tem uma baixa eficiência  
+•	Só produz energia durante uma parte do dia, necessitando ter um meio de armazenamento da energia  
+•	Sua produção em locais com muitas nuvens diminui bastante  
+•	Desconhecimento do público em geral sobre seu funcionamento  
 
 ## Tipos de energia solar
 Agora sabendo as vantagens e desvantagens de um sistema solar, como será que poderíamos implantar isso em nossa casa? 
@@ -40,24 +40,25 @@ Agora sabendo as vantagens e desvantagens de um sistema solar, como será que po
 ### Aquecimento solar para banhos e piscina
 
 O aquecimento solar é o mais usado no Brasil atualmente. Ele já está presente em diversas casas de alto padrão e casas populares. Esse sistema ainda pode ser dividido em aquecimento solar para piscina e aquecimento solar para banho e torneiras.
-O sistema é composto de:
-•	Placas para aquecimento da água
-•	Reservatório de água quente
-•	Termostato
-•	Bombas
+O sistema é composto de:  
+  
+•	Placas para aquecimento da água  
+•	Reservatório de água quente  
+•	Termostato  
+•	Bombas  
 
 O seu funcionamento é baseado principalmente no aquecimento de água. A água fria que está na caixa de água vai para as placas, onde ela é esquentada com a radiação solar, após atingir uma temperatura, ela vai para o reservatório de água quente. Quando uma pessoa vai tomar o banho a água sai desse reservatório e chega até a ducha sem nenhum gasto de energia.
 Normalmente, esse sistema possui um mecanismo de backup que permite esquentar a água em dias que não tenha muito calor, como no inverno. Esse sistema de backup pode ser feito via uma resistência elétrica ou por meio de um aquecimento a gás.
 A diferença do sistema de piscinas, para o sistema dde aquecimento de água para banho é que no primeiro caso as placas são “tiras pretas”, enquanto que no segundo caso usa-se placas de vidro para esquentar o sistema. Também no caso da piscina são usadas bombas para a água sair da piscina e passar pelas placas, antes de retornar a piscina, não tendo um reservatório próprio.
 Os dois sistemas, requerem pouca manutenção e têm uma longa vida útil. Alguns pontos que é necessário observar é:  
-  
-•	As placas estão bom estado, não apresentando coloração branca ou rachaduras no vidro
-•	O boiler não fica ligado de maneira desnecessária
-•	Fazer a limpeza do sistema de 2 em 2 meses para melhor eficiência
-•	Fazer uma filtragem do sistema, evitando acúmulos de sedimentos no fundo do reservatório, de 6 em 6 meses
-•	Verificar se o termostato está bem ajustado 
-•	Verificar se não existe nenhum vazamento nos canos 
-•	Uso de capas na piscina, para manter a temperatura da água
+      
+•	As placas estão bom estado, não apresentando coloração branca ou rachaduras no vidro  
+•	O boiler não fica ligado de maneira desnecessária  
+•	Fazer a limpeza do sistema de 2 em 2 meses para melhor eficiência  
+•	Fazer uma filtragem do sistema, evitando acúmulos de sedimentos no fundo do reservatório, de 6 em 6 meses  
+•	Verificar se o termostato está bem ajustado   
+•	Verificar se não existe nenhum vazamento nos canos   
+•	Uso de capas na piscina, para manter a temperatura da água  
 
 Prestando atenção nesses detalhes, o sistema de aquecimento se mostra uma ótima opção para quem tem o maior consumo de sua casa em chuveiros elétricos.
 
@@ -72,10 +73,10 @@ Caso queira saber mais sobre como é o funcionamento dessas usinas pode ler essa
 A energia solar fotovoltaica é um sistema relativamente novo, mas que tem ganhado um espaço gigantesco no mundo, já que ele permite a geração de energia elétrica na própria residência. 
 Esse sistema pode ser usado para abater até 99% da conta de luz da pessoa que o tiver instalado em seu telhado. 
 Ele pode ser dividido em 3 grandes grupos:  ]
-  
-•	Off Grid
-•	On Grid
-•	Bombeamento solar  
+    
+•	Off Grid  
+•	On Grid  
+•	Bombeamento solar    
 
 Todos os 3 sistemas possuem placas que por meio de um fenômeno elétrico ao receber radiação geram uma corrente elétrica. Essa corrente elétrica que é em corrente contínua, é transformada na corrente alternada, a qual usamos em nossas tomadas no dia-a-dia, e fica disponível para podermos consumi-las naquele momento ou armazenarmos para uso futuro. 
 Além disso, existe todo um sistema elétrico que protege essa rede de possíveis surtos, como raios ou sobrecarga.
@@ -96,9 +97,10 @@ Esse sistema é bem fácil de ser instalado não necessitando nenhuma obra extra
 ### Outras formas de energia solar fotovoltaica 
   
 A energia solar além de ser usado em casas, comércios e indústrias ela começou como aplicação para satélites e tem sido usada em diversos locais curiosos hoje em dia.
-Alguma dessas aplicações que podem ser citadas são:
-•	Carros que já podem usar a energia solar como fonte de energia
-•	Barcos e aviões que percorrem longas distâncias também com um sistema de energia solar
-•	Até no maior **[bondinho](http://primariaenergia.com/blog/bondinho)** do mundo, em La Paz, tem partes elétricas dele que são movidas a energia solar.
+Alguma dessas aplicações que podem ser citadas são:  
+  
+•	Carros que já podem usar a energia solar como fonte de energia   
+•	Barcos e aviões que percorrem longas distâncias também com um sistema de energia solar  
+•	Até no maior **[bondinho](http://primariaenergia.com/blog/bondinho)** do mundo, em La Paz, tem partes elétricas dele que são movidas a energia solar.  
 
 Quer saber como ter um sistema desses em sua casa, não deixe de nos mandar uma mensagem ou comentar aqui embaixo que iremos responder com imenso prazer
