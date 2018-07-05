@@ -9,11 +9,12 @@ author: Caio Martins
 ---
 
 
-A energia que chamamos de energia solar é aquela proveniente do sol e das energias renováveis, ela é uma das mais abundantes em nosso planeta, sendo considerada infinita do ponto de vista humano. Essa energia pode ser usada de diversas maneiras diferentes que já estão consolidadas no mercado e de outras formas que as pessoas têm inventado para aproveitar essa energia.
-E você quer descobrir como você também pode usufruir dessa energia? Nesse texto mostraremos todas as opções para você poder aproveitar a energia solar da melhor maneira possível.  
+A energia que chamamos de energia solar é aquela proveniente do sol e das energias renováveis, ela é uma das mais abundantes em nosso planeta, sendo considerada infinita do ponto de vista humano. Essa energia pode ser usada de diversas maneiras diferentes, que já estão consolidadas no mercado, além de outras formas que as pessoas têm inventado para aproveitá-la.
+E você quer descobrir como você também pode usufruir dessa energia?    
+Nesse texto mostraremos todas as opções para você poder aproveitar a energia solar da melhor maneira possível.  
 
 ## Vantagens e desvantagens de energia solar
- Pesquisadores indicam que por volta de 2050 ela será nossa principal fonte de energia. Mas como tudo, a fonte de energia solar tem suas vantagens e desvantagens, mesmo sendo considerada essa energia do futuro. 
+ Pesquisadores indicam que por volta de 2050 ela será nossa principal fonte de energia. Mas, como tudo, a fonte de energia solar tem suas vantagens e desvantagens, mesmo sendo considerada essa energia do futuro. 
    
 ### Vantagens energia solar  
   
@@ -48,29 +49,29 @@ O sistema é composto de:
 •	Bombas  
 
 O seu funcionamento é baseado principalmente no aquecimento de água. A água fria que está na caixa de água vai para as placas, onde ela é esquentada com a radiação solar, após atingir uma temperatura, ela vai para o reservatório de água quente. Quando uma pessoa vai tomar o banho a água sai desse reservatório e chega até a ducha sem nenhum gasto de energia.
-Normalmente, esse sistema possui um mecanismo de backup que permite esquentar a água em dias que não tenha muito calor, como no inverno. Esse sistema de backup pode ser feito via uma resistência elétrica ou por meio de um aquecimento a gás.
-A diferença do sistema de piscinas, para o sistema dde aquecimento de água para banho é que no primeiro caso as placas são “tiras pretas”, enquanto que no segundo caso usa-se placas de vidro para esquentar o sistema. Também no caso da piscina são usadas bombas para a água sair da piscina e passar pelas placas, antes de retornar a piscina, não tendo um reservatório próprio.
-Os dois sistemas, requerem pouca manutenção e têm uma longa vida útil. Alguns pontos que é necessário observar é:  
+Normalmente, esse sistema possui um mecanismo de backup, que permite esquentar a água em dias que não tenha muito calor, como no inverno. Esse sistema de backup pode ser feito via uma resistência elétrica ou por meio de um aquecimento a gás.
+A diferença do sistema de piscinas, para o sistema de aquecimento de água para banho é que no primeiro caso as placas são “tiras pretas”, enquanto que no segundo caso, usa-se placas de vidro para esquentar o sistema. Também no caso da piscina são usadas bombas para a água sair poder passar pelas placas, antes de retornar a piscina, não tendo um reservatório próprio.
+Os dois sistemas, requerem pouca manutenção e têm uma longa vida útil. Alguns pontos que são necessários observar:  
       
-•	As placas estão bom estado, não apresentando coloração branca ou rachaduras no vidro  
-•	O boiler não fica ligado de maneira desnecessária  
-•	Fazer a limpeza do sistema de 2 em 2 meses para melhor eficiência  
+•	As placas estarem em um bom estado, não apresentando coloração branca ou rachaduras no vidro  
+•	O boiler não ficar ligado de maneira desnecessária  
+•	Fazer a limpeza do sistema de 2 em 2 meses para melhor sua eficiência  
 •	Fazer uma filtragem do sistema, evitando acúmulos de sedimentos no fundo do reservatório, de 6 em 6 meses  
 •	Verificar se o termostato está bem ajustado   
 •	Verificar se não existe nenhum vazamento nos canos   
-•	Uso de capas na piscina, para manter a temperatura da água  
+•	Uso de capa na piscina, para manter a temperatura da água  
 
 Prestando atenção nesses detalhes, o sistema de aquecimento se mostra uma ótima opção para quem tem o maior consumo de sua casa em chuveiros elétricos.
 
 
 
 ### Aquecimento heliotérmico
-Uma outra forma de se gerar energia por meio do aquecimento de água são usinas heliotérmicas. Essas usinas formam focos de luz concentrados em um tubo que gerará vapor de água, o qual girará uma turbina produzindo energia elétrica. 
+Uma outra forma de se gerar energia por meio do aquecimento de água são usinas heliotérmicas. Essas usinas formam focos de luz concentrados em um tubo, que gerará vapor de água que girará uma turbina produzindo energia elétrica. 
 Esse tipo de geração de energia é pouco difundido no Brasil e seu uso é principalmente em grandes usinas.
 Caso queira saber mais sobre como é o funcionamento dessas usinas pode ler essa **[matéria da Wikipédia]( https://pt.wikipedia.org/wiki/Energia_heliot%C3%A9rmica)** que explica como funciona esse sistema.
 
 ### Energia solar fotovoltaica
-A energia solar fotovoltaica é um sistema relativamente novo, mas que tem ganhado um espaço gigantesco no mundo, já que ele permite a geração de energia elétrica na própria residência. 
+A energia solar fotovoltaica é um sistema relativamente novo, mas que tem ganhado um espaço gigantesco no mundo, já que ele permite a geração de energia elétrica em sua própria residência. 
 Esse sistema pode ser usado para abater até 99% da conta de luz da pessoa que o tiver instalado em seu telhado. 
 Ele pode ser dividido em 3 grandes grupos:  ]
     
@@ -78,12 +79,13 @@ Ele pode ser dividido em 3 grandes grupos:  ]
 •	On Grid  
 •	Bombeamento solar    
 
-Todos os 3 sistemas possuem placas que por meio de um fenômeno elétrico ao receber radiação geram uma corrente elétrica. Essa corrente elétrica que é em corrente contínua, é transformada na corrente alternada, a qual usamos em nossas tomadas no dia-a-dia, e fica disponível para podermos consumi-las naquele momento ou armazenarmos para uso futuro. 
-Além disso, existe todo um sistema elétrico que protege essa rede de possíveis surtos, como raios ou sobrecarga.
+Todos os 3 sistemas possuem placas, que por meio de um fenômeno elétrico ao receber radiação geram uma corrente elétrica. Essa corrente elétrica que é em corrente contínua, é transformada na corrente alternada, a qual usamos em nossas tomadas no dia-a-dia, ficando disponível para podermos consumi-las naquele momento ou armazenarmos para uso futuro. 
+Além disso, existe todo um sistema elétrico que protege essa rede de possíveis surtos, como de raios ou sobrecarga.
 A forma como a energia é armazenada, que difere cada um dos sistemas citados acima.  
    
-#### Sistema off grid 
-No sistema off grid, a energia é armazenada em baterias estacionárias. Essas são baterias específicas para esse fim. Elas têm uma vida útil mais ou menos de 4 a 5 anos, após esse período elas necessitam ser trocadas por novas. Isso deixa esse sistema um pouco mais caro, sendo mais comumente usada em lugares no qual é difícil a chegada de energia elétrica por linhas de transmissão, como é o caso da **[ilha flutuante com energia solar]( http://primariaenergia.com/blog/ilha-flutuante)**.
+#### Sistema off grid  
+  
+No sistema off grid, a energia é armazenada em baterias estacionárias. Essas são baterias específicas para esse fim. Elas têm uma vida útil mais ou menos de 4 a 5 anos, após esse período elas necessitam ser trocadas por novas. Isso deixa esse sistema um pouco mais caro, sendo mais comumente usadas em lugares no qual é difícil a chegada de energia elétrica por linhas de transmissão, como é o caso da **[ilha flutuante com energia solar]( http://primariaenergia.com/blog/ilha-flutuante)**.
   
 #### Sistema de bombeamento  
   
@@ -91,16 +93,16 @@ Esse sistema é feito, quando se quer bombear água de poços artesianos para ir
 
 ### Sistema on grid  
   
-É o sistema que fez a fotovoltaica começar a ser usada em grande escala pelas casas. Esse sistema não possui baterias para armazenar energia. Ao gerar mais do que consome o consumidor irá fornecer essa energia para a rede elétrica, gerando créditos em sua conta. Ao final do mês, esses créditos são descontados do consumo final na conta de energia. Com isso o consumidor final só irá pagar pelo mínimo exigido pela concessionária.
+É o sistema que fez a fotovoltaica começar a ser usada em grande escala pelas casas. Esse sistema não possui baterias para armazenar energia. Ao gerar mais do que consome o consumidor irá fornecer essa energia para a rede elétrica, gerando créditos em sua conta. Ao final do mês, esses créditos são descontados do consumo final na conta. Com isso o consumidor só irá pagar pelo mínimo exigido pela concessionária.
 Esse sistema é bem fácil de ser instalado não necessitando nenhuma obra extra. Veja como em [7 passos para se ter energia solar]( http://primariaenergia.com/blog/7-passos-energia-solar-casa)
   
 ### Outras formas de energia solar fotovoltaica 
   
-A energia solar além de ser usado em casas, comércios e indústrias ela começou como aplicação para satélites e tem sido usada em diversos locais curiosos hoje em dia.
+A energia solar além de ser usado em casas, comércios e indústrias e ter começado como aplicação para satélites, ela tem sido usada em diversos locais curiosos hoje em dia.
 Alguma dessas aplicações que podem ser citadas são:  
   
 •	Carros que já podem usar a energia solar como fonte de energia   
 •	Barcos e aviões que percorrem longas distâncias também com um sistema de energia solar  
 •	Até no maior **[bondinho](http://primariaenergia.com/blog/bondinho)** do mundo, em La Paz, tem partes elétricas dele que são movidas a energia solar.  
 
-Quer saber como ter um sistema desses em sua casa, não deixe de nos mandar uma mensagem ou comentar aqui embaixo que iremos responder com imenso prazer
+Quer saber como ter um sistema desses em sua casa, não deixe de nos mandar uma mensagem ou comentar aqui embaixo que iremos responder com imenso prazer!
