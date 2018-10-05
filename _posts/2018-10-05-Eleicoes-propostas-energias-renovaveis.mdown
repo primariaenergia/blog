@@ -4,7 +4,7 @@ title:  "Propostas eleições- Energias renováveis "
 description: O que cada presidenciável propõe em relação ao sistema energético brasileiro e energias renováveis[...]
 date: 2018-10-05
 categories: Energia Elétrica
-img: Propostas Eleitorais.png
+img: eleicao.png.png
 author: Caio Martins
 ---
 
