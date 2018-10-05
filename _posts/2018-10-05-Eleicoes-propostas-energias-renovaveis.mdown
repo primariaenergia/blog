@@ -4,7 +4,7 @@ title:  "Propostas eleições- Energias renováveis "
 description: O que cada presidenciável propõe em relação ao sistema energético brasileiro e energias renováveis[...]
 date: 2018-10-05
 categories: Energia Elétrica
-img: eleicao.png
+img: Propostas Eleitorais.png
 author: Caio Martins
 ---
 
@@ -14,29 +14,35 @@ Por isso, para quem ainda não tem um candidato definido para alguns dos cargos 
 
 <H2>Candidatos à Presidência da República</H2>
 
-*Álvaro Dias*:
-Ao fazer uma pesquisa no plano de governo do candidato não foi encontrada nenhuma menção específica sobre as questões de energias renováveis ou melhoria no setor elétrico. Isso mostra que apesar de não termos encontrado nenhum ponto em que Álvaro Dias se mostre contra essas tecnologias, não será algo prioritário em seu governo
-*Ciro Gomes* 
+**Álvaro Dias**:  
+Ao fazer uma pesquisa no plano de governo do candidato não foi encontrada nenhuma menção específica sobre as questões de energias renováveis ou melhoria no setor elétrico. Isso mostra que apesar de não termos encontrado nenhum ponto em que Álvaro Dias se mostre contra essas tecnologias, não será algo prioritário em seu governo  
+ 
+**Ciro Gomes** 
 O candidato Ciro Gomes do PDT fala em seu plano de governo que pretende cumprir o Acordo de Paris, que estimula o uso de energias renováveis até o ano de 2020 para diminuir os efeitos de gases estufa.  Ele também cita em seu plano de governo que ocorrerá um incentivo ao aumento da produção de energia de elétrica, principalmente de fontes renováveis, como a energia solar. 
 Ao ler o plano de governo do candidato nota-se que essa pauta existe um espaço em suas prioridades de governo, mas não existe um plano claro de como ele vai incentivar esse tipo de energias renováveis e nem que essa será uma das suas principais prioridades.
-
-*Geraldo Alckmin*
-Geraldo Alckmin, candidato à presidência pelo PSDB, tem uma parte de suas propostas voltadas apenas para a área de energia elétrica. Nessa parte ele enfatiza a importância de ampliar a produção de energias renováveis principalmente no Norte e Nordeste que tem cenário muito propício para o mesmo. O candidato também já deu entrevistas dizendo que o ideal seria que as pessoas pudessem vender energia elétrica excedente, fato que vai contra o pensamento da ANEEL. 
-Além do incentivo nas áreas de energia renovável, Alckmim também pretende que o país tem uma rede integrada e que conte com smart grids, para que possa ter uma diminuição do consumo da mesma. Outras ideias do candidato é incentivar mais o mercado livre de energia, no qual o consumidor pode negociar diretamente com o produtor de energia e comprar como o mais vantajoso, o uso da biomassa como fonte geradora de energia e principalmente a geração distribuída.
-As ideias de Alckmin seriam muito interessantes para o setor e para o país, mas não se sabe se ele conseguirá realizar tantas mudanças assim no sistema de energia, pelo fato de ir estar indo de encontro com a projeção da ANEEL e que Smart Grid é uma tecnologia muita nova, a qual seria bastante dispendioso sua colocação. Entretanto ele conseguindo realizar suas propostas teríamos um grande crescimento para o setor.
-*Jair Bolsonaro*
-O candidato Jair Bolsonaro do PSL tem como proposta o incentivo de energias renováveis no Nordeste, assim como outros candidatos. Ele ainda complementa que o Brasil precisa diversificar mais sua matriz energética, principalmente com energias renováveis. Bolsonaro, apesar de citar esses dois pontos não deixa claro como pretende realizar tais melhorias e também não aparenta ser o ponto principal do seu plano de governo
-*Fernando Haddad*
-Fernando Haddad do PT, em alguns trechos do plano de governo fala de incentivo à produção de energias verdes, não citando qual delas ele daria alguma prioridade. Outro ponto que Haddad também colocou em seu plano de governo é que se possa vender o excedente de energia, algo como já comentado em outro candidato que vai de encontro com a ideia da ANEEL. Por fim, o candidato petista também cita a importância da troca da iluminação pública por LED, o que diminuiria o gasto com energia.
-As propostas de Fernando Haddad são parecidas com a dos outros candidatos no qual são muito interessantes caso sejam aplicadas, mas como não tem nenhum plano concreto não é possível dizer se elas serão ou não implementadas.
-*Henrique Meirelles*
-O candidato Henrique Meirelles do PMDB apenas cita em seu plano de governo que fará com que o Brasil cumpra o acordo de Paris. Ele não dá nenhum destaque em suas propostas para alguma energia renovável ou melhoria no sistema elétrico. Isso deve ao fato, de que não deve ser sua prioridade no governo. Entretanto, Meirelles nunca deu nenhuma entrevista ou teve alguma ação que indique que ele seria contra essas iniciativas.
-*João Amoedo*
-O candidato Amoedo do Partido Novo, cita em seu plano de governo que fará uma ampliação do uso das energias renováveis, porém seu principal destaque na área do meio ambiente é o fim dos lixões. Amoedo, assim como Meirelles parece não ter como ponto principal de sua proposta as energias renováveis, porém também não parece algo que seria contra.
-*Marina Silva*
+  
+**Geraldo Alckmin**  
+Geraldo Alckmin, candidato à presidência pelo PSDB, tem uma parte de suas propostas voltadas apenas para a área de energia elétrica. Nessa parte ele enfatiza a importância de ampliar a produção de energias renováveis principalmente no Norte e Nordeste que tem cenário muito propício para o mesmo. O candidato também já deu entrevistas dizendo que o ideal seria que as pessoas pudessem vender energia elétrica excedente, fato que vai contra o pensamento da ANEEL.   
+Além do incentivo nas áreas de energia renovável, Alckmim também pretende que o país tem uma rede integrada e que conte com smart grids, para que possa ter uma diminuição do consumo da mesma. Outras ideias do candidato é incentivar mais o mercado livre de energia, no qual o consumidor pode negociar diretamente com o produtor de energia e comprar como o mais vantajoso, o uso da biomassa como fonte geradora de energia e principalmente a geração distribuída.  
+As ideias de Alckmin seriam muito interessantes para o setor e para o país, mas não se sabe se ele conseguirá realizar tantas mudanças assim no sistema de energia, pelo fato de ir estar indo de encontro com a projeção da ANEEL e que Smart Grid é uma tecnologia muita nova, a qual seria bastante dispendioso sua colocação. Entretanto ele conseguindo realizar suas propostas teríamos um grande crescimento para o setor.  
+  
+**Jair Bolsonaro**  
+O candidato Jair Bolsonaro do PSL tem como proposta o incentivo de energias renováveis no Nordeste, assim como outros candidatos. Ele ainda complementa que o Brasil precisa diversificar mais sua matriz energética, principalmente com energias renováveis. Bolsonaro, apesar de citar esses dois pontos não deixa claro como pretende realizar tais melhorias e também não aparenta ser o ponto principal do seu plano de governo  
+  
+**Fernando Haddad**  
+Fernando Haddad do PT, em alguns trechos do plano de governo fala de incentivo à produção de energias verdes, não citando qual delas ele daria alguma prioridade. Outro ponto que Haddad também colocou em seu plano de governo é que se possa vender o excedente de energia, algo como já comentado em outro candidato que vai de encontro com a ideia da ANEEL. Por fim, o candidato petista também cita a importância da troca da iluminação pública por LED, o que diminuiria o gasto com energia.  
+As propostas de Fernando Haddad são parecidas com a dos outros candidatos no qual são muito interessantes caso sejam aplicadas, mas como não tem nenhum plano concreto não é possível dizer se elas serão ou não implementadas.  
+  
+**Henrique Meirelles**  
+O candidato Henrique Meirelles do PMDB apenas cita em seu plano de governo que fará com que o Brasil cumpra o acordo de Paris. Ele não dá nenhum destaque em suas propostas para alguma energia renovável ou melhoria no sistema elétrico. Isso deve ao fato, de que não deve ser sua prioridade no governo. Entretanto, Meirelles nunca deu nenhuma entrevista ou teve alguma ação que indique que ele seria contra essas iniciativas.  
+  
+**João Amoedo**  
+O candidato Amoedo do Partido Novo, cita em seu plano de governo que fará uma ampliação do uso das energias renováveis, porém seu principal destaque na área do meio ambiente é o fim dos lixões. Amoedo, assim como Meirelles parece não ter como ponto principal de sua proposta as energias renováveis, porém também não parece algo que seria contra.  
+  
+**Marina Silva**  
 A candidata da Rede, Marina Silva, sempre se mostrou como a candidata mais disposta a melhorar ao meio ambiente. Ela em seu plano de governo trata bastante do incentivo das energias renováveis e principalmente da melhor eficiência energética na geração, transmissão e distribuição da energia elétrica. Ela tem como ponto diferencial de sua proposta que as distribuidoras ganhem bonificações pela diminuição de consumo, invertendo a lógica atual, na qual quanto mais o consumidor consome mais a distribuidora ganha. 
 As ideias de Marina com certeza, se realizadas podem ajudar muito o setor energético, principalmente, a questão das energias renováveis. 
-
+  
 Com esse resumo da proposta é possível que você eleitor consiga tirar suas próprias conclusões, pela ótica do setor energético e das energias renováveis quem é o candidato que mais se aproxima do que você espera para o futuro. Com certeza, esse pode não ser um ponto único a ser observado para eleger um Presidente do Brasil, mas pode servir como uma base para algum critério de desempate.  
 Esperamos ter ajudado e torcemos para que independente do candidato eleito ele traga avanços nessa área que é de grande importância para o Brasil.
-
+  
