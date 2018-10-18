@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Porque não compramos sistemas de energia solar"
+description: Descubra o porque as pessoas não compram sistemas solares e como contornar seus problemas[...]
+date: 2018-10-1
+categories: Energia Elétrica
+img: Porque-energia-solar.png
+author: Caio Martins
+---
+
+
+Porque não comprar um sistema fotovoltaico é uma pergunta que muitas vezes nos fazemos aqui dentro da Primária. Todos nós sabemos que é um investimento muito rentável e que se paga em um tempo relativamente curto (4 anos) para o tempo que ele dura (25 anos). E por mais que pareça a melhor escolha possível ainda vemos que muitas pessoas ainda preferem gastar dinheiro com um carro do que com um sistema que gera energia, a título de comparação no ano de 2017 só do modelo Onix da Chevrolet foram vendidos 3411 carros aqui no DF, como mostra a **[reportagem](http://carsale.uol.com.br/2017/12/26/os-carros-mais-vendidos-por-estado-em-2017)**, enquanto o número de instalações com energia solar hoje não chega a 400 unidades. Isso mostra a total preferência pelo carro.
+Para entendermos melhor esse cenário resolvemos perguntar ao nosso público o porquê de eles não terem esse sistema em casa. Dessa forma, agora conseguimos entender um pouquinho mais a mentalidade das pessoas e decidimos escrever um texto que responde essas principais dúvidas e problemas que as pessoas enxergam em adquirir esse sistema para tentar mostrar de uma vez por todas que é o investimento do presente e não do futuro. Já pedimos desculpas pelo número de contas que terão esse texto, mas tentaremos fazer o mais passo a passo possível para não deixar nenhuma dúvida.
+A primeira resposta, como esperado foi: 
+<h3>*o preço do sistema **ainda** é muito caro*</h3>
+Podemos responder isso de diversas óticas, a primeira é que a pessoa ao se referir que o preço do sistema ainda está caro, ela pensa que ele vai ficar mais barato com o passar dos anos e vai ser mais viável compra-lo daqui um ou dois anos. A perspectiva da IRENA – International Renewable Energy Agency é de que esse sistema diminua de preço em torno de 5,9% ao ano.  
+Hoje o preço do sistema para uma casa média que gaste em torno de R$600,00 ao mês gira na faixa de R$30.000,00. Fazendo um cálculo, descontando a inflação e a subida da conta de luz, que normalmente sobem na mesma taxa, esse sistema daqui a dois anos custaria R$26564,30. Porém essa mesma pessoa que colocou o sistema no ano 2020, já terá gasto de hoje até essa data R$14.400,00. Já que ela gasta R$600,00 ao mês x 12 meses x 2 anos. Logo o preço do sistema que estaria teoricamente mais barato sairia para essa pessoa por R$40964,30, bem mais caro que os R$30.000,00 de hoje.
+	Então você que já se convenceu que esperar não é a melhor ideia já que pode entrar em contato conosco para **[adquirir seu sistema solar](primariaenergia.com/contact)**. 
+	Se você ainda não se convenceu a comprar esse sistema, continue lendo para ver se você se encaixa em alguns dos outros casos.
+	O segundo caso seria não ter esses R$30.000,00 para investir já que para a realidade brasileira é um valor muito alto para se ter em caixa.
+	A primeira possibilidade é dividir uma parte desse valor conosco mesmo no cartão crédito em 12 parcelas. Nesse caso, você pagaria apenas a taxa do cartão, uma entrada de R$8000,00 (que pode também ser parcelada) e mais 12 parcelas de R$1952,00, o que pode se encaixar em alguns orçamentos.
+	Além dessa possibilidade, outra opção é fazer financiamento, hoje os financiamentos são tão interessantes quanto os de carros. Um dos investimentos possíveis é feito pelo **[Banco Santander]( https://www.ambienteenergia.com.br/index.php/2018/08/santander-amplia-credito-para-energia-solar-e-reduz-taxa-para-099-ao-mes/34619#.W8emCGhKjIU)**
+	Com esse tipo de investimento em 5 anos se paga um valor próximo ao que se paga ao valor da conta de luz atualmente, com isso a pessoa trocaria uma conta pela outra nos primeiros meses, porém com o aumento constante da conta de luz, esse valor fica menor que a parcela do financiamento, além de ao final desses 5 anos não ter mais parcelas, o sistema ficaria gerando por mais 20 anos sem custos e apenas economizando o dinheiro da conta de luz.
+	Por fim, uma outra possibilidade para quem não quer fazer um financiamento nem tem um bom dinheiro sobrando é possível ainda ter um sistema fotovoltaico. Uma das possibilidades que poucas pessoas pensam é que o sistema é modular e não é necessário fazer o sistema mais caro, pode se fazer um sistema mais barato que se encaixa no bolso do consumidor. Dessa forma, o sistema vai gerando economias e pode se adicionar novas placas ao sistema, que podem ser pagas com a economia já gerada até atingir o total da potência e a conta ser zerada.
+	Com todas essas possibilidades, conseguimos observar que o sistema fotovoltaico apesar de parecer caro, ele tem diversas possibilidades para esse valor ser menos sentido no bolso do comprador. 
+	E agora, o que eu faço? É só seguir **[os 7 passos para ter energia solar em casa](primariaenergia.com/blog/7-passos-energia-solar)**
+<h3>** Eu moro em um apartamento ou minha casa não tenha telhado** <h3>
+Esse é a realidade da maioria das pessoas que vivem no Plano Piloto, mas para essas pessoas ainda existem duas possibilidades. A primeira opção é conversar com os vizinhos que moram no prédio para poder usar o telhado do edifício para colocar o seu sistema solar. Essa possibilidade ainda pode incluir uma forma que se coloque um número de placas suficientes para que se possa gerar energia necessária para todos os moradores. Dessa forma, além do custo por apartamento ficar menor, já que a compra em maior quantidade diminui os custos, também seria possível diminuir a taxa paga ao condomínio, já que esse também já teria sua conta de luz no mínimo. 
+Outra possibilidade que está começando a ser usada atualmente são os condomínios solares, no qual é possível alugar um pedaço de uma usina sem nenhum investimento ou comprar um lote de uma usina, que é feita na modalidade cooperativa solar. Dessa forma, sua energia seria gerada em alguma fazenda no Distrito Federal e o abatimento chegaria em sua conta.
+<h4> Como funciona uma cooperativa solar<h4>
+	As cooperativas solares são criadas com o intuito de gerar energia por meio de sistema solar fotovoltaico para mais de uma pessoa ou empresa em um mesmo lugar. A sua criação pode ser feita por falta de espaço para instalar, vender energia mais barata para outros locais ou até para diminuir o custo individual do sistema. 
+	A criação da cooperativa veio a partir da resolução 687 da ANEEL que permitiu a possibilidade desse tipo de empreendimento e do consumo remoto (produção em um ponto e geração em outro ponto distinto), desde que na mesma concessionária, dentro do limite permitido de 5 MWp.
+	Para fazer essa criação dos condomínios solares é apenas necessário que pelo menos 3 pessoas ou empresa façam um consórcio ou cooperativa com o intuito de geração de energia elétrica. Cada pessoa tem sua cota de acordo com a quantidade de energia que precisa e recebe essa parte da energia ao final do mês. As regras jurídicas são as mesmas instituídas para consórcios e cooperativas de outros fins.
+Depois dessas respostas vemos que a energia solar está mesmo na realidade do brasileiro, escolhendo a melhor forma de usar essa energia quase qualquer pessoa hoje pode ter um sistema fotovoltaico em casa. 
+Fazendo um pequeno resumo aqui de como você pode ter sua energia solar em casa:
+•	Pagando à vista em seu próprio telhado
+•	Financiar seu sistema solar
+•	Fazer pequenas partes do sistema
+•	Fazer no telhado do seu prédio
+•	Comprar um lote em uma cooperativa solar
+•	Alugar um lote em uma cooperativa solar e pagar menos na conta de luz
+
+Caso você tenha se interessado em alguma das opções não hesite em nos mandar uma **[mensagem](primariaenergia.com/contact.html)**
