@@ -10,16 +10,18 @@ author: Caio Martins
 
 
 Um sistema solar fotovoltaico sempre gera muitas dúvidas de como ele é feito, como ele consegue por meio do sol gerar energia. Muitas pessoas acham que é mágica ou algum truque ilícito para diminuir a conta de luz em até 99%. Além disso, as pessoas que investem um valor considerável nele ficam receosas se aquele sistema com placas escondido no telhado vai realmente diminuir a conta de luz. 
-Além dessas outras dúvidas muito comuns são
-•	Eu tenho outras placas já no telhado eles também fazem isso
-•	Eu nunca mais vou ficar sem luz em casa
-•	É necessário fazer uma obra muito grande para instalar esse sistema
-•	A CEB ou a outra concessionária permite isso
-•	Posso vender essa energia
-
+Além dessas outras dúvidas muito comuns são:  
+  
+•	Eu tenho outras placas já no telhado eles também fazem isso  
+•	Eu nunca mais vou ficar sem luz em casa  
+•	É necessário fazer uma obra muito grande para instalar esse sistema  
+•	A CEB ou a outra concessionária permite isso  
+•	Posso vender essa energia  
+  
 Então vamos respondê-las uma a uma e mostrar em detalhes como funciona esse sistema “mágico” que deixará você sem se preocupar mais com a conta de luz e suas subidas. Vamos primeiro as dúvidas, caso essa não seja nenhuma das suas dúvidas pode pular já para o funcionamento do sistema.
 
 <h2> Eu tenho outras placas já no telhado elas também fazem isso? </h2>
+  
 Se você tem outras placas no telhado, primeiramente você está de parabéns porque você já está usando energia solar e vendo uma economia na sua conta de luz. Porém eu tenho uma notícia ruim, esse sistema é muito bom, mas ele não é o sistema solar fotovoltaico. As placas que você tem em casa eles aquecem a água e armazenam em um reservatório para que você não precise usar energia elétrica para tomar um banho quente.
 A energia solar fotovoltaica tem um princípio totalmente diferente, ele gera a energia elétrica e distribui para sua casa e “guarda” o excedente na concessionária, que depois lhe compensará. Com isso, sua fatura irá vir apenas com o valor mínimo necessário.
 Como você percebeu apesar de os dois sistemas representarem sistemas de energia solar, eles têm princípios diferentes logo um não pode fazer a mesma coisa que o outro faz. Com isso, vem uma segunda pergunta importante, **qual dos dois é melhor?** . A resposta são os dois, apesar de poder ter chuveiros elétricos e usar a energia solar fotovoltaica para gerar energia para esse chuveiro, usar a energia solar para aquecer a água e a fotovoltaica apenas para os outros equipamentos elétricos faz muito mais sentido financeiramente. 
