@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "Como funciona um sistema de energia solar fotovoltaica"
+description: Todos sempre temos algumas dúvidas sobre o funcionamento de um sistema de energia solar fotovoltaica, entenda tudo sobre ele[...]
+date: 2018-11-01
+categories: Energia Elétrica
+img: funcenergiasolar.png
+author: Caio Martins
+---
+
+
+Um sistema solar fotovoltaico sempre gera muitas dúvidas de como ele é feito, como ele consegue por meio do sol gerar energia. Muitas pessoas acham que é mágica ou algum truque ilícito para diminuir a conta de luz em até 99%. Além disso, as pessoas que investem um valor considerável nele ficam receosas se aquele sistema com placas escondido no telhado vai realmente diminuir a conta de luz. 
+Além dessas outras dúvidas muito comuns são
+•	Eu tenho outras placas já no telhado eles também fazem isso
+•	Eu nunca mais vou ficar sem luz em casa
+•	É necessário fazer uma obra muito grande para instalar esse sistema
+•	A CEB ou a outra concessionária permite isso
+•	Posso vender essa energia
+
+Então vamos respondê-las uma a uma e mostrar em detalhes como funciona esse sistema “mágico” que deixará você sem se preocupar mais com a conta de luz e suas subidas. Vamos primeiro as dúvidas, caso essa não seja nenhuma das suas dúvidas pode pular já para o funcionamento do sistema.
+
+<h2> Eu tenho outras placas já no telhado elas também fazem isso? </h2>
+Se você tem outras placas no telhado, primeiramente você está de parabéns porque você já está usando energia solar e vendo uma economia na sua conta de luz. Porém eu tenho uma notícia ruim, esse sistema é muito bom, mas ele não é o sistema solar fotovoltaico. As placas que você tem em casa eles aquecem a água e armazenam em um reservatório para que você não precise usar energia elétrica para tomar um banho quente.
+A energia solar fotovoltaica tem um princípio totalmente diferente, ele gera a energia elétrica e distribui para sua casa e “guarda” o excedente na concessionária, que depois lhe compensará. Com isso, sua fatura irá vir apenas com o valor mínimo necessário.
+Como você percebeu apesar de os dois sistemas representarem sistemas de energia solar, eles têm princípios diferentes logo um não pode fazer a mesma coisa que o outro faz. Com isso, vem uma segunda pergunta importante, **qual dos dois é melhor?** . A resposta são os dois, apesar de poder ter chuveiros elétricos e usar a energia solar fotovoltaica para gerar energia para esse chuveiro, usar a energia solar para aquecer a água e a fotovoltaica apenas para os outros equipamentos elétricos faz muito mais sentido financeiramente. 
+E você ficou interessado em saber mais sobre a diferença entre os dois, leia nosso texto de **[diferença fotovoltaica e aquecimento solar]( http://primariaenergia.com/blog/diferenc-a-aquecimento-fotovoltaica/)** .  
+  
+<h2> Eu nunca vou ficar sem luz em casa com esse sistema fotovoltaico? </h2>
+
+A resposta é depende para essa pergunta. Existem 3 tipos de sistema de energia solar fotovoltaico. Um sistema off-grid no qual você produz sua própria energia e armazena ela em baterias. Nesse sistema você não está ligado na rede da CEB ou de sua concessionária, com isso seu único sistema de backup são as baterias, logo acabando a luz ou não isso não interfere no seu sistema. Essa opção para quem tem energia elétrica fornecida pela CEB normalmente é economicamente menos viável pela troca das baterias de 4 em 4 anos.
+Caso a escolha seja por um sistema ON-GRID, no qual o sistema fotovoltaico é integrado com a rede de energia, quando acabar a luz fornecida pelo sistema elétrica seu sistema solar também desligará e você ficará sem energia em casa. Isso acontece porque você ao produzir energia e não consumir ela toda injeta na rede sua energia, caso um funcionário esteja fazendo manutenção nesse sistema achando que ele está desligado acabará levando um choque. Dessa forma, todo sistema para ser aprovado precisa ter essa função que o automaticamente lhe desliga em caso de problemas.
+Ainda temos uma última opção que está começando a ganhar espaço no mercado que são os sistemas híbridos, os quais armazenam a energia em baterias, mas também são ligados na rede de energia. Com isso, ao não ter energia na sua casa ele irá buscar essa energia das baterias que ficam de reserva.
+
+<h2> É necessário fazer uma obra muito grande para instalar esse sistema </h2>
+
+	Essa é uma das várias vantagens do sistema fotovoltaico, não é necessária nenhuma grande obra para realizar o serviço. As placas são colocadas no telhado, delas vão descer fios para o inversor e do inversor para o quadro elétrico. O máximo que é necessário são pequenos furos na parede para passagens dos cabos. Normalmente as instalações são ainda feitas em instalações aparentes sem ter que quebrar paredes, facilitando assim a manutenção e evitando a sujeira e trabalho de quebrá-las.
+	A instalação em si de uma casa média também tem outra grande vantagem em termos de obra, elas são muita rápidas de serem instaladas. Em no máximo uma semana um sistema já está todo instalado e esperando o aval da concessionária para ligá-lo. Dependendo da facilidade do telhado e do número de placas que o serviço dure apenas um dia, não incomodando os moradores da casa.
+	  
+<h2> A CEB permite isso? </h2>
+
+	A CEB não só permite isso como tem todo um processo criado por ela para que se possa instalar esse sistema. Desde de 2012 a ANEEL, regulamentou a ligação da energia solar e viu seu crescimento aumentar exponencialmente, tanto que em 2015 ela soltou nova regulação aumentando as vantagens de se colocar energia solar em casa. Apesar de parecer que esse é um processo que as concessionárias não gostam, eles ajudam elas sim. Com as pessoas produzindo sua própria energia, a concessionária não precisa comprar energia elétrica de termelétricas que são mais caras, já que terá essa energia já disponível em sua rede. No próprio site da **[CEB]( http://www.ceb.com.br/)** ela mostra qual o passo a passo por meio de normas para ter essa vantagem em casa. 
+	Lembrando que todo o processo precisa de um engenheiro sério e responsável para fazer seu projeto, execução e responsabilização do mesmo. Sempre que for fazer orçamentos verifique a reputação da empresa que está lhe oferecendo o serviço, não vale a pena pagar por um serviço um pouco mais barato e depois ter dores de cabeça no futuro, já que esse sistema quando projetado de forma correta tem vida útil de mais de 25 anos.
+	Ficou interessado em ter uma empresa séria e com um preço em conta fazendo um orçamento para você? Entre em contato com a **[Primária Energia]( http://primariaenergia.com/contact.html)** 
+
+<h2> Posso vender essa energia? </h2>
+
+	Vender energia elétrica no Brasil é algo permitido apenas para distribuidoras de energia, logo você não pode vender energia elétrica. Entretanto, é possível ao ter um espaço grande no telhado ou ter uma fazenda com espaço disponível, gerar energia suficiente para abater todas as contas de energia que pertençam a mesma concessionária e estejam no mesmo CPF ou em um mesmo CNPJ. 
+	Para se ter as contas no mesmo CPF basta colocar a sua conta, de seu escritório, casas ou outros imóveis no mesmo nome da pessoa que tem a fazenda. Ao entrar com o projeto é possível indicar qual percentual da energia gerada vai para cada lugar. 
+	Outra situação que vem crescendo muito é a criação de condomínios solares ou cooperativas solares. Nesse tipo de sistema junta-se várias contas de energia dentro desse condomínio podendo abater a conta de todos os signatários. Essa forma é interessante já que ao comprar em menor quantidade diminui o custo. Além disso, para pessoas que tenham mais dinheiro pode-se construir um sistema para uma cooperativa e “vender” cotas para os cooperados por um preço menor que o da concessionária, porém com um lucro baseado na construção da usina. Com isso, além de ter sua conta abatida também poderia lhe render uma ótima de investimento.
+
+<h2> Partes de um sistema solar fotovoltaico </h2>  
+   
+	Agora que você já entende as principais dúvidas sobre um sistema solar fotovoltaico vamos lhe mostrar como ele é divido e qual a importância de cada para o perfeito funcionamento do sistema.   
+	  
+<h3> Módulos fotovoltaicos </h3>  
+   
+	As famosas placas solares são as principais responsáveis pela geração de energia. Dentro de cada placa existem mais de 60 células fotovoltaicas. Cada célula ao receber a irradiação vinda do sol irá gerar uma corrente elétrica. A união dessas células faz essa corrente tornar um valor necessário o suficiente para gerar energia elétrica para a casa. Essas placas são ligadas em conjuntos de forma a aumentar ainda mais essa corrente elétrica e a tensão do sistema. 
+	Os módulos mesmo em dias de chuva ou nublados geram um pouco de energia, já que ainda existe uma pequena irradiação. Além disso, outro ponto interessante que dias frios e com o clima aberto aumentam a geração. O excesso de calor pode diminuir o rendimento das células fotovoltaicas.  
+	  
+<h3> Inversores </h3>  
+  
+	Os inversores são considerados o cérebro do sistema. Em geral em sistemas residenciais menores é colocado apenas um inversor. Ele precisa ficar em lugar protegido da chuva e com relativa proximidade ao quadro elétrico ou perto de alguma entrada de energia.
+	Eles são responsáveis entre outras coisas pela conversão da energia gerada pelas placas que são em corrente contínua para corrente alternada, que é a forma que nossas casas são alimentadas pela rede da CEB. Além dessa função de conversão da energia, o inversor que sincroniza o seu sistema com a rede, que liga e desliga o sistema quando necessário e armazena dados necessários para sua manutenção.
+	Bons inversores tem um sistema de monitoramento online na qual é possível saber todos os parâmetros elétricos do sistema, além de sua produção diária, e quanto você já economizou de dinheiro com o sistema. Com esse monitoramento observa-se facilmente se existe algum problema com o sistema ou se ele está gerando tudo o que foi prometido pelo instalador.
+  
+<h3> String Box </h3>
+  
+	A String box é praticamente um quadro elétrico específico para a fotovoltaica. Ele tem um design um pouco mais bonito do que um quadro elétrico e nele ficam todos os sistemas de proteção do sistema. 
+	Uma das proteções que existem na string box são os fusíveis da parte das placas. Esses fusíveis são colocados entre as placas e o inversor. Em caso de um curto circuito eles se rompem protegendo o sistema de maiores problemas. Outro dispositivo presente na string box são os Dispositivos de Proteção contra Surtos (DPS´s). Existe um DPS tanto entre o inversor e as placas, quanto entre os inversores e o quadro elétrico. Esses dispositivos são usados para casos onde ocorra algum surto proveniente de descargas atmosféricas ele irá proteger os equipamentos de algum dano mais sério.
+	Por fim, também existe a chave seccionador que pode estar ou não na string box. Em alguns casos elas são interligadas diretamente no inversor. Elas são usadas para ligar e desligar o inversor quando uma manutenção se faz necessária.
+  
+<h3> Relógio bidirecional </h3>  
+  
+	A última parte do sistema é o relógio de energia. Esse relógio é fornecido gratuitamente pela concessionária de energia após a aprovação do sistema. O medidor que existe nas casas mede apenas o quanto você consome todo mês e depois é cobrado esse valor na conta de luz.  Com a aprovação do sistema solar o novo relógio de energia irá marcar não só o quanto consumido de energia, mas também o quanto foi injetado de energia na rede pelo seu sistema. Com isso, ao final do mês na sua conta virão dois valores, o quanto você consumiu de energia e o quanto você colocou de energia no sistema da CEB. Esses valores irão se subtrair e você pagará apenas a diferença deles. 
+Ficou interessado para ter um sistema solar fotovoltaico em sua casa ou mesmo para saber um pouco mais sobre eles? Não deixe de acessar a página da **[Primária Energia](http://www.primariaenergia.com)** 
+
+
+
+
