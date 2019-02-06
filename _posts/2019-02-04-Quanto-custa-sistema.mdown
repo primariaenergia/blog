@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Quanto custa colocar energia solar"
+description: Descubra quanto é o preço de um sistema solar e se vale a pena colocar
+date: 2019-04-02
+categories: Energia Elétrica
+img: quantocusta.png
+author: Caio Martins
+---
+
+
+<h2>Quanto custa colocar um sistema solar</h2>
+
+•	Tempo de leitura: 3 min
+•	Quais fatores interferem no preço do sistema
+•	Qual o histórico dos preços
+•	Comprar agora ou esperar?
+•	Quanto custa em média o preço hoje de um sistema
+•	A energia solar é mais barata que a da rede?
+
+O valor para instalar um sistema solar é a maior dúvida de todos os clientes que já ouviram falar nessa tecnologia. Esse preço vai depender de diversos fatores, que também lhe ajudam a tomar a decisão se vale um custo maior ou não. Nesse texto vamos mostrar todos os fatores que podem fazer o preço subir ou diminuir em uma instalação.  
+ O fator que todos já esperam é que a flutuação do dólar afeta no preço da energia solar. Isso ocorre por dois motivos:  
+Primeiro, caso o fornecedor de materiais seja de outro país seu preço está intrinsecamente ligado ao dólar, já que ele é vendido na moeda americana. Ao comprar um material de fora, o preço dele será igual ao valor do dólar na chegada desse produto ao Brasil. Por exemplo, se um fornecedor brasileiro compra uma placa por 150 doláres, caso o dólar na hora da chegada do produto seja 4 reais, o valor será R$600,00. Se o dólar tiver 5 reais, o preço já subiria para R$750,00. Como isso vale para todo sistema é um fator muito importante para a composição final do sistema.  
+Segundo, caso a empresa tenha uma montadora de placas no Brasil como é o caso da Canadian Solar ou da Globo, mesmo assim, elas têm de importar as células fotovoltaicas que não produzidas aqui, logo cai no mesmo caso do primeiro exemplo, da compra em dólar.   
+Outro fator muito importante na composição de preço de um sistema de energia solar é a qualidade dos materiais utilizados nas instalações. Existem diversos tipos de placas, inversores, cabos, entre outros. Cabe ao cliente e a empresa instaladora qual o tipo de material que será instalado. Vale ressaltar que para um projeto poder ser aprovada pelas concessionárias elas exigem que as placas tenham no mínimo um selo do INMETRO.   
+Por fim, outro fator que influencia bastante o preço de uma instalação está diretamente ligada ao tamanho/complexidade do lugar que será instalado o sistema. Sistemas menores, normalmente, tem um custo unitário maior que projetos maiores. Além disso, fatores como o tipo do telhado, dificuldade para acessar a rede, influenciam no preço final.  
+  
+O preço da energia solar vem caindo com o decorrer dos anos, principalmente pela difusão da tecnologia e seu próprio avanço que faz baratear os custos do material. No início essa tecnologia chegou a custar mais de 70 dólares o Watt-pico, hoje esse valor está abaixo dos 30 centavos de dólares o watt pico. Aqui no Brasil, o sistema começou a ter uma queda mais expressiva dos preções, e consequentemente, um maior número de adeptos, com as resoluções da ANEEEL de 2012 e 2015 que permite gerar energia solar e exportá-la para a rede elétrica. Com o aumento do número de interessados, aumentou-se o número de empresas que realizam o serviço e com isso, diminui-se o preço final para o consumidor.
+Apesar da grande queda, o preço do sistema ainda deve cair mais nos próximos anos, mas não de forma tão acentuada igual foi em seu início. O relatório da IRENA (INTERNATIONAL RENEWABLE ENERGY AGENCY) acredita que o preço de um sistema solar cairá, em média 5,9% até o ano de 2025. É com base nessas notícias que muitas pessoas ainda decidem por esperar para comprar um sistema de energia solar como mostra o texto **[Porque não comprar energia solar agora](http://primariaenergia.com/blog/porque-nao-energia-solar/)**.  
+  
+Mas tendo em vista que esse preço está caindo, será que vale a pena investir em energia solar fotovoltaica agora ou esperar mais um tempo?
+Essa pergunta é facilmente respondida se colocarmos os preços da energia e do sistema na ponta do lápis. Uma pessoa que paga hoje em média R$600,00 em sua conta de luz, precisa de um investimento em torno de R$30.000,00 nos dias atuais. Caso ele supere as expectativas e tenha uma queda de 10% no próximo ano ela terá economizado para o consumidor um total de R$3.000,00, porém ela continuará pagando durante esses doze meses os mesmos R$600,00 para a distribuidora. Dessa forma, ao final de 12 meses ele terá gasto R$6000,00, descontando os R$100,00 que é de taxa mínima. Com isso, mostra-se que esperar gasta mais do que já investir no sistema, pois o preço realmente cairá, porém em uma taxa menor do que o preço pago por sua conta de luz mensalmente.  
+  
+O preço retratado acima, representa um sistema médio de uma casa de alto padrão brasiliense. O investimento para esse sistema se mantém constante em sistema de outros tamanhos. Por exemplo, uma casa pequena para duas pessoas precisaria de um investimento de R$10.000, enquanto uma mansão que gaste mais de R$1000 reais de conta de energia, o investimento na faixa dos R$50.000,00. Esses valores podem de variar de acordo com os aspectos que já abordamos nesse texto, podendo deixar esse montante um pouco maior ou um pouco menor.
+Colocar um sistema fotovoltaico em casa, nada mais é que comprar a energia elétrica que você vai gerar nos próximos 30 anos de uma vez só. Com isso, a melhor maneira de descobrir se o sistema fotovoltaico vale a pena é calcular quanto ficaria o preço por kWh dessa compra de energia antecipada e compará-la com o preço da tarifa de luz hoje em dia. 
+Hoje o preço da tarifa em Brasília fica na média de R$0,75 o preço do kWh. Fazendo o cálculo para o mesmo exemplo dado acima, em 30 anos temos 360 meses. Para saber o quanto custará a energia no futuro pegamos os 700 kWh produzidos por mês e multiplicamos por 360, com isso, o total de energia “adquirido” será de 252.000 kWh. Por fim, pegamos os R$30.000,00 e dividimos por toda essa energia gerada, o que nos mostra um valor de R$ 0,12, o qual será preço que do custo da energia comprando ela com esse investimento.
+Por todos esses motivos e outros motivos como os detalhados em outros textos como o do **(IPTU verde)[ http://primariaenergia.com/blog/iptu-verde/]** , nos mostra que o custo da fotovoltaica está em um ótimo momento para se fazer um investimento e que a cada dia que passamos estamos perdendo mais dinheiro, que poderia estar sendo usado para outros fins.  
+  
+Caso tenha ficado interessado não deixe de entrar em **(contato)[ http://primariaenergia.com/contact.html] conosco para conhecer um pouco mais sobre o sistema.
+
+
+
+
+
+
