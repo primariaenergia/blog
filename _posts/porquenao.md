@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: info
 title:  "[INFOGRÁFICO]Porque não comprar um sistema fotovoltaico?"
 description: Entenda porque instalar um sistema fotovoltaico na sua casa é uma boa ideia
 date: 2019-02-14
