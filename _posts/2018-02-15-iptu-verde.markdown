@@ -21,3 +21,5 @@ Além do Distrito Federal, diversas outras cidades no Brasil e no mundo já impl
 Outras cidades que também participam do desconto são Curitiba(PR), Guarulhos(SP) e São Bernardo do Campo(SP), o que indica uma expansão dos benefícios para aqueles que buscam ajudar o mundo ao tomar medidas sustentáveis. O Brasil continua seus esforços em se tornar um país ecológico e responsável. 
 
 Tem interesse em conseguir um desconto em um dos maiores impostos brasileiros e salvar o mundo, além de diminuir a conta de luz? Então venha conversar com a Primária sobre a possibilidade de instalar um sistema de energia solar no seu imóvel.
+
+Quer saber mais? Se você gostou desse texto, você também vai gostar do **[nosso guia grátis da conta de luz.](https://conteudo.primariaenergia.com/conta-de-luz)**. Nele tem várias informações sobre a conta de luz, IPTU verde e como economizar.
