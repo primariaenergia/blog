@@ -12,14 +12,14 @@ Qual são as principais diferenças entre aquecimento solar e geração de energ
 
 É muito comum confundir o aquecimento solar e a geração de energia fotovoltaica, já que são duas formas de aproveitamento da luz solar. Além disso, as duas tem uma aparência muito similar, uma vez que ambas possuem placas instaladas em telhados de imóveis que absorvem a luz solar de formas diferentes. Eis as maiores diferenças entre elas: 
 
-Aquecimento Solar
+Aquecimento Solar  
 1 - Usa a irradiação solar para aquecer a água que circula em seu interior.  
 2 - Possui um reservatório térmico para manter a água aquecida.  
 3 - É pesado, pois a água precisa passar por dentro para ser aquecida.  
 4 - Se for para uso na área interna da casa, como por exemplo chuveiros, será necessário instalar novos encanamentos para separar a água quente da fria.  
 5 - A economia na conta de energia só será referente a diminuição do uso dos sistemas de aquecimento de água, como chuveiros.
 
-Geração de Energia Fotovoltaica
+Geração de Energia Fotovoltaica  
 1 - A energia solar é transformada em energia elétrica pelos módulos fotovoltaicos.  
 2 - Pode ou não possuir uma forma de armazenamento de energia, como uma bateria, dependendo das necessidades do cliente.  
 3 - É leve.  
