@@ -76,6 +76,8 @@ Por fim, também existe a chave seccionador que pode estar ou não na string box
 A última parte do sistema é o relógio de energia. Esse relógio é fornecido gratuitamente pela concessionária de energia após a aprovação do sistema. O medidor que existe nas casas mede apenas o quanto você consome todo mês e depois é cobrado esse valor na conta de luz.  Com a aprovação do sistema solar o novo relógio de energia irá marcar não só o quanto consumido de energia, mas também o quanto foi injetado de energia na rede pelo seu sistema. Com isso, ao final do mês na sua conta virão dois valores, o quanto você consumiu de energia e o quanto você colocou de energia no sistema da CEB. Esses valores irão se subtrair e você pagará apenas a diferença deles. 
 Ficou interessado para ter um sistema solar fotovoltaico em sua casa ou mesmo para saber um pouco mais sobre eles? Não deixe de acessar a página da **[Primária Energia](http://www.primariaenergia.com)** 
 
+Quer saber mais? Preparamos esse **[guia completo da fotovoltaica.](https://conteudo.primariaenergia.com/e-book-guia-da-fotovoltaica)**. Aqui você vai encontrar mais informações sobre o valor do sistema, as diferentes formas de aproveitar a luz do sol e como ter um em casa.Aproveite!
+
 
 
 
