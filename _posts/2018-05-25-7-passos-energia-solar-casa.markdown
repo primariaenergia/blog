@@ -18,7 +18,7 @@ A conta pode ser mandada nos mandando uma mensagem "**[orçamento solar](http://
 
 A conta de luz conta conta com diversas partes, mas o mais importante para determinar o número de placas fotovoltaicas e qual o seu tamanho é o histórico de consumo. Nele você consegue prever um sistema totalmente adequado para o morador, fazendo com que ele pague o mínimo de energia durante todo o ano.  
   
-Nesse caso o sistema é projetado para gerar créditos em alguns meses (créditos que podem ser usados em até 5 anos, como indica a lei da Aneel disponibilizada no site da  **[aneel](http://www2.aneel.gov.br/cedoc/ren2015687.pdf)**) e gastar mais em outros meses, fazendo com que o sistema nem fique muito caro e o cliente sempre paga apenas pelo mínimo exigido.
+Nesse caso o sistema é projetado para gerar créditos em alguns meses (créditos que podem ser usados em até 5 anos, como indica a lei disponibilizada no site da  **[aneel](http://www2.aneel.gov.br/cedoc/ren2015687.pdf)**) e gastar mais em outros meses, fazendo com que o sistema nem fique muito caro e o cliente sempre paga apenas pelo mínimo exigido.
 
 ## 2)Pré projeto de sua energia solar
  A partir da sua conta de luz, também é possível analisar a localização geográfica do imóvel e o quanto de irradiação solar que a área recebe.  
