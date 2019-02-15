@@ -60,3 +60,5 @@ Exemplo: Se uma pessoa gasta de 1000 Kwh horas por mês, com o sistema ela consu
 Esse processo é simples e o mais rápido possível, para garantir que o cliente não se estresse em momento algum. Depois de tudo isso, tudo a se fazer é aproveitar a economia. O investimento inicial é 100% revertido para o cliente em cerca de cinco anos e daí para frente só há lucros. Após esses cinco anos o sistema ainda tem garantia de produção de mais 20 anos, gerando muitos lucros para quem o possui.    
 Além disso, a manutenção é mínima ao longo dos anos. Aproveite essa incrível oportunidade de investimento e tome esse passo junto a Primária!
 Caso ainda tenha dúvidas se esse sistema é ou não para você mande-nos uma mensagem em nosso **[site](http://www.primariaenergia.com)** ou nos mande um whatsapp no telefone 99970 1994, que ficaremos felizes em te ajudar!
+
+Quer saber mais? Preparamos esse **[guia completo da fotovoltaica.](https://conteudo.primariaenergia.com/e-book-guia-da-fotovoltaica)**. Aqui você vai encontrar mais informações sobre o valor do sistema, as diferentes formas de aproveitar a luz do sol e como ter um em casa.Aproveite!
