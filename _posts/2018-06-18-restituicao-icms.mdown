@@ -21,7 +21,7 @@ Para fazer o cálculo da restituição é necessário obter todas as contas de 5
 Com os valores é necessário multiplicar por 25% que corresponde ao valor de ICMS pago. Por exemplo, caso na conta se tenha pago R$10,00 de transmissão, consegue uma restituição de R$2,50. Precisa fazer a mesma conta para os valores de distribuição e encargos setoriais. Por fim, precisa fazer a correção monetária. Essa correção normalmente é calculada com base no INPC. Como ainda não é totalmente decidido o valor na hora de fazer o cálculo, pode-se fazer sem atualização monetária e esperar esse cálculo pelo juiz.
 Para facilitar essas contas fizemos uma planilha exclusiva para você, a qual pode ser baixada no link abaixo.  
    
- **[Planilha ICMS](http://primariaenergia.com/icms).**
+ **[Planilha ICMS](https://conteudo.primariaenergia.com/fdd2cab38dd594ac669e).**
   
 Qualquer dúvida é só entrar em **[contato](http://primariaenergia.com/contact)** conosco que ficaremos felizes em ajudar.
 
