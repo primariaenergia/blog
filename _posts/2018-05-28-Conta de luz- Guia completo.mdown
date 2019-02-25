@@ -76,7 +76,13 @@ A CEB muda o relógio e marca o quanto foi consumido em cada faixa de horário, 
   
 Para moradores que usam pouca energia nesse horário, essa pode ser uma ótima forma de economizar o dinheiro no fim do mês. Nós da Primária estamos ajudando alguns clientes que irão reduzir em R$200,00 mensais o valor de sua conta, com medidas para adotar essa nova tarifa.
 Caso precise de ajuda não hesite em nos mandar uma mensagem!
-Além dessas duas formas tarifárias, a conta do tipo B conta com vários outros atributos que compõe a tarifa final.   
+Além dessas duas formas tarifárias, a conta do tipo B conta com vários outros atributos que compõe a tarifa final.  
+
+<div role="main" id="fotovoltaica-9597695d2315975f3c68"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('fotovoltaica-9597695d2315975f3c68-html', 'UA-113322286-1').createForm();
+</script>
   
 
 ## Atributos da minha conta de energia  
@@ -146,4 +152,11 @@ Mesmo assim, o sistema fotovoltaico não deixa de ser uma excelente opção para
 Quer saber mais? Se você gostou desse texto, você também vai gostar do **[nosso guia grátis da conta de luz.](https://conteudo.primariaenergia.com/conta-de-luz)**. Nele tem várias informações sobre a conta de luz, IPTU verde e como economizar.
 
 Pronto! Agora você já sabe tudo sobre sua conta de energia e pode estar preparado para suas flutuações, além de saber para onde vai o dinheiro que você paga em sua conta de energia. Caso queira saber como reduzi-la nos mande uma [mensagem](http://primariaenergia.com/contact)
+
+
+<div role="main" id="fotovoltaica-9597695d2315975f3c68"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('fotovoltaica-9597695d2315975f3c68-html', 'UA-113322286-1').createForm();
+</script>
 
