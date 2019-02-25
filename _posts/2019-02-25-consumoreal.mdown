@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "[INFOGRÁFICO]Como descobrir o seu consumo real na conta de luz"
+description: Descubra aqui tudo o que você precisa saber para entender o seu consumo de energia
+date: 2019-25-02
+categories: Energia Elétrica
+img: consumoreal.png
+author: Jéssica Leite
+---
+
+
+<h2>Como descobrir o seu consumo real na conta de luz</h2>
+  
+•	Tempo de leitura : 2 minutos
+•	Alteração no consumo    
+•	Valor na conta de luz
+•	Entendendo o consumo 
+
+A conta de luz chega todo mês, e geralmente, o único valor que o consumidor presta atenção é o valor final. Isso não gera muito problema quando as contas chegam todos os meses o mesmo preço, mas quando ocorre alguma alteração, descobrir o que causou esse aumento pode ser uma tarefa complicada. 
+
+No caso de alguma alteração mais drástica, como o caso da instalação do sistema fotovoltaico, além de a conta ficar retida, os valores de consumo que aparecem na conta não condizem com o valor que foi de fato consumido na sua residência. Ele diz respeito apenas ao que foi fornecido pelo sistema de distribuição da concessionária, enquanto parte do consumo nem chega a acessar a rede, e é consumido instantaneamente, no momento que é gerado.  
+
+É importante notar que, ao instalar um sistema, você passa a ter dois consumos: o instantâneo, que é quando o sistema está gerando energia e essa energia está sendo consumida simultaneamente, e o consumo que ocorre à noite, por exemplo, quando as placas não estão gerando, mas ainda assim ocorre o fornecimento de energia pela CEB.
+
+Para entender o consumo sem a fotovoltaica é bem mais simples. Como não há geração, também não há consumo instantâneo, e, portanto, o consumo que aparece na conta é igual ao consumo da residência. No entanto, a conta ainda possui vários valores que não dizem respeito apenas ao consumo. 
+
+Pensando nisso, preparamos esse infográfico que explica alguns dados da conta, e, principalmente, o que ocorre quando você passa a ter fotovoltaica na sua casa. Além disso, ele contém vários detalhes sobre a conta que muitas vezes passam despercebidos,mas que podem ser muito úteis para entender o seu consumo.
+
+
+![INFOGRÁFICO:como descobrir o consumo real](https://d335luupugsy2.cloudfront.net/cms/files/68769/1551104385Infografico-_Atila_1.png)
+
+
+Quer saber mais? Preparamos esse **[guia completo da fotovoltaica.](https://conteudo.primariaenergia.com/e-book-guia-da-fotovoltaica)**. Aqui você vai encontrar mais informações sobre o valor do sistema, as diferentes formas de aproveitar a luz do sol e como ter um em casa.Aproveite!
+
+
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script> <script type="text/javascript"> new RDStationForms('fotovoltaica-9597695d2315975f3c68-html', 'UA-113322286-1').createForm(); </script>
