@@ -29,3 +29,10 @@ Geração de Energia Fotovoltaica
 Os dois sistemas oferecem amplos benefícios ao consumidor e ao meio ambiente. O destaque vai para a geração de energia fotovoltaica, que apesar de ter uma tecnologia mais cara, é tão eficiente que retorna o valor do investimento inicial em apenas cinco anos. Interessado por essas formas de aproveitar a luz do sol e aumentar sua qualidade de vida? Entre em contato com a Primária, teremos o maior em ajudar!
 
 Quer saber mais? Preparamos esse **[guia completo da fotovoltaica](https://conteudo.primariaenergia.com/e-book-guia-da-fotovoltaica)**. Aqui você vai encontrar mais informações sobre o valor do sistema, as diferentes formas de aproveitar a luz do sol e como ter um em casa.Aproveite!
+
+
+<div role="main" id="fotovoltaica-9597695d2315975f3c68"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('fotovoltaica-9597695d2315975f3c68-html', 'UA-113322286-1').createForm();
+</script>
