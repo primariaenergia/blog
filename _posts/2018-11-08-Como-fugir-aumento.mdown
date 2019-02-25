@@ -58,7 +58,13 @@ A criação de uma usina não é muito diferente de instalar um sistema no próp
 No entanto, apesar de o investimento inicial ser relativamente alto, já existem diversos incentivos para que sejam criadas mais usinas. **[Caixa econômica e BNDES](https://www.enelx.com.br/blog/2016/11/conheca-linhas-financiamento-sistema-solar/ )**, por exemplo, já possuem financiamentos próprios voltados para a criação de sistemas fotovoltaicos.Os bancos podem financiar até 80% das usinas, dependendo da área do terreno reservada para a usina. 
 O consumo de energias renováveis no Brasil já é mais alto do que no resto do mundo. A diversificação desse consumo em diversos tipos de energia pode suprir a demanda, além de evitar situações de racionamento de energia, por exemplo. A iniciativa de gerar energia pode ser uma fonte de lucro e de contribuição para a sociedade, bem como uma forma de consumir menos recursos ambientais.
 É possível economizar com energia e gerar desenvolvimento. As soluções estão disponíveis, basta iniciativa para instalar o sistema. Os consumidores que tiverem interesse em gerar a própria energia já têm diversos recursos e, para isso, basta um pouco de preocupação com relação a um modelo mais ecológico de desenvolvimento. 
-	
+
+
+<div role="main" id="fotovoltaica-9597695d2315975f3c68"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('fotovoltaica-9597695d2315975f3c68-html', 'UA-113322286-1').createForm();
+</script>
 
 	
 
