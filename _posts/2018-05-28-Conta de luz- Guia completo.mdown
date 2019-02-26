@@ -149,9 +149,4 @@ Quer saber mais? Se você gostou desse texto, você também vai gostar do **[nos
 Pronto! Agora você já sabe tudo sobre sua conta de energia e pode estar preparado para suas flutuações, além de saber para onde vai o dinheiro que você paga em sua conta de energia. Caso queira saber como reduzi-la nos mande uma [mensagem](http://primariaenergia.com/contact)
 
 
-<div role="main" id="fotovoltaica-9597695d2315975f3c68"></div>
-<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
-<script type="text/javascript">
-  new RDStationForms('fotovoltaica-9597695d2315975f3c68-html', 'UA-113322286-1').createForm();
-</script>
 
