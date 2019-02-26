@@ -78,11 +78,6 @@ Para moradores que usam pouca energia nesse horário, essa pode ser uma ótima f
 Caso precise de ajuda não hesite em nos mandar uma mensagem!
 Além dessas duas formas tarifárias, a conta do tipo B conta com vários outros atributos que compõe a tarifa final.  
 
-<div role="main" id="fotovoltaica-9597695d2315975f3c68"></div>
-<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
-<script type="text/javascript">
-  new RDStationForms('fotovoltaica-9597695d2315975f3c68-html', 'UA-113322286-1').createForm();
-</script>
   
 
 ## Atributos da minha conta de energia  
