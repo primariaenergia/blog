@@ -12,6 +12,12 @@ author: Caio Martins
 As eleições estão se aproximando e existem muitas pessoas em dúvida sobre quem votar, ou até mesmo sem estabelecer um critério claro de porquê votar em algum candidato.  A Primária resolveu então analisar todos os principais candidatos a Presidente da República com base em suas propostas para energia solar, energias renováveis e setor elétrico brasileiro, para termos uma base de comparação nessa área. A análise consiste em avaliar se os candidatos citam esses pontos e se tem propostas efetivas para essas áreas. 
 Por isso, para quem ainda não tem um candidato definido para alguns dos cargos e considera que o crescimento desse setor é algo importante vale a pena conferir o texto abaixo e tirar suas conclusões. O texto citará cada um dos candidatos e suas principais propostas.
 
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
+
 <H2>Candidatos à Presidência da República</H2>
 
 **Álvaro Dias**:  
@@ -45,4 +51,10 @@ As ideias de Marina com certeza, se realizadas podem ajudar muito o setor energ�
   
 Com esse resumo da proposta é possível que você eleitor consiga tirar suas próprias conclusões, pela ótica do setor energético e das energias renováveis quem é o candidato que mais se aproxima do que você espera para o futuro. Com certeza, esse pode não ser um ponto único a ser observado para eleger um Presidente do Brasil, mas pode servir como uma base para algum critério de desempate.  
 Esperamos ter ajudado e torcemos para que independente do candidato eleito ele traga avanços nessa área que é de grande importância para o Brasil.
+
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
   
