@@ -15,3 +15,9 @@ As empresas são atraídas por esse tipo de matriz energética não só pelo asp
 
 Um dos empreendimentos internacionais que viu a perspectiva positiva de economia foi a Google, que no fim de 2017 conseguiu garantir que toda a energia utilizada pela empresa fosse proveniente de fontes limpas. Os maiores investimentos foram em parques de energia solar e eólica. Ao longo dos últimos seis anos, os custos dessas energias caíram 80 e 60 por cento, respectivamente. Com um maior investimento nas tecnologias, o preço só tende a cair ao longo do tempo. 
 O Brasil tem um gigantesco potencial energético nesse tipo de energia, com um destaque para a solar. A localização geográfica do país no globo garante um dos maiores índices de irradiação de luz. A Primária incentiva as empresas que querem garantir tanto o benefício próprio quanto o do planeta a buscar os serviços oferecidos na área de instalação de painéis solares. Dessa forma, o empreendedor dá mais um passo para um futuro de crescimento responsável. 
+
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
