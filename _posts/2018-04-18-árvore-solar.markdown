@@ -19,3 +19,9 @@ As possibilidades de uso são extensas e vão desde de o fornecimento de ilumina
 É uma ferramenta que possui a oportunidade de fornecer benefícios tanto para a esfera pública quanto para a privada. Pode, por exemplo, ser utilizada em condomínios para diminuir as taxas pagas pelos custos de iluminação pública, além de servir de atrativo para os moradores ao incentivar a sustentabilidade. A valorização dos imóveis que possuem placas fotovoltaicas é marcante no mercado de vendas. Além disso, ela poderia ser utilizada pelo governo para oferecer serviços como Wi-Fi e carregamento de baterias em seus estabelecimentos.
 
 Interessado nessa forma inteligente e única de captar a energia solar? Entre em contato com a Primária e veja como essa pode ser uma alternativa não só econômica, mas também de um valor estético incrível. As placas fotovoltaicas geram tanta economia que seu investimento comprovadamente retorna a você em cerca de cinco anos! 
+
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
