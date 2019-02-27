@@ -16,6 +16,11 @@ A primeira forma de se proteger contra esse prejuízo em casa é ter toda sua in
 Mas e se eu tiver tudo isso e mesmo assim meu equipamento for queimado, eu posso fazer mais alguma coisa?
 É claro que sim, você pedir um ressarcimento da sua concessionária de energia, seguindo os seguintes passos:  
 
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
 
 **1.	Ligar no número 116 pedindo a vistoria da CEB**
 
@@ -35,3 +40,8 @@ Após isso, ela te pagará em até 20 dias
 Pronto! Agora você já sabe como ser ressarcido e não gastar mais seu dinheiro. Mas não deixe de se atentar sobre a qualidade de sua instalação.
 Se quiser saber como estão suas instalações é só nos mandar uma **[mensagem](http://primariaenergia.com/contact.html)** que ficaremos feliz em ajudar.
 
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
