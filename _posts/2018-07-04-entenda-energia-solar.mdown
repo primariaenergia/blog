@@ -13,6 +13,14 @@ A energia que chamamos de energia solar é aquela proveniente do sol e das energ
 E você quer descobrir como você também pode usufruir dessa energia?    
 Nesse texto mostraremos todas as opções para você poder aproveitar a energia solar da melhor maneira possível.  
 
+
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
+
+
 ## Vantagens e desvantagens de energia solar
  Pesquisadores indicam que por volta de 2050 ela será nossa principal fonte de energia. Mas, como tudo, a fonte de energia solar tem suas vantagens e desvantagens, mesmo sendo considerada essa energia do futuro. 
    
@@ -108,3 +116,9 @@ Alguma dessas aplicações que podem ser citadas são:
 Quer saber como ter um sistema desses em sua casa, não deixe de nos mandar uma mensagem ou comentar aqui embaixo que iremos responder com imenso prazer!
 
 Quer saber mais? Preparamos esse **[guia completo da fotovoltaica.](https://conteudo.primariaenergia.com/e-book-guia-da-fotovoltaica)**. Aqui você vai encontrar mais informações sobre o valor do sistema, as diferentes formas de aproveitar a luz do sol e como ter um em casa.Aproveite!
+
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
