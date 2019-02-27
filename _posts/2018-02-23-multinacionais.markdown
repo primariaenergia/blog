@@ -20,3 +20,9 @@ author: Primária Energia
  O terceiro lugar foi da Prologis, uma multinacional especializada em logística fundada em 2011, que atualmente é a maior dona de armazéns e centros de distribuições do mundo e possui atuação nas Américas, na Ásia e na Europa. Depois temos a Apple, queridinha do mundo por seus celulares e ipads, além de outras tecnologias. A nova sede da empresa na Califórnia, a Apple Campus 2, conta com uma gigantesca quantidade de módulos fotovoltaicos ao longo da sua estrutura. 
  
  Essas empresas, sucessos em suas áreas, não investem em energia solar à toa. Esse tipo de energia é muito lucrativa, revertendo o investimento inicial em poucos anos. Além disso, é uma forma de diminuir os efeitos do desenvolvimento industrial no planeta. Se você está interessado em investir em um crescimento sustentável para o seu negócio, entre em contato com a Primária. Você terá uma sistema fotovoltaico pronto em pouco tempo sem nenhum estresse. 
+
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
