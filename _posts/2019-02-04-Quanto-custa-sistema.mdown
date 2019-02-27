@@ -17,6 +17,13 @@ author: Caio Martins
 •	Comprar agora ou esperar?  
 •	Quanto custa em média o preço hoje de um sistema  
 •	A energia solar é mais barata que a da rede?  
+
+
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
   
 O valor para instalar um sistema solar é a maior dúvida de todos os clientes que já ouviram falar nessa tecnologia. Esse preço vai depender de diversos fatores, que também lhe ajudam a tomar a decisão se vale um custo maior ou não. Nesse texto vamos mostrar todos os fatores que podem fazer o preço subir ou diminuir em uma instalação.  
  O fator que todos já esperam é que a flutuação do dólar afeta no preço da energia solar. Isso ocorre por dois motivos:  
@@ -42,7 +49,11 @@ Caso tenha ficado interessado não deixe de entrar em **[contato]( http://primar
 
 Quer saber mais? Preparamos esse **[guia completo da fotovoltaica.](https://conteudo.primariaenergia.com/e-book-guia-da-fotovoltaica)**. Aqui você vai encontrar mais informações sobre o valor do sistema, as diferentes formas de aproveitar a luz do sol e como ter um em casa.Aproveite!
 
-
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
 
 
 
