@@ -11,6 +11,12 @@ author: Caio Martins
 
 Porque não comprar um sistema fotovoltaico é uma pergunta que muitas vezes nos fazemos aqui dentro da Primária. Todos nós sabemos que é um investimento muito rentável e que se paga em um tempo relativamente curto (4 anos) para o tempo que ele dura (25 anos). E por mais que pareça a melhor escolha possível ainda vemos que muitas pessoas ainda preferem gastar dinheiro com um carro do que com um sistema que gera energia, a título de comparação no ano de 2017 só do modelo Onix da Chevrolet foram vendidos 3411 carros aqui no DF, como mostra a **[reportagem](http://carsale.uol.com.br/2017/12/26/os-carros-mais-vendidos-por-estado-em-2017)**, enquanto o número de instalações com energia solar hoje não chega a 400 unidades. Isso mostra a total preferência pelo carro.
 Para entendermos melhor esse cenário resolvemos perguntar ao nosso público o porquê de eles não terem esse sistema em casa. Dessa forma, agora conseguimos entender um pouquinho mais a mentalidade das pessoas e decidimos escrever um texto que responde essas principais dúvidas e problemas que as pessoas enxergam em adquirir esse sistema para tentar mostrar de uma vez por todas que é o investimento do presente e não do futuro. Já pedimos desculpas pelo número de contas que terão esse texto, mas tentaremos fazer o mais passo a passo possível para não deixar nenhuma dúvida.  
+
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
   
 A primeira resposta, como esperado foi:  
 <h3> o preço do sistema ainda é muito caro</h3>  
@@ -47,3 +53,9 @@ Fazendo um pequeno resumo aqui de como você pode ter sua energia solar em casa:
 Caso você tenha se interessado em alguma das opções não hesite em nos mandar uma **[mensagem](primariaenergia.com/contact.html)**
 
 Quer saber mais? Preparamos esse **[guia completo da fotovoltaica.](https://conteudo.primariaenergia.com/e-book-guia-da-fotovoltaica)**. Aqui você vai encontrar mais informações sobre o valor do sistema, as diferentes formas de aproveitar a luz do sol e como ter um em casa.Aproveite!
+
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
