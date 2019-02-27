@@ -15,6 +15,12 @@ O feriado passou e muitas pessoas viajaram para diversos locais aproveitando seu
   
 Vamos responder essas perguntas nesse texto que vai trazer tudo o que você precisa saber sobre seu chuveiro. Como deixa-lo mais seguro e até como fazer ele gastar menos energia.
 
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
+
 ## Meu chuveiro elétrico é seguro?  
     
 Para saber se um chuveiro é seguro temos que analisar alguns dados mais específicos, porém ele ao ter problemas mostra sintomas aos moradores que algo está errado na instalação elétrica do local. Alguns desses sintomas são:  
@@ -104,4 +110,10 @@ Faça sempre manutenção nos chuveiros e na rede elétrica. Nos chuveiros limpe
 Caso queira uma grande redução a troca por **[aquecedores solares](http://primariaenergia.com/blog/diferenc-a-aquecimento-fotovoltaica)** é a melhor opção. Com isso, você pode ter uma economia de 70% no gasto de energia elétrica do chuveiro. Além dessa economia, pode se pedir um abatimento no IPTU, por causa do **[IPTU verde](http://primariaenergia.com/blog/iptu-verde)**. Os aquecedores além de diminuírem sua conta de luz deixam nosso planeta mais verde. Esses aquecedores aliados com **[chuveiros híbridos]( https://www.ecycle.com.br/component/content/article/atitude/328-vai-trocar-de-chuveiro-que-tal-o-hibrido.html)** podem ser uma ótima solução para seu bolso e para o planeta.  
   
 Viu como é fácil deixar seu chuveiro mais seguro e eficiente? Tente realizar essas dicas e depois conte para nós como está sua casa. Nós da Primária ficamos muito felizes ao ver casas mais seguras e consumindo menos energia. Caso queira ajuda em algum dos pontos não hesite em nos mandar mensagem em nosso **[site](http://primariaenergia.com)**
+
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
 
