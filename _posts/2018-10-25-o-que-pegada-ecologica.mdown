@@ -20,6 +20,13 @@ Dentro da pegada ecológica está incluída também a produção de gás carbôn
 
 A produção de gás carbônico no processo de produção de bens materiais influencia na chamada **[pegada de carbono](https://www.ecycle.com.br/3874-pegada-de-carbono)**. Mesmo as ações mais simples podem gerar uma quantidade razoável de carbono na atmosfera. A pegada de carbono é uma forma de medir as emissões de gases estufa, ou seja, é possível calcular a emissão individual de gases com base nas suas atividades diárias.
 A pegada de carbono é o correspondente à pegada ecológica para os gases de **[efeito estufa](https://blog.waycarbon.com/2017/02/5-fontes-de-gases-de-efeito-estufa/)**. É um método que ajuda a mensurar a quantidade de **[recursos naturais](https://pt.wikipedia.org/wiki/Recurso_natural)** necessários para manter o estilo de vida atual. Por meio desse estudo, é possível analisar os impactos causados na atmosfera e o impacto pessoal nas mudanças climáticas e no efeito estufa.
+
+
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
    
   
 <h2> Como calcular a pegada ecológica e a pegada de carbono? </h2>
@@ -51,4 +58,9 @@ Além disso, cada placa pode evitar que uma grande quantidade de carbono seja in
 
 Existem diversas formas de gerar um desenvolvimento mais sustentável, seja com pequenas ações ou por grandes mudanças no quotidiano. O fato é que é possível reduzir o impacto, e, enquanto for possível, devemos realizar essas alterações. Com pequenas ações é  possível gerar grandes mudanças.
 
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
 
