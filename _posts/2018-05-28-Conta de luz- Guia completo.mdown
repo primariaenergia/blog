@@ -36,6 +36,11 @@ Piores condições de geração.  O acréscimo é de R$0,05 por kwh na conta
   	  
 Com esse aumento previsto para julho, uma pessoa que hoje consome 600 kWh pagando em torno de R$420,00 com a bandeira verde, irá pagar no mês de julho um total de R$450,00. Algo bem considerável.
 
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
 
 ## Contas de luz e seus tipos
   
@@ -148,5 +153,10 @@ Quer saber mais? Se você gostou desse texto, você também vai gostar do **[nos
 
 Pronto! Agora você já sabe tudo sobre sua conta de energia e pode estar preparado para suas flutuações, além de saber para onde vai o dinheiro que você paga em sua conta de energia. Caso queira saber como reduzi-la nos mande uma [mensagem](http://primariaenergia.com/contact)
 
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
 
 
