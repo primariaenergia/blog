@@ -11,6 +11,12 @@ author: Thais Rabelo
 Com o avanço do século, a consciência ambiental tornou-se uma característica indispensável para a formação de cidadãos determinados a fazerem o seu melhor pelo mundo. A escola tem um grande papel nesse desenvolvimento, ao promover ambientes que não só envolvem o aluno com a causa, mas também incentivam iniciativas. 
 Um dos mais importantes focos de iniciativas ecológicas é a água. Isso porque esse recurso precioso e indispensável para a nossa existência foi por muito tempo subestimado pela população humana, que o considerava inesgotável. No entanto, a escassez da água é um problema atual que não se resolverá tão facilmente.  
   
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
+
 Esse problema afeta não só os moradores no que tange ao racionamento de água, igual o que enfrentamos a mais de um ano, como também no aumento de conta de energia, por causa das **[bandeiras tarifárias](http://primariaenergia.com/blog/Conta-de-luz-Guia-completo)**, já que nossa energia vem principalmente de usinas hidrelétricas.
 É importante que as escolas tomem iniciativas que incentivem os alunos a valorizarem ela. Esse é o exemplo de algumas escolas ao redor, que vêm trabalhando com a reutilização da água. 
            
@@ -50,3 +56,9 @@ A implementação das medidas diretas de reutilização da água é vantajosa em
 	É importante que a escola faça com que os alunos conheçam todas as ações tomadas, pois dessa forma ele tem mais conhecimento sobre como o ambiente em que ele estuda cuida do meio ambiente. Além disso, isso pode incentivar eles a não só replicar esse modelo na casa deles, como também espalhar esse modelo na comunidade. Isso pode até mesmo ser transformado em uma campanha social da instituição, o que demonstraria amplo engajamento nos problemas da sociedade e seria um exemplo incrível de transformação por pequenos passos.  
    	 
 A expansão de uma preocupação em relação ao uso da água é apenas um dos muitos passos que podem ser tomadas em direção ao um modelo mais ecológico de inovação e crescimento. Outros tipos de iniciativas podem ser feitas, com um destaque para as voltadas para um uso mais inteligente da energia. A Primária tem o orgulho de oferecer serviços que implementam alguns desses modelos sustentáveis, como o do uso de energia fotovoltaica e o próprio reaproveitamento de água da chuva. Venha saber mais sobre essas medidas em nosso **[site](http://primariaenergia.com/contact)**!
+
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
