@@ -31,3 +31,9 @@ Para poder utilizar esse tipo de energia renovável, alguns passos devem ser seg
 Muitos foodtrucks já tomaram essa iniciativa. Um deles é a Temakeira Navan, inaugurada em janeiro de 2017 por um grupo de jovens empresários. Existem também versões menores, como um carrinho de sorvetes desenvolvido pela holandesa Springtime que usa a energia solar para manter as guloseimas geladas.
 
 Utilizar essa forma diferenciada de obtenção de energia valoriza um empreendimento por torná-lo sustentável e econômico. No caso de foodtrucks, o dinheiro investido inicialmente tem um rápido retorno, o que ocorre em menos de três anos na média. Você que está lendo tem ou conhece alguém que tenha um empreendimento móvel? Ligue para gente, a Primária terá o maior prazer em fazer um orçamento para você.
+
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
