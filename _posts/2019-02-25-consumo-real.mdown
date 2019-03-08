@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[INFOGRÁFICO]Como descobrir o seu consumo real na conta de luz"
+title:  "[INFOGRÁFICO]  Como descobrir o seu consumo real na conta de luz"
 description: Descubra aqui tudo o que você precisa saber para entender o seu consumo de energia
 date: 2019-02-25
 categories: Energia Elétrica
