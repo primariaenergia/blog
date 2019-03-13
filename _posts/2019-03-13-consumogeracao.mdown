@@ -11,10 +11,10 @@ author: Jéssica Leite
 
 <h2>Consumo x Geração</h2>
   
-•	Tempo de leitura : 2 minutos
-•	Alteração no consumo    
-•	Valor na conta de luz
-•	Entendendo o consumo 
+•	Tempo de leitura : 2 minutos  
+•	Diferença entre consumo e geração   
+•	Como consultar o consumo 
+•	Como consultar a geração
 
 
 Você entende a diferença entre consumo e geração? É muito comum fazer confusão com os dois, principalmente porque os valores de consumo e geração mensais não aparecem muito claros na conta de luz. A partir do momento que um sistema fotovoltaico ou algum outro sistema de geração passa a injetar energia na rede, a conta passa a ter não só os valores de consumo, com também os valores de geração, e, por isso é bem fácil fazer confusão.
