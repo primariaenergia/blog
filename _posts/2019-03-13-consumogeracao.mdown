@@ -4,7 +4,7 @@ title:  "Descubra a diferença entre consumo e geração"
 description: Entenda como sua conta funciona com a geração fotovoltaica
 date: 2019-03-13
 categories: Energia Elétrica
-img: geracao (1).png
+img: geracao.png
 author: Jéssica Leite
 ---
 
