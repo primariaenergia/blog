@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Descubra a diferença entre consumo e geração"
+description: Entenda como sua conta funciona com a geração fotovoltaica
+date: 2019-03-13
+categories: Energia Elétrica
+img: geracao.png
+author: Jéssica Leite
+---
+
+
+<h2>Consumo x Geração</h2>
+  
+•	Tempo de leitura : 2 minutos
+•	Alteração no consumo    
+•	Valor na conta de luz
+•	Entendendo o consumo 
+
+
+Você entende a diferença entre consumo e geração? É muito comum fazer confusão com os dois, principalmente porque os valores de consumo e geração mensais não aparecem muito claros na conta de luz. A partir do momento que um sistema fotovoltaico ou algum outro sistema de geração passa a injetar energia na rede, a conta passa a ter não só os valores de consumo, com também os valores de geração, e, por isso é bem fácil fazer confusão.
+
+Na conta de luz aparecem duas colunas: uma de consumo e a outra o que é injetado. Você pode entender melhor **[como funciona a conta de luz nesse link](http://primariaenergia.com/blog/consumo-real/ )**. Aqui você vai saber diferenciar o consumo instantâneo dos outros tipos de consumo.
+
+Resumidamente, é fácil saber o consumo total em um mês olhando o consumo instantâneo, que aparece no site ou aplicativo de monitoramento de sistemas fotovoltaicos e o consumo da energia que de fato é fornecida pela concessionária de energia da sua cidade. 
+
+No entanto, saber o consumo não é o suficiente para entender como está a sua relação de geração e consumo, geração de créditos, ou mesmo para saber se o seu sistema está funcionando corretamente, conforme o esperado.
+Para analisar esses dados, é importante entender que tudo o que for relacionado diretamente com a concessionária vai ser registrado na conta de luz (tudo o que você tirar da rede e tudo que você colocar de volta). 
+
+Para entender o porque disso, basta saber que a CEB não tem como saber o que foi consumido se não passar pelo relógio. No caso do relógio bidirecional, que serve tanto para consumo quanto para geração, a regra é a mesma. Se não passar pelo relógio, não é registrado pela concessionária.
+
+Da mesma  forma, tudo o que foi gerado pelo sistema vai estar disponível no site ou aplicativo do sistema. Nele você encontra todas as informações relacionadas ao sistema apenas. Isso significa que para ter uma visão geral do verdadeiro consumo e geração na sua casa, você deve ter em mãos tanto a conta quanto os dados de geração fornecidos pelo sistema.
+
+O consumo em um mês específico é igual ao consumo instantâneo do mês, que, por não ser um consumo relacionado com a rede não é registrado na conta, mais o consumo que de fato aparece na conta, independente de o endereço ter um sistema instalado ou não.
+
+Já a geração é o valor da geração que aparece no aplicativo, e esse valor corresponde a tudo o que foi gerado e consumido instantaneamente, mais o que foi injetado na rede. O que é injetado, por outro lado, já é um valor que representa tudo o que foi gerado excessivamente, ou seja, não foi consumido. Para que essa energia seja injetada na rede, ela deve passar pelo relógio bidirecional,e, portanto, é um valor que aparece na conta.
+Essa energia que foi devolvida para a rede deve ser retornada para o consumidor em forma de créditos, conforme a regulamentação atual da ANEEL. 
+
+Atualmente, tudo o que foi devolvido para a rede é recebido com crédito. Essa regulamentação deve mudar para 2020, de forma que a utilização da rede, os cabos e a estrutura de transmissão e distribuição devem ser cobradas em forma de alguma porcentagem em cima do valor dos créditos de energia.
+
+Agora você já sabe como consultar o consumo e a geração. Mas o que realmente interessa na hora de pagar a conta de luz? A verdade é que esses dois valores compõem o valor que é pago. Como foi dito anteriormente, ainda não existe no Brasil uma cobrança específica no que diz respeito à utilização da rede após a injeção de rede a partir da micro e minigeração distribuída (o sistema que você tem na sua casa). As cobranças que são feitas atualmente são relacionadas com a iluminação pública e quanto é fornecido para a CEB, no caso dos momentos que o sistema não fornece a energia. 
+
+
+![INFOGRÁFICO:como descobrir o consumo real](https://d335luupugsy2.cloudfront.net/cms/files/68769/1551104385Infografico-_Atila_1.png)
+
+
+Quer saber mais? Preparamos esse **[guia completo da fotovoltaica.](https://conteudo.primariaenergia.com/e-book-guia-da-fotovoltaica)**. Aqui você vai encontrar mais informações sobre o valor do sistema, as diferentes formas de aproveitar a luz do sol e como ter um em casa.Aproveite!
+
+
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script> <script type="text/javascript"> new RDStationForms('fotovoltaica-9597695d2315975f3c68-html', 'UA-113322286-1').createForm(); </script>
