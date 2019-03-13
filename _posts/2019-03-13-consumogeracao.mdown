@@ -30,6 +30,12 @@ Para entender o porque disso, basta saber que a CEB não tem como saber o que fo
 
 Da mesma  forma, tudo o que foi gerado pelo sistema vai estar disponível no site ou aplicativo do sistema. Nele você encontra todas as informações relacionadas ao sistema apenas. Isso significa que para ter uma visão geral do verdadeiro consumo e geração na sua casa, você deve ter em mãos tanto a conta quanto os dados de geração fornecidos pelo sistema.
 
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
+
 O consumo em um mês específico é igual ao consumo instantâneo do mês, que, por não ser um consumo relacionado com a rede não é registrado na conta, mais o consumo que de fato aparece na conta, independente de o endereço ter um sistema instalado ou não.
 
 Já a geração é o valor da geração que aparece no aplicativo, e esse valor corresponde a tudo o que foi gerado e consumido instantaneamente, mais o que foi injetado na rede. O que é injetado, por outro lado, já é um valor que representa tudo o que foi gerado excessivamente, ou seja, não foi consumido. Para que essa energia seja injetada na rede, ela deve passar pelo relógio bidirecional,e, portanto, é um valor que aparece na conta.
