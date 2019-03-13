@@ -32,6 +32,12 @@ Da mesma  forma, tudo o que foi gerado pelo sistema vai estar disponível no sit
 
 O consumo em um mês específico é igual ao consumo instantâneo do mês, que, por não ser um consumo relacionado com a rede não é registrado na conta, mais o consumo que de fato aparece na conta, independente de o endereço ter um sistema instalado ou não.
 
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
+
 Já a geração é o valor da geração que aparece no aplicativo, e esse valor corresponde a tudo o que foi gerado e consumido instantaneamente, mais o que foi injetado na rede. O que é injetado, por outro lado, já é um valor que representa tudo o que foi gerado excessivamente, ou seja, não foi consumido. Para que essa energia seja injetada na rede, ela deve passar pelo relógio bidirecional,e, portanto, é um valor que aparece na conta.
 Essa energia que foi devolvida para a rede deve ser retornada para o consumidor em forma de créditos, conforme a regulamentação atual da ANEEL. 
 
@@ -39,8 +45,11 @@ Atualmente, tudo o que foi devolvido para a rede é recebido com crédito. Essa 
 
 Agora você já sabe como consultar o consumo e a geração. Mas o que realmente interessa na hora de pagar a conta de luz? A verdade é que esses dois valores compõem o valor que é pago. Como foi dito anteriormente, ainda não existe no Brasil uma cobrança específica no que diz respeito à utilização da rede após a injeção de rede a partir da micro e minigeração distribuída (o sistema que você tem na sua casa). As cobranças que são feitas atualmente são relacionadas com a iluminação pública e quanto é fornecido para a CEB, no caso dos momentos que o sistema não fornece a energia. 
 
-
-
+<div role="main" id="conta-de-luz-35e5f04fddf96517c6e0"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript">
+  new RDStationForms('conta-de-luz-35e5f04fddf96517c6e0-html', 'UA-113322286-1').createForm();
+</script>
 
 
 Quer saber mais? Preparamos esse **[guia completo da fotovoltaica.](https://conteudo.primariaenergia.com/e-book-guia-da-fotovoltaica)**. Aqui você vai encontrar mais informações sobre o valor do sistema, as diferentes formas de aproveitar a luz do sol e como ter um em casa.Aproveite!
