@@ -40,7 +40,7 @@ Atualmente, tudo o que foi devolvido para a rede é recebido com crédito. Essa 
 Agora você já sabe como consultar o consumo e a geração. Mas o que realmente interessa na hora de pagar a conta de luz? A verdade é que esses dois valores compõem o valor que é pago. Como foi dito anteriormente, ainda não existe no Brasil uma cobrança específica no que diz respeito à utilização da rede após a injeção de rede a partir da micro e minigeração distribuída (o sistema que você tem na sua casa). As cobranças que são feitas atualmente são relacionadas com a iluminação pública e quanto é fornecido para a CEB, no caso dos momentos que o sistema não fornece a energia. 
 
 
-![INFOGRÁFICO:como descobrir o consumo real](https://d335luupugsy2.cloudfront.net/cms/files/68769/1551104385Infografico-_Atila_1.png)
+
 
 
 Quer saber mais? Preparamos esse **[guia completo da fotovoltaica.](https://conteudo.primariaenergia.com/e-book-guia-da-fotovoltaica)**. Aqui você vai encontrar mais informações sobre o valor do sistema, as diferentes formas de aproveitar a luz do sol e como ter um em casa.Aproveite!
