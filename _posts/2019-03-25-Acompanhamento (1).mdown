@@ -4,7 +4,7 @@ title:  "Acompanhamento do sistema fotovoltaico"
 description: Descubra se o seu sistema está funcionando corretamente,e o que você pode fazer para que ele dure mais tempo.
 date: 2019-03-25
 categories: Energia Elétrica
-img: acomp.png
+img:acomp.png
 author: Jessica Leite 
 ---
 
