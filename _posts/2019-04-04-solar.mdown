@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Energia Solar Fotovoltaica"
+description: Descubra se o seu sistema está funcionando corretamente,e o que você pode fazer para que ele dure mais tempo.
+date: 2019-04-04
+categories: Energia Elétrica
+img: solar.png
+author: Jessica Leite
+---
+
+
+<h2>Energia Solar Fotovoltaica </h2>
+
+•	Tempo de leitura: 2 min
+•	O que é energia solar fotovoltaica e como funciona?
+•	Quais são os beneficios da energia fotovoltaica?
+•	Benefícios da energia fotovoltaica
+•	Mais informações sobre energia solar fotovoltaica
+•	Qual a diferença entre pico e a capacidade nominal em instalações fotovoltaicas?
+
+
+<h3>O que é energia solar fotovoltaica e como funciona?</h3>
+Energia solar fotovoltaica, ou energia solar, converte diretamente energia dolar em eletricidade, usando a tecnologia baseada no efeito fotovoltaico. Quando a radiação do sol entra em contato com uma das fazes da célula fotoeletrica (muitas delas formam um painel solar), ele produz uma diferença de potencial entre duas faces, o que daz eletrons fluirem entre um e o outro, gerando uma corrente elétrica.   
+Existem tres tipos de paineis solares: Fotovoltaico, geradores de energia para casas; Termal, instaladas em casas para receber o sol diretamente, e termodinamica, que opera em diversas condições de clima, mesmo quando esta chovendo ou nublado.  
+Quando a tecnologia fotovoltaica começou, era utilizada para gerar energia para satelites. De acordo com  associação de produtores de energua renovavel espanhola, o desenvolvimento da fotovoltaica foi acelerado durante os anos 1950, quando se tornou uma alternativa para o uso de combustiveis fosseis.  
+
+<h3>Quais são os beneficios da energia fotovoltaica?</h3>
+
+A eletricidade gerada pelos paineis solares fotovoltaicos é inesgotável e não poluente, e, portanto, contribui para o desenvolvimento sustentável, bem como favorece o comércio local,  **[como você pode ver nesse texto que fizemos](http://primariaenergia.com/blog/o-que-pegada-ecologica/)**. Da mesma forma, pode ser explorada de duas formas: conectada à rede de abastecimento de energia, ou consumida em locais isolados, onde não há uma conexão convencional da rede.  
+O custo de instalar e manter paineis solares, os quais possuem media de vida util de mais de 300 anos, foi reduzido notavelmente nos ultimos anos, de acordo com o desenvolvimento da tecnologia. Ele requer um investimento inicial e operacional relativamente reduzido, e seu "combustível" é gratuito e disponível pelo resto da sua vida útil.  
+
+<h3> Benefícios da energia fotovoltaica: </h3>  
+Renovável  
+Inesgotável  
+Não poluente  
+Escalável, de sistemas para casas até grandes usinas  
+Adequada para áreas rurais e remotas  
+Contribui para o desenvolvimento sustentvel  
+Promove empregos e o comércio local  
+
+<h3> Mais informações sobre energia solar fotovoltaica </h3>
+
+Durante a última década, a energia solar deve se tornar a fonte de energia mais barata em várias partes do mundo, já que o custo dos paineis fotovoltaicos cai continuamente, assegura o International Business Times, divulgando uma pesquisa realizada pela alemã Agora Energyewende.  
+Desde 1980, o preço dos paineis para geração de energia solar tem caido aproximadamente 10% por ano. Nessa velocidade, a tecnologia será capaz de gerar 20% da energia que o planeta precisa até 2027.  
+A reputada revista de negócios Fortune citou um estudo que conclui que a energia solar oferecerá mais novos empregos do que o setor do petróleo até o final desse ano. Nos Estados Unidos, de acordo com um estudo da Fundação Solar, a quantidade de empregos cresceu em 2015 pelo terceiro ano consecutivo.  
+O mercado global para energia solar fotovoltaica deve crescer aproximadamente 20% nos próximos 2 anos, acrescentando pelo menos 60GW em 2016 e mais de 70GW em 2017, de acordo com um estudo do PVMA (PV Market Alliance). A mesma organização acredita que a demanda continuará crescendo, principalmente devido à força do seu crescimento na Índia, China, Estados Unidos e outros vários mercados emergentes.   
+De fato, afirma a PVMA, **[em dados reunidos no seu site de energias renováveis](http://www.pvmarketalliance.com/)**, a integração de de 51GW ao redor do mundo em 2015 significou que o setor estabeleceu um novo recorde de capacidade instalada de fotovoltaica, com a Ásia no topo em relação a outros continentes nesse contexto (graças às atividades na China e no Japão).  
+
+<h3> Qual a diferença entre pico e a capacidade nominal em instalações fotovoltaicas? </h3>
+
+Em paineis solares fotovoltaicos, a capacidade no pico se refere à quantidade de kW instalado, enquanto a capacidade nominal diz respeito à capacidade do inversor (equipamento elérico que converte a energia gerada pelos painéis para serem usadas pelos consumidores).  
+Resumidamente, a capacidade nominal define o limite da planta (o sistema não consegue gerar mais do que o inversor pode converter). No entanto instalações fotovoltaicas em geral possuem uma capacidade no pico maior do que a nominal, para garantir que 100% da capacidade do inversor seja utilizado.  
+Um painel solar fotovoltaico é bem dimensionado se a capacidade dos paineis instalados asseguram o funcionamento de 100% capacidade do inversor.  
+
+Fonte: https://www.acciona.com/renewable-energy/solar-energy/photovoltaic/
+
+
+Quer saber mais? Preparamos esse **[guia completo da fotovoltaica.](https://conteudo.primariaenergia.com/e-book-guia-da-fotovoltaica)**. Aqui você vai encontrar mais informações sobre o valor do sistema, as diferentes formas de aproveitar a luz do sol e como ter um em casa.Aproveite!
+
+
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script> <script type="text/javascript"> new RDStationForms('fotovoltaica-9597695d2315975f3c68-html', 'UA-113322286-1').createForm(); </script>
+
+
+
