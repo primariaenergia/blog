@@ -4,7 +4,7 @@ title:  "Como é feito a fixação de estruturas fotovoltaicas"
 description: Descubra qual estrutura de fixação usar para cada caso em um sistema de energia solar
 date: 2019-05-08
 categories: Energia Elétrica
-img: quantocusta.png
+img: fixacaoplaca.png
 author: Caio Martins
 ---
 
