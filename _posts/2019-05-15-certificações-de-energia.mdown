@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "O que são certificações Procel e LEED"
+description: As edificações também podem ser classificadas por sua eficiência, esse texto abordará como
+date: 2019-05-15
+categories: Energia Elétrica
+img: certificacao.png
+author: Caio Martins
+---
+
+•	O que são essas certificações
+•	Quais as vantagens de ter uma certificação dessas 
+•	Como tirar a certificação
+•	Tempo de leitura: 4 minutos
+
+A economia de energia é algo que está sempre em moda, assim como ser uma empresa sustentável. Mas como saber se estamos economizando energia de fato ou se aquela empresa ou prédio que diz ser sustentável? Uma das formas mais eficientes seguras disso é analisar se eles possuem certificações que comprovem tal economia ou sustentabilidade.
+Nesse texto vamos abordar, principalmente, as certificações que visam premiar os prédios com maior poder de sustentabilidade em suas ações. Existem diversas certificações, mas aqui no Brasil as duas mais importantes são a Procel e Leed, sendo a primeira brasileira e a segunda válida internacionalmente.
+
+<h2>Certificação Procel</h2>
+
+O Selo Procel é conhecido pelo brasileiro há muito tempo. Quase todo mundo já comprou alguma coisa que vinha com um selo em formato de lâmpada indicando qual a categoria, que o produto está classificado de acordo com seu consumo de energia. 
+Esse selo foi criado em 1993 pelo governo afim de conscientizar a população na compra de equipamentos mais eficientes que gastem menos energia. Esse selo classifica os produtos de A (mais econômico) até E (menos econômico). Os parâmetros que julgam cada equipamento são próprios e específicos, mas todos visam a mesma ideia de mostrar a economia do produto.
+Apesar de popularizado, poucas pessoas conhecem que existe o Selo Procel também para prédios.  O Selo Procel Edificações foi criado em 2014 e é dado aos prédios que conseguem nota A em todos os quesitos estabelecidos pela PBE Edifica.
+Explicando rapidamente a diferença dos dois. A PBE Edifica dá um selo para o edifício em 3 categorias: Envoltória, Iluminação e Condicionamento de Ar. Esse selo é semelhante aos equipamentos com a mesma escala de A até E em cada uma das 3 categorias, ao final dando um valor médio para a edificação como um todo. A edificação que tiver classificação A em todas as 3 categorias, e consequentemente A como geral, ela recebe o Selo Procel de edificação sustentável. Essa etiquetagem é válida para prédios públicos, comerciais e de serviços. Para unidades habitacionais são usados como critérios a envoltória e o aquecimento da água.
+Para que se obtenha essa etiquetagem é necessário procurar um órgão que seja creditado pelo Procel para fazer essa certificações chamado OIA (Organismos de Inspeção Acreditado).  
+
+O Selo pode ser pedido de duas formas, na hora da concepção do projeto sendo que tudo será de forma simulada ou após a edificação já ter sido construída, sendo ela analisada no local. Para instalações novas é muito mais barato tirar o Selo Procel ( nota A nas categorias) do que instalações já existentes. Como um dos principais critérios é a envoltória, fazer a construção do local já pensando em sua eficiência do que uma grande reforma para futuras adequações.  
+Um exemplo do que é avaliado é que nas envoltórias é avaliado o quanto de calor a parede e a cobertura da casa irão absorver e transmitir para dentro da casa. Além disso, também é avaliado se a ventilação e a iluminação natural da casa são adequadas.
+Apesar de existirem linhas de financiamento específicas do BNDES para que os prédios façam reformas para melhorar sua eficiência, e que o governo tenha ensaiada uma lei para obrigar a todos os prédios a colocarem a etiqueta, o selo procel não foi muito para frente e poucos locais estão fazendo-o, seja por desconhecimento ou por achar que não vale o gasto essa adequação.  A única exceção são os prédios públicos novos ou que forem passar por reforma de retro fit serão obrigados a fazer seguindo o padrão da Procel.
+Em contramão da maioria dos outros prédios, alguns aderiram esse programa como é o caso do Centro de Gestão e Armazenamento aqui no Distrito Federal ou do Banco do Brasil no Rio De Janeiro, e o próprio Ministério do Meio Ambiente em Brasília. Nesses exemplos, até alguns postos que já estavam construídos também aderiram ao programa. Isso apenas mostra que é possível qualquer lugar ter esses selos, e consequentemente estar ajudando o meio ambiente e tendo economia financeira.
+
+<h2>Certificação Leed</h2>
+
+O Certificado Leed é o certificado de edificações mais reconhecido mundialmente e é emitido pela ONG USBGC (United States Green Building Council). Ele foi criado em 1998 e é o selo mais emitido hoje no Brasil, que também ocupa uma posição de destaque no cenário mundial, no qual é o quarto país com maior número de certificações do mundo.
+A certificação hoje no Brasil ela pode ser retirada para as seguintes categorias:  
+  
+•	LEED NC – Novas construções e grandes projetos de renovação
+•	LEED ND – Desenvolvimento de bairro (localidades)
+•	LEED CS – Projetos da envoltória e parte central do edifício
+•	LEED Retail NC e CI – Lojas de varejo
+•	LEED Healthcare – Unidades de saúde
+•	LEED EB_OM – Operação de manutenção de edifícios existentes
+•	LEED Schools – Escolas
+•	LEED CI – Projetos de interiores e edifícios comerciais
+
+Cada edifício tem medidas que precisam ser tomadas para se conseguir a certificação e recomendações que geram pontos para aumentar a categoria que o prédio se qualifica. Ele pode ser elencado em 4 categorias: Certificado, Silver, Gold e Platinum. Os pontos variam de 40 pontos para o nível certificado até a 110 pontos, para atingir o nível Platinum é necessário ter 80 ou mais.
+Na certificação são levados em conta 7 categorias que envolvem sustentabilidade, gerando impactos nas áreas ambientais, sociais e econômicas. 
+Esse é um excelente ponto para se discutir, já que muitos têm a ideia que sustentabilidade é apenas algo atrelado com o meio ambiente, mas o conceito está muito além disso. A certificação Leed nos mostra exatamente isso. Ele ao mesmo tempo que pede ao prédio para que tenho um consumo consciente da água, ele também avalia se os fornecedores cumprem com as obrigações trabalhistas. Por isso, é algo que se constrói desde o início do projeto e pode durar até 3 anos, como aconteceu aqui no prédio aqui em Brasília, para fazer toda sua avaliação e construção de acordo com as exigências.  
+
+As categorias que são avaliadas são as seguintes:  
+  
+•	Localização e Transporte
+•	Lotes Sustentáveis
+•	Eficiência da Água
+•	Energia e Atmosfera
+•	Materiais e Recursos
+•	Qualidade Interna dos Ambientes
+•	Inovação e Prioridades Regionais  
+  
+Cada uma das categorias terá quesitos obrigatórios e créditos extras. Por exemplo, na categoria Energia e Atmosfera colocar um sistema de energia solar fotovoltaica irá dar pontos de crédito, que fará subir de categoria. Porém, existem critérios obrigatórios, como reduzir o consumo interno de água. Caso não seja obedecido alguns desses pré-requisitos obrigatórios não é possível nem retirar a menor das classificações por mais que tenha os pontos de créditos advindos de outras áreas.
+Para se ter uma certificação é necessário seguir alguns passos: O primeiro é entrar em contato com a GBC que irá informar qual o profissional qualificado poderá auxiliar em todo o processo para conseguir o selo e depois o emitirá. Essa pessoa precisa ter passado por cursos e provas para demonstrar sua proficiência nessa área é estar certificado para esse trabalho.
+Essa certificação irá trazer uma série de vantagens a quem os construir, já que seu custo de manutenção é menor do que outros prédios e o seu conforto é maior. Com isso, torna-se um bom investimento ter esse tipo de prédio, já que mesmo para o setor imobiliário ele irá produzir um menor número de custos como condomínio e uma menor vacância dos moradores.
+  
+Esses e outros motivos nos mostram que é interessante buscar alguma das duas certificações, porque isso mostrará que a edificação está em seu máximo de eficiência e qualidade que é o que todos desejamos em nossas vidas.
+Caso você tenha interesse em conversar mais sobre o assunto ou saber como isso pode ser usado em sua casa, mande-nos uma **(mensagem)[primariaenergia.com/contato]**.
