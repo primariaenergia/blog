@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Ampliação Sistema Fotovoltaico"
+description: Com o sistema fotovoltaico é possível fazer sua ampliação
+date: 2019-06-26
+categories: Energia Elétrica
+img: ampliacao.png
+author: Caio Martins
+---
+
+
+•	Tempo de leitura: 3 minutos
+
+O sistema fotovoltaico ainda é um mistério para muitas pessoas, que tem muitas dúvidas antes de fazer o investimento nesse sistema. Uma das dúvidas que mais surgem para os clientes antes da compra é da modularidade do sistema. Isso significa, saber se vai perder ou não o investimento caso aumente o consumo da casa e queira ampliar o sistema também.
+  
+Quando pensamos na ampliação de um sistema fotovoltaico existem diversas de maneiras de pensar no aumento de carga. A primeira é uma ampliação programada, essa ampliação é adequada para clientes que já desejam deixar seu sistema quase todo preparado para ter um aumento de carga no futuro, gastando o menor valor possível nessa possível ampliação. Outra forma de pensar em uma ampliação é a não programada, onde inesperadamente se tem um aumento no consumo e o cliente deseja aumentar sua carga. Por fim, pode-se ampliar o sistema de forma abater uma nova conta de energia que esteja no mesmo CPF ou CNPJ da antiga.   
+Vamos detalhar mais uma a uma nesse texto, mas já respondendo de primeira, o investimento nunca é perdido e o sistema pode ser ampliado semelhante a um lego, no qual o sistema vai se agregando para formar construções maiores. Outro ponto importante de citarmos é que essa ampliação é em casos de aumento deliberado de carga, já que compete ao engenheiro, que está executando o projeto, deixar ele com folga suficiente para pequenos aumentos de carga, já que o sistema é feito para durar 25 a 30 anos. Esse tipo de erro ou as vezes até má fé é muito comum e abordaremos em outro texto.  
+   
+<h2> Ampliação Planejada </h2>  
+  
+A ampliação planejada é opção muito desejada por clientes que não tem noção exata do seu consumo ou que precisam de um prazo maior para pagar um sistema solar. 
+Contextualizando, a parte mais cara, proporcionalmente, de um sistema de energia solar fotovoltaico é o inversor. Caso uma casa que deseje colocar um sistema e necessite de um total de 18 placas para abater a totalidade de sua conta, mas não possua o capital suficiente para instalar o sistema como um todo, ela pode fazer uma instalação pensando a ampliação planejada. 
+No caso citado acima uma opção para diminuir a parcela do kit e pagar de forma mais suave é projetar um sistema com o inversor que comporte as 18 placas e fazer o projeto junto a concessionária já considerando o sistema completo. Contudo, colocar um número de placas de menor quantidade e depois ir adicionando placa a placa ao sistema até completar as 18 placas. Como o projeto já estaria aprovado na concessionária, seria necessário apenas acrescentar as placas e o sistema de imediato já estaria gerando mais energia. 
+Exemplificando o caso anterior em números, para colocar um sistema inteiro o cliente gastaria R$30.000,00. Para colocar 10 módulos e o resto do sistema preparado para geração completa, o sistema custaria R$ 20.000,00 e depois só colocaria as placas com o próprio abatimento na conta. Nesse caso, a casa em 1 ano conseguiria ter o sistema sem dispender de suas reservas.  
+  
+<h2> Ampliação Não Planejada </h2>  
+  
+Esse caso pode ocorrer em duas oportunidades, na primeira seria a compra de algum equipamento não planejado para casa, como um carro elétrico. Nesse caso e considerando que o inversor já esteja com o número de placas no máximo, pode-se ampliar o sistema colocando um novo kit preparado para esse consumo. 
+Para realizar esse aumento é necessário colocar novamente o número de placas e o inversor adequado. Caso for uma instalação menor, pode-se usar os microinversores, que são inversores para uma ou duas placas. Esse novo sistema precisará ter um novo disjuntor conectado à rede separado do já existente, mas podendo estar interligado no mesmo quadro elétrico.
+Esse sistema funcionaria de maneira análoga aos carrinhos de pilha, que precisamos colocar 4 pilhas para fazer funcionar. No nosso caso estaríamos ligando dois conjuntos de “pilha” para gerar a energia para nossa casa. Isso funciona para a junção de vários sistemas, mas será que é infinito? 
+A resposta é não. Para adicionar sistemas em sua casa é necessário a avaliação de um engenheiro para saber quanto de potência já tem disponibilizado para você. Enquanto estiver dentro dessa faixa é possível ir colocando os novos sistemas sem problema nenhum. A partir do momento que essa faixa de potência é ultrapassada, é necessária uma consulta a fornecedora de energia para saber quais melhorias serão necessárias na rede e quais custos isso acarretaria. Esse tipo de consulta é muito comum em grandes usinas, mas pouco visto em casas, já que a potência normalmente é muito maior do que a exigida para zerar a conta de energia.
+O outro aumento não programado é quando o cliente após perceber as vantagens de ter o sistema solar em sua casa quer ampliá-lo para colocar em algum outro imóvel que tem em seu nome ou que não está no seu nome, mas lhe pertence. Nesse caso, o processo é semelhante ao adotado no caso anterior. Precisa inicialmente calcular a quantidade extras de placas que será necessário para instalar em um disjuntor no mesmo sistema da casa. Entretanto, para os créditos serem abatidos nesse caso é necessário que um novo projeto seja elaborado junto a concessionária apontando a porcentagem de energia que irá para cada empreendimento. O mais comum nesse caso é colocar toda a produção para a casa e o excedente ir para o outro lugar.   
+Em todos os casos é aconselhável sempre ter o suporte de uma empresa para que essa ampliação seja feita de forma a atender as necessidades sem ter maiores custos ou que o sistema gere o necessário. 
