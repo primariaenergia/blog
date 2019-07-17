@@ -18,7 +18,7 @@ Sistemas que se conectam ao sistema de distribuição da concessionária – sis
 Sistemas desconectados da rede de distribuição – off-grid 
 Os sistemas híbridos, que possuem características dos dois sistemas citados anteriormente.
  Nós iremos detalhar mais nesse texto cada tipo de sistema mostrando todas as suas semelhanças e diferenças e como eles podem ser aproveitados ao máximo. 
-Caso queira uma ajuda especializada para saber qual o melhor para a sua casa, nos mande uma **(mensagem)[http://primariaenergia.com/contact]**.
+Caso queira uma ajuda especializada para saber qual o melhor para a sua casa, nos mande uma **[mensagem](http://primariaenergia.com/contact)**.
 
 <h2>Sistema Fotovoltaico Conectado à Rede</h2>
 
@@ -79,4 +79,4 @@ Funcionam como um sistema autônomo, com o auxílio de um inversor bimodal. Esse
 Esse sistema conta com um valor agregado maior, porém possui confiabilidade maior que um sistema um sistema on-grid e uma economia maior que um sistema off-grid. 
 
 Como vemos no texto existem diversas possibilidades de colocar um sistema fotovoltaico. É necessário ter muito cuidado para escolher qual se adapta melhor a sua situação e analisar qual seria mais vantajoso no momento e no futuro, já que é um sistema que tem como vida útil mais de 25 anos.
-Aconselhamos sempre que procure uma empresa séria, que trabalhe com energia solar e não apenas kits pré-montados na internet. Isso com certeza irá lhe proporcionar uma maior segurança técnica e financeira. Caso queira nossa ajuda, nos deixe uma **(mensagem)[http://primariaenergia.com/contact.html)**
+Aconselhamos sempre que procure uma empresa séria, que trabalhe com energia solar e não apenas kits pré-montados na internet. Isso com certeza irá lhe proporcionar uma maior segurança técnica e financeira. Caso queira nossa ajuda, nos deixe uma **[mensagem](http://primariaenergia.com/contact.html)**
