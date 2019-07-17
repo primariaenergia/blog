@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Tipos de Sistemas Fotovoltaicos"
+description: Os tipos de sistemas fotovoltaicos e quais seus melhores usos
+date: 2019-07-17
+categories: Energia Elétrica
+img: sistemafotovoltaico.jpeg
+author: Caio Martins
+---
+
+
+•	Tempo de leitura: 3 minutos
+
+
+Os sistemas fotovoltaicos, são sistemas que podem ser usados para diversos fins, desde geração de energia até carregadores de celular. Eles têm várias formas de serem classificados, uma dessas formas é como eles se conectam à rede elétrica. Essa é a forma mais usual já que podemos dividir eles em três grandes grupos. 
+Esses grupos são:
+Sistemas que se conectam ao sistema de distribuição da concessionária – sistemas on-grid; 
+Sistemas desconectados da rede de distribuição – off-grid 
+Os sistemas híbridos, que possuem características dos dois sistemas citados anteriormente.
+ Nós iremos detalhar mais nesse texto cada tipo de sistema mostrando todas as suas semelhanças e diferenças e como eles podem ser aproveitados ao máximo. 
+Caso queira uma ajuda especializada para saber qual o melhor para a sua casa, nos mande uma **(mensagem)[http://primariaenergia.com/contact]**.
+
+<h2>Sistema Fotovoltaico Conectado à Rede</h2>
+
+Os sistemas fotovoltaicos on-grid, são os sistemas que operam em paralelo à rede de eletricidade, ou seja, é empregado em locais que já são atendidos por energia elétrica. 
+Esses são os sistemas com a maior aderência do público atualmente, principalmente após as resoluções de 2012 e 2015, que regulamentaram o uso deles trazendo incentivos e segurança para quem tem interesse em colocá-los em sua casa.
+Podem ser dimensionados a fim de diminuir ou até mesmo eliminar o seu consumo da rede pública de energia. Alguns países fornecem incentivos para que os consumidores gerem excedente de energia e são remunerados pela venda desta energia. Nesses países ocorreu até uma taxa extra para quem não colocou o sistema solar. Isso fez com que nesses países o sistema tivesse um “boom” gigantesco. Isso aconteceu inicialmente na Alemanha, e mais recentemente no Japão, pós Fukushima, no qual o país queria mudar o foco da matriz energética, de usinas nucleares para usinas solares.
+No Brasil, no entanto, o excedente usa-se o feed in tarif, que a geração é a baseada em créditos. Nessa forma, o relógio marca quantos kWh foram gerados e coloca de créditos. Caso a geração seja maior do que o consumo no mês, o excedente fica de crédito para ser usado em meses em que se tenha um consumo maior. Esse crédito pode ser usado em até 60 meses.
+
+Resumindo, nessa categoria, você gera energia durante todo o dia, consumindo automaticamente neste período, o excedente é repassado à distribuidora. No fim do mês, é feito a diferença entre o consumido e o gerado, diminuindo o valor de sua fatura de energia. Sistemas on-grid normalmente são instalados no telhado, diminuindo a necessidade de ter uma grande área disponível. Nele a concessionária de energia serve como o backup, guardando e liberando energia quando necessário.
+
+<h3> Componentes de um sistema fotovoltaico conectado à rede </h3>
+
+1.	Módulos fotovoltaicos: Os painéis solares são responsáveis pela conversão da radiação solar em energia elétrica, fazendo a geração em corrente contínua. 
+2.	Inversores: Convertem a corrente contínua dos módulos fotovoltaicos em corrente alternada, que é ligada no seu quadro geral de distribuição. Além disso ele funciona como o cérebro do sistema, se conectando na rede de forma correta
+3.	String Box: Colocado ao lado do inversor, contém os componentes de proteção contras descargas elétricas como o DPS e fusíveis para seccionamento da parte CC.
+4.	Outros: Estruturas de fixação ao telhado e cabos.
+
+<h2> Sistema Fotovoltaico Autônomo </h2>
+
+Também chamados de isolados ou off-grid, os sistemas fotovoltaicos autônomos foram os primeiros a serem usados, já que eles possibilitam que a energia chegue em locais que as redes convencionais de energia não cheguem de forma convencional. 
+Nessa primeira aplicação eles eram usados apenas com esse fim de gerar energia para locais onde não existem um fornecimento de energia elétrica por meio da concessionária, como em zonas rurais, praias, ilhas e até veículos que fornecem algum tipo de serviço, como os foodtrucks. 
+Com o advento da tecnologia e seu preço se tornando mais acessível, o sistema solar autônomo se tornou uma forma também atrativa de gerar energia, já que a geração a diesel tem um custo muito alto, além da logística ser difícil por causa do tanque de diesel que precisa ser preenchido.
+Os sistemas isolados surgem como uma ótima opção para substituir geradores movidos a combustíveis fósseis, mais comumente o diesel, por serem mais sustentáveis, demandar menor manutenção, não necessitar de abastecimento e não gerar qualquer tipo de ruído.
+É possível, também, utilizar sistemas autônomos para iluminação pública, sinalização de estradas, outdoors eletrônicos, sistemas de bombeamento e dessalinização da água e de mobilidade urbana. 
+Os sistemas de bombeamento de água, ainda merecem uma menção especial já que eles são os mais desenvolvidos atualmente, diferenciando dos demais por não possuir baterias para backup. Esse sistema além das placas, ele usa uma bomba solar específica, que tem a quantidade de água bombeada é de acordo com a quantidade de sol. Nesse sistema, usa-se o cálculo baseado na quantidade de água necessária para o dia, cria-se um reservatório que comporte esse tamanho e coloca uma bomba que consiga fazer nas 6 horas de sol um bombeamento igual o necessário para abastecer a casa em 24 horas.
+
+<h3> Componentes de um sistema fotovoltaico autônomo </h3>
+
+1.	Módulos fotovoltaicos: Assim como as placas de um sistema conectado à rede, porém costumam ser menores, de modo a se adequarem melhor aos locais de instalação. São responsáveis pela conversão da radiação solar em energia;
+
+2.	Inversor: Fazem a transformação da corrente contínua (CC) advinda dos módulos em corrente alternada (CA). No caso de sistemas onde os equipamentos são de corrente contínua, este equipamento torna-se dispensável. Esse sistema de inversor pode ser usado de duas formas. A primeira de forma semelhante ao ON GRID, conectando o inversor na parte elétrica toda da casa. Outra forma é o inversor ter as tomadas saindo do mesmo. 
+
+3.	Baterias: Utilizadas para armazenamento do excedente de energia para que sejam utilizadas durante os períodos quando não existir luz solar. Normalmente são agrupadas de modo a formar um banco de baterias;
+
+4.	Controlador de carga: São dispositivos que controlam a descarga das baterias, de modo a proteger o circuito e evitar um desgaste excessivo do banco de baterias. Esses controladores muitas das vezes fazem o papel de procurar o melhor ponto de potência das placas. Função essa desempenhada pelos inversores em sistemas conectados à rede.
+
+5.	Componentes auxiliares: Cabos e estruturas de fixação. São os mesmos dos usados em instalações com sistemas conectados a rede.
+
+<h2> Sistemas Fotovoltaicos Híbridos </h2>
+
+Os sistemas solares híbridos possuem características de sistemas on¬-grid e off-grid simultaneamente. Estes são capazes de gerar energia elétrica durante o dia por meio do sol enquanto armazenam o excesso de energia produzida em baterias. Sistemas híbrido tem como principal função suprir as falhas da rede elétrica convencional.
+Sistemas híbridos são a escolha perfeita para os locais que necessitam de uma garantia do fornecimento de energia de forma ininterrupta, tais como, hospitais, datacenters, indústrias etc. 
+Os sistemas híbridos começaram a alcançar uma maior projeção de mercado no último ano, no qual foram desenvolvidos inversores com essa capacidade de forma mais barata do que a oferecida anteriormente. 
+Apesar desse menor custo do inversor, as baterias não tiveram uma queda em seu preço, o que faz com muitas pessoas ainda não desejem esse sistema, pelo preço inicial das baterias como sua manutenção, que tem um custo mais elevado. O que tem sido feito em alguns casos é o uso do inversor híbrido apenas na sua função on-grid, para que no futuro as baterias possam ser adicionadas ao sistema.
+
+<h3>Tipos de Sistemas Híbridos </h3>
+
+A complexidade de um sistema fotovoltaico híbrido é baseada nas necessidades do cliente, como explicado abaixo. 
+
+1.	Sistema Solar Híbrido All-in-one
+
+Esses sistemas contam com um inversor interativo e um autônomo, além de um banco de baterias. Controladores de carga e retificadores podem fazer parte do sistema, dependendo da necessidade do consumidor. Esse sistema é o mais indicado para quem necessita de alimentação ininterrupta para alguns equipamentos. Sistemas All-in-One possuem arquitetura modular e permitem ampliações para melhor se adaptar às diferentes situações.
+
+
+2.	Sistema Solar Conectado à Rede Híbrido bimodal 
+
+Funcionam como um sistema autônomo, com o auxílio de um inversor bimodal. Esse sistema pode fazer o consumo direto pela rede elétrica da concessionária ou alternar para a energia armazenada no banco de baterias. No momento do dimensionamento da autonomia de um sistema híbrido bimodal, não é necessário contar com o carregamento do banco de baterias, visto que o inversor híbrido é capaz de carregar todo o banco de baterias por meio da energia fornecida pela rede. 
+Esse sistema conta com um valor agregado maior, porém possui confiabilidade maior que um sistema um sistema on-grid e uma economia maior que um sistema off-grid. 
+
+Como vemos no texto existem diversas possibilidades de colocar um sistema fotovoltaico. É necessário ter muito cuidado para escolher qual se adapta melhor a sua situação e analisar qual seria mais vantajoso no momento e no futuro, já que é um sistema que tem como vida útil mais de 25 anos.
+Aconselhamos sempre que procure uma empresa séria, que trabalhe com energia solar e não apenas kits pré-montados na internet. Isso com certeza irá lhe proporcionar uma maior segurança técnica e financeira. Caso queira nossa ajuda, nos deixe uma **(mensagem)[http://primariaenergia.com/contact.html)**
