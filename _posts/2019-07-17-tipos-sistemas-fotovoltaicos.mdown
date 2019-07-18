@@ -68,8 +68,10 @@ Os sistemas de bombeamento de água, ainda merecem uma menção especial já que
 
 <h2> Sistemas Fotovoltaicos Híbridos </h2>
 
-Os sistemas solares híbridos possuem características de sistemas on¬-grid e off-grid simultaneamente. Estes são capazes de gerar energia elétrica durante o dia por meio do sol enquanto armazenam o excesso de energia produzida em baterias. Sistemas híbrido tem como principal função suprir as falhas da rede elétrica convencional.
-Sistemas híbridos são a escolha perfeita para os locais que necessitam de uma garantia do fornecimento de energia de forma ininterrupta, tais como, hospitais, datacenters, indústrias etc. 
+Os sistemas solares híbridos possuem características de sistemas on¬-grid e off-grid simultaneamente. Estes são capazes de gerar energia elétrica durante o dia por meio do sol enquanto armazenam o excesso de energia produzida em baterias. Sistemas híbrido tem como principal função suprir as falhas da rede elétrica convencional.  
+  
+Sistemas híbridos são a escolha perfeita para os locais que necessitam de uma garantia do fornecimento de energia de forma ininterrupta, tais como, hospitais, datacenters, indústrias etc.   
+  
 Os sistemas híbridos começaram a alcançar uma maior projeção de mercado no último ano, no qual foram desenvolvidos inversores com essa capacidade de forma mais barata do que a oferecida anteriormente. 
 Apesar desse menor custo do inversor, as baterias não tiveram uma queda em seu preço, o que faz com muitas pessoas ainda não desejem esse sistema, pelo preço inicial das baterias como sua manutenção, que tem um custo mais elevado. O que tem sido feito em alguns casos é o uso do inversor híbrido apenas na sua função on-grid, para que no futuro as baterias possam ser adicionadas ao sistema.
 
