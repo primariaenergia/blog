@@ -83,7 +83,7 @@ Assim, A ANEEL propôs no Relatório de Análise de Impacto Regulatório (AIR) 6
 
 Um resumo gráfico dessas alternativas pode ser visualizado abaixo:
 
-![Como funciona](1.png)
+![Como funciona](2.png)
 
 A ideia seria que os novos usuários, que realizarem o pedido da instalação de geração distribuída após a publicação da norma (prevista para 2020), passem a pagar o custo da rede. Em 2030, ou quando atingido uma quantidade de GD pré-determinada em cada distribuidora, esses consumidores passam a compensar a componente de energia da Tarifa de Energia (TE), e pagam além dos custos de rede, os encargos. No caso da geração remota, a proposta prevê dois cenários. Os consumidores que já possuem GD continuam com as regras atualmente vigentes até o final de 2030. E os novos pedidos de acesso após a publicação da norma, prevista para 2020, passam a pagar custos de rede e encargos, também compensando a componente de energia da Tarifa de Energia.
 
