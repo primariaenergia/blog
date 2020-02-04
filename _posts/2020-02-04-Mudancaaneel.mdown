@@ -4,7 +4,7 @@ title:  "Revisão Norma Energia Solar"
 description: O que é verdade e o que é mentira na mudança da norma de energia solar
 date: 2020-02-04
 categories: Energia Elétrica
-img: sistemafotovoltaico.jpeg
+img: Mudancaenergiasolar.jpg
 author: Anna Caroline Lopes
 ---
 
