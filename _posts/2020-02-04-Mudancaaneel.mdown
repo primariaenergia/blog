@@ -15,7 +15,7 @@ author: Anna Caroline Lopes
 
 Em 2015 foi estabelecido que a norma 482/2012, que estabelece as condições gerais para a implementação e uso de Geração Distribuída (GD)*, passaria por revisão em 2019; por esta razão a ANEEL (Agência Nacional de Energia Elétrica) abriu uma consulta pública no período de 17/10 a 30/12/2019 visando receber contribuições sobre a proposta de revisão da norma. Houve ainda uma audiência pública na sede da ANEEL no dia 7/11/2019 com o intuito de complementar as contribuições.
 
-*  **(O que é geração distribuída)[http://www.inee.org.br/forum_ger_distrib.asp]**.
+*  **[O que é geração distribuída](http://www.inee.org.br/forum_ger_distrib.asp)**.
 
 <h2>Regra atual </h2>
 
@@ -29,7 +29,7 @@ Atualmente o sistema de compensação é de 1 para 1, o que quer dizer que a cad
 
 Segundo o relatório de análise de impacto regulatório (AIR), publicado pela ANEEL em 06/12/2018 (versão pré-participação pública), a manutenção das regras atuais por tempo indefinido pode eventualmente levar a custos elevados para os que optarem por não usar GD, já que o valor pago da conta de energia não inclui somente geração de energia, mas também custos de transmissão, distribuição, além de demais impostos, como ilustrado no gráfico abaixo, que descreve a composição da conta de energia. 
 
-![Como funciona](1.png)
+![Como funciona](foto1.png)
 
 Grande parte desses gastos seriam abatidos da conta quando se usa o sistema de compensação de créditos como é hoje. Porém, o mesmo também aponta que é possível manter a norma regente em vigor até 2030 ou até que a capacidade de GD instalada no país chegue a 5,9GW (o que acontecer primeiro) sem maiores prejuízos aos envolvidos.
 
