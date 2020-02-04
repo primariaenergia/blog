@@ -29,7 +29,7 @@ Atualmente o sistema de compensação é de 1 para 1, o que quer dizer que a cad
 
 Segundo o relatório de análise de impacto regulatório (AIR), publicado pela ANEEL em 06/12/2018 (versão pré-participação pública), a manutenção das regras atuais por tempo indefinido pode eventualmente levar a custos elevados para os que optarem por não usar GD, já que o valor pago da conta de energia não inclui somente geração de energia, mas também custos de transmissão, distribuição, além de demais impostos, como ilustrado no gráfico abaixo, que descreve a composição da conta de energia. 
 
-![Como funciona](1.png)
+![Como funciona](1 (4).png) 
 
 Grande parte desses gastos seriam abatidos da conta quando se usa o sistema de compensação de créditos como é hoje. Porém, o mesmo também aponta que é possível manter a norma regente em vigor até 2030 ou até que a capacidade de GD instalada no país chegue a 5,9GW (o que acontecer primeiro) sem maiores prejuízos aos envolvidos.
 
