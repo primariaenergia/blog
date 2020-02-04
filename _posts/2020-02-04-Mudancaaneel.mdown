@@ -1,0 +1,105 @@
+---
+layout: post
+title:  "Revisão Norma Energia Solar"
+description: O que é verdade e o que é mentira na mudança da norma de energia solar
+date: 2020-02-04
+categories: Energia Elétrica
+img: sistemafotovoltaico.jpeg
+author: Anna Caroline Lopes
+---
+
+
+•	Tempo de leitura: 5 minutos
+
+<h2> Por que revisar agora ? </h2>
+
+Em 2015 foi estabelecido que a norma 482/2012, que estabelece as condições gerais para a implementação e uso de Geração Distribuída (GD)*, passaria por revisão em 2019; por esta razão a ANEEL (Agência Nacional de Energia Elétrica) abriu uma consulta pública no período de 17/10 a 30/12/2019 visando receber contribuições sobre a proposta de revisão da norma. Houve ainda uma audiência pública na sede da ANEEL no dia 7/11/2019 com o intuito de complementar as contribuições.
+
+*  **(O que é geração distribuída)[http://www.inee.org.br/forum_ger_distrib.asp]**.
+
+<h2>Regra atual </h2>
+
+Segundo a norma regente, para usuários da GD, a energia gerada acima do que é consumido instantaneamente pode ser convertida em créditos de energia, isto é, caso o sistema de GD injete na rede uma quantidade de energia superior à utilizada naquele mês cria-se crédito de energia, que pode ser usado para abater o consumo da unidade nos meses subsequentes, ou em outras unidades que pertençam ao mesmo titular (validade de 60 meses). 
+
+Atualmente o sistema de compensação é de 1 para 1, o que quer dizer que a cada 1 kWh de energia gerada é abatido 1 kWh da fatura.em dias em que não for gerada energia necessária para o consumo, a parte restante ainda será fornecida pela rede de distribuição elétrica.
+
+
+
+<h2> Justificativa da ANEEL e debates </h2>
+
+Segundo o relatório de análise de impacto regulatório (AIR), publicado pela ANEEL em 06/12/2018 (versão pré-participação pública), a manutenção das regras atuais por tempo indefinido pode eventualmente levar a custos elevados para os que optarem por não usar GD, já que o valor pago da conta de energia não inclui somente geração de energia, mas também custos de transmissão, distribuição, além de demais impostos, como ilustrado no gráfico abaixo, que descreve a composição da conta de energia. 
+
+![Como funciona](1.png)
+
+Grande parte desses gastos seriam abatidos da conta quando se usa o sistema de compensação de créditos como é hoje. Porém, o mesmo também aponta que é possível manter a norma regente em vigor até 2030 ou até que a capacidade de GD instalada no país chegue a 5,9GW (o que acontecer primeiro) sem maiores prejuízos aos envolvidos.
+
+Além disso, mesmo para quem possui GD é necessário que a rede elétrica esteja disponível e com funcionamento adequado pois seu uso é necessário em dias e/ou horários de baixa geração, por exemplo. 
+
+Por outro lado, a Associação Brasileira de Geração Distribuída (ABGD) afirma que a geração de energia próxima à centro de consumo traz diversos benefícios para a rede elétrica, tais como redução de perdas, aumento de geração renovável e postergação na necessidade de investimentos em distribuição, dentre outras vantagens; e que, por isso seria injusto mudar o sistema de compensação.
+
+Somado à isso instaladores e consumidores interessados no mercado consideram que o modelo atual deve permanecer, de modo a permitir a consolidação do mercado.
+
+O principal motivo desses debates é que não há, ainda, uma quantificação exata dos custos e benefícios das GDs de pequeno porte no Brasil, portanto surgem diversos questionamentos sobre um possível desalinhamento na forma de compensação que é utilizada hoje.
+
+<h2> Proposta da ANEEL </h2>
+
+Apesar da versão oficial pós-consulta pública ainda não ter sido divulgada pela ANEEL pela última publicação da mesma, referente a essa temática, haverá um período de transição para as alterações.
+
+O estudo da AIR propôs 5 cenários de taxações, que serão esclarecidas a seguir. Mas antes é necessário relembrar a composição tarifária da conta de energia no que tange à receita da concessionária.
+
+Atualmente o faturamento da concessionária se baseia em duas parcelas primárias: Tarifa de Energia (TE), relacionada ao custo de aquisição da energia elétrica e Tarifa de Uso da rede de distribuição (TUSD) , que reflete os custos da rede de distribuição e a remuneração da distribuidora pela prestação do serviço ao consumidor. 
+
+A receita pela aplicação da tarifa com a estrutura atual, engloba, portanto os seguintes itens
+
+<ul>
+  <li>Custos de Energia (Geração)</li>
+  <li>Remuneração e Custos Operacionais (Transmissão e Distribuição)</li>
+  <li>Encargos setoriais e de distribuição (Transmissão e Distribuição)</li>
+</ul>
+
+Estas duas parcelas são subdivididas em: TUSD - Fio B*, TUSD - Fio A*, TUSD - Encargos do Serviço de Distribuição, TUSD - Perdas, TE - Encargos e TE - Energia.
+
+*TUSD - Fio B:  componente correspondente ao custo do serviço prestado pela própria distribuidora.
+*TUSD - Fio A: correspondente ao custo do uso de redes de distribuição ou de transmissão de terceiros
+
+Assim, A ANEEL propôs no Relatório de Análise de Impacto Regulatório (AIR) 6 alternativas regulatórias para tratamento da forma de compensação de energia:
+
+<ul>
+  <li>Alternativa 0 (cenário atual) - todas as componentes tarifárias listadas são compensadas pela energia injetada na rede
+</li>
+  <li>Alternativa 1 (Incide Fio B) - todas as componentes tarifárias listadas, com exceção da TUSD - Fio B, são compensadas pela energia injetada na rede, esta tarifa incidirá sobre toda a energia consumida na rede, e não mais sobre a diferença entre a energia consumida e a injetada
+</li>
+  <li>Alternativa 2 (Incide Fio A e Fio B) - as componentes TUSD - Fio A e TUSD - Fio B incidiriam sobre toda a energia consumida da rede. As demais parcelas da tarifa continuariam incidindo somente sobre a diferença entre a energia consumida e a energia injetada na rede.
+</li>
+<li>Alternativa 3 (Incide Fio A, Fio B e encargos) - semelhante à alternativa 2, as componentes tarifárias referentes à TUSD - Fio A, TUSD - Fio B e TUSD - Encargos incidiriam sobre toda a energia consumida na rede. As demais parcelas incidiriam somente sobre a diferença entre a energia consumida e a injetada na rede.
+</li>
+<li>Alternativa 4 (Incide toda a TUSD) - apenas as componentes relacionadas à Tarifa de Energia serão compensadas, as demais componentes (todas as relacionadas à TUSD) incidiriam sobre toda a energia consumida na rede
+
+</li>
+<li>Alternativa 5 (incide toda a TUSD e TE encargos) - apenas a componente de Energia da TE será compensada pela energia injetada na rede, todas as demais incidem sobre toda a energia consumida.
+
+</li>
+</ul>
+
+Um resumo gráfico dessas alternativas pode ser visualizado abaixo:
+
+![Como funciona](1.png)
+
+A ideia seria que os novos usuários, que realizarem o pedido da instalação de geração distribuída após a publicação da norma (prevista para 2020), passem a pagar o custo da rede. Em 2030, ou quando atingido uma quantidade de GD pré-determinada em cada distribuidora, esses consumidores passam a compensar a componente de energia da Tarifa de Energia (TE), e pagam além dos custos de rede, os encargos. No caso da geração remota, a proposta prevê dois cenários. Os consumidores que já possuem GD continuam com as regras atualmente vigentes até o final de 2030. E os novos pedidos de acesso após a publicação da norma, prevista para 2020, passam a pagar custos de rede e encargos, também compensando a componente de energia da Tarifa de Energia.
+
+Porém essa proposta tem gerado bastante repercussão e forte resistência entre usuários da GD e investidores, de modo que a mesma, após reunião com a  Associação Brasileira de Energia Solar Fotovoltaica (ABSOLAR), optou por não alterar os contratos de quem já usa GD por pelo menos 25 anos (manter a alternativa 0), que era um dos pontos mais criticados. Inicialmente a proposta previa que, pelo menos, a partir de 2030 todos os contratos seriam alterados. 
+
+<h2> Nota da ABSOLAR </h2>
+“No dia 30 de outubro de 2019, representantes da Associação Brasileira de Energia Solar Fotovoltaica (ABSOLAR) e do setor participaram de uma reunião em Brasília (DF) com membros da Agência Nacional de Energia Elétrica (Aneel), no sentido de ampliar o canal diálogo entre os agentes reguladores e o setor solar fotovoltaico para a construção de uma agenda positiva e equilibrada em torno da revisão regulatória da geração distribuída no Brasil. A ABSOLAR esclarece que não estabeleceu nenhum tipo de acordo na referida reunião. A entidade defende que uma mudança de regra na Resolução Normativa 482/2012 é prematura no atual cenário brasileiro. Pois, dos mais de 84 milhões de consumidores cativos atendidos pelas distribuidoras de energia elétrica, cerca de 160 mil (menos de 0,2%) possuem a tecnologia fotovoltaica. Desta forma, a ABSOLAR mantém a postura de diálogo que sempre pautou a sua atuação ao longo de todo o processo de revisão regulatória.’’
+
+<h2> O que diz a ABGD </h2>
+
+A ABGD organizou um abaixo assinado em setembro, que em dezembro já contava com 175mil assinaturas, com a intenção de levar ao presidente da república e concretizar esta demanda.
+
+Segundo Carlos Evangelista, presidente da ABGD, "O objetivo do abaixo-assinado é sensibilizar também o poder executivo sobre o tema, já que as mudanças sugeridas podem prejudicar as pessoas que investiram em sistemas próprios de geração e também os outros 83 milhões de consumidores de energia elétrica, que podem migrar para a geração própria de energia renovável".
+
+A Associação destaca ainda as vantagens econômicas e sociais da modalidade, como a geração de empregos, a dinamização da economia regional e a maior oferta de energia em horários de alto consumo, evitando o acionamento de usinas térmicas, caras e poluentes.
+
+Evangelista também aponta que "O cálculo utilizado não contabiliza os diversos benefícios sistêmicos proporcionados pela produção de energia junto ou próxima à carga". 
+
+Entre as vantagens, o executivo enumera o aumento de geração renovável, redução de perdas e postergação na necessidade de investimentos em distribuição e transmissão, entre outros. "Os ganhos são inúmeros, tornando injusta a proposta de taxação dessa energia"
