@@ -23,37 +23,44 @@ Com o entendimento das possíveis causas da falta de energia, parte-se para aná
 
 <h2>Sistemas autônomos </h2>
 
-Os sistemas autônomos, ou isolados, não são conectados à rede, isto é, não existe uma ligação física entre o inversor do sistema e a rede elétrica. Este tipo de sistema é utilizado, muitas vezes, em situações que não há fornecimento de energia em determinada região. Outra aplicação bastante comum é a utilização deste sistema como uma forma de suprir energia, justamente, durante a interrupção do fornecimento da rede, configurando-se como um sistema de back-up. 
-Para esta última configuração, a geração de energia por este sistema fica armazenada em bancos de baterias e quando ocorre a falta de energia, a pessoa deve acionar por meio de disjuntor, ou algum elemento de secção, a conexão do sistema, ou seja, liberar o uso da energia armazenada pelas baterias para as cargas que deseja-se alimentar. 
-Um cuidado muito importante deve ser tomado durante a fase do projeto de sistemas autônomos, que funcionam como sistemas de emergência durante a falta de energia. Estes devem ser projetados para serem usados apenas enquanto o fornecimento pela rede estiver desconectado, mas no que essa observação implica?
-Isso significa que o sistema isolado precisa ter um elemento de conexão, como um disjuntor, para ligar a saída do inversor aos circuitos do quadro que deseja ser alimentado. Sob hipótese alguma, o sistema deve ser acionado quando a rede estiver fornecendo energia para o quadro de distribuição. 
+Os sistemas autônomos, ou isolados, não são conectados à rede, isto é, não existe uma ligação física entre o inversor do sistema e a rede elétrica. Este tipo de sistema é utilizado, muitas vezes, em situações que não há fornecimento de energia em determinada região. Outra aplicação bastante comum é a utilização deste sistema como uma forma de suprir energia, justamente, durante a interrupção do fornecimento da rede, configurando-se como um sistema de back-up.  
+  
+Para esta última configuração, a geração de energia por este sistema fica armazenada em bancos de baterias e quando ocorre a falta de energia, a pessoa deve acionar por meio de disjuntor, ou algum elemento de secção, a conexão do sistema, ou seja, liberar o uso da energia armazenada pelas baterias para as cargas que deseja-se alimentar.  
+  
+Um cuidado muito importante deve ser tomado durante a fase do projeto de sistemas autônomos, que funcionam como sistemas de emergência durante a falta de energia. Estes devem ser projetados para serem usados apenas enquanto o fornecimento pela rede estiver desconectado, mas no que essa observação implica?  
+  
+Isso significa que o sistema isolado precisa ter um elemento de conexão, como um disjuntor, para ligar a saída do inversor aos circuitos do quadro que deseja ser alimentado. Sob hipótese alguma, o sistema deve ser acionado quando a rede estiver fornecendo energia para o quadro de distribuição.  
+  
 Portanto, cuidados devem ser tomados durante a transferência da alimentação do quadro, os seguintes passos devem ser seguidos:
-
+  
 <li>Quando perceber a falta de energia, desligue o disjuntor geral do quadro principal de distribuição. Isso impedirá que quando a energia voltar, o quadro seja alimentado tanto pelo sistema quanto pela rede.</l1>
 <li>Após desligar o disjuntor geral, acionar por meio de elemento de seccionamento, a utilização da energia gerada pelo sistema isolado no quadro de distribuição.</li>
 <li>Ao perceber que o fornecimento da rede voltou ao normal, desligar o disjuntor que conecta a geração de energia pelo sistema isolado ao quadro.</li>
 <li>Por fim, após o isolamento do sistema autônomo, o disjuntor geral deve ser acionado novamente, permitindo o fornecimento de energia pela rede. </li>  
+    
+Outra opção para a problemática, é a utilização de quadros e circuitos dedicados apenas para alimentar as cargas desejadas. Dessa forma, o quadro será alimentado inteiramente pelo sistema autônomo, não correndo o risco de ser conectado com a rede, por acidente. Além do mais, os circuitos provenientes desse quadro, estarão em paralelo com os circuitos do quadro principal, portanto cada carga terá duas formas de ser alimentada. Apesar dos custos para esta solução serem maiores, os riscos de acidente serão menores e haverá uma organização melhor das instalações elétricas do local.  
   
-Outra opção para a problemática, é a utilização de quadros e circuitos dedicados apenas para alimentar as cargas desejadas. Dessa forma, o quadro será alimentado inteiramente pelo sistema autônomo, não correndo o risco de ser conectado com a rede, por acidente. Além do mais, os circuitos provenientes desse quadro, estarão em paralelo com os circuitos do quadro principal, portanto cada carga terá duas formas de ser alimentada. Apesar dos custos para esta solução serem maiores, os riscos de acidente serão menores e haverá uma organização melhor das instalações elétricas do local.
-
 
 <h2> Sistemas conectados a rede </h2>
 
 Os sistemas conectados à rede são, de certa forma, os mais comumente utilizados em casas que se localizam em grandes centros urbanos. Essa configuração de sistema é eletricamente acoplada à rede de distribuição, ou seja, quando conectado à rede, o inversor desempenha o papel de uma fonte de corrente, injetando corrente elétrica, a qual deve estar sincronizada com a forma de onda da tensão. Para realizar esse sincronismo entre as formas de onda, o inversor deve, a todo instante, estar recebendo energia da rede elétrica. 
 Além de realizar a conversão da energia de corrente contínua para corrente alternada, controlar a injeção de corrente elétrica na rede, o inversor ainda possui funções de proteção tanto para o sistema fotovoltaico, quanto para a rede elétrica. Dentre essas funções de proteção, destaca-se a proteção anti-ilhamento, a qual está atrelada a falta de energia momentânea da rede. 
-Para entender a função de proteção anti-ilhamento do inversor, primeiramente deve-se analisar o fluxo de energia durante uma condição normal de operação. Observando a ilustração abaixo, para condição normal de operação, verifica-se um fluxo bidirecional de energia, proveniente da rede e do sistema fotovoltaico. Ao mesmo tempo que a rede de distribuição fornece energia para todas as cargas conectadas, o excedente da geração fotovoltaica é injetado na rede, para computar os créditos de geração. 
-
-![Como funciona](img5.png)
-
+Para entender a função de proteção anti-ilhamento do inversor, primeiramente deve-se analisar o fluxo de energia durante uma condição normal de operação. Observando a ilustração abaixo, para condição normal de operação, verifica-se um fluxo bidirecional de energia, proveniente da rede e do sistema fotovoltaico. Ao mesmo tempo que a rede de distribuição fornece energia para todas as cargas conectadas, o excedente da geração fotovoltaica é injetado na rede, para computar os créditos de geração.      
+  
+![Como funciona](img5.png)  
+  
 A partir do momento que ocorre a falta de fornecimento pela rede, observa-se que o fluxo de energia é alterado, como mostrado na ilustração a seguir. Para esta condição, apenas os sistemas fotovoltaicos injetam energia na rede, portanto esta continua energizada e a partir de agora a geração fotovoltaica estaria alimentando as cargas que seriam de responsabilidade da rede, criando assim o conceito de formação de uma ilha.
-
+  
 ![Falta de energia](img4.png)
-
-Portanto, define-se a condição de ilhamento como o fenômeno que ocorre quando parte do sistema elétrico continua sua operação através de fontes de geração distribuída (no caso em questão, os sistemas fotovoltaicos), mesmo quando se encontra eletricamente desconectada da rede principal. 
-E quais os problemas gerados por essa condição de ilhamento?
-Primeiramente, pode-se apontar para os riscos para a equipe de manutenção. Caso seja necessário, uma equipe de manutenção será deslocada para o local do defeito, para corrigir o problema, e ao prestar o serviço de manutenção, eles podem estar sujeitos à uma rede energizada, sem saber, o que implicaria em risco de vida. Além disso, o sistema fotovoltaico, nesta condição, estaria alimentando outras cargas conectadas à rede, o qual não foi projetado para isso, portanto podendo representar um risco para o próprio sistema de energia solar e outros equipamentos conectados à rede. 
+  
+Portanto, define-se a condição de ilhamento como o fenômeno que ocorre quando parte do sistema elétrico continua sua operação através de fontes de geração distribuída (no caso em questão, os sistemas fotovoltaicos), mesmo quando se encontra eletricamente desconectada da rede principal.  
+  
+E quais os problemas gerados por essa condição de ilhamento?  
+  
+Primeiramente, pode-se apontar para os riscos para a equipe de manutenção. Caso seja necessário, uma equipe de manutenção será deslocada para o local do defeito, para corrigir o problema, e ao prestar o serviço de manutenção, eles podem estar sujeitos à uma rede energizada, sem saber, o que implicaria em risco de vida. Além disso, o sistema fotovoltaico, nesta condição, estaria alimentando outras cargas conectadas à rede, o qual não foi projetado para isso, portanto podendo representar um risco para o próprio sistema de energia solar e outros equipamentos conectados à rede.  
+  
 Diante disso, diversas normas, nacionais e internacionais, estabelecem que os inversores fotovoltaicos devem ser capazes de detectar a condição de ilhamento, e a partir disso cessar sua operação em um curto intervalo de tempo, garantindo assim a segurança da rede, do sistema fotovoltaico e dos equipamentos ligados.
-
-![resumo](img3.png)
-
+  
+![resumo](img3.png)  
+  
 Resumidamente, na condição de falta de energia, o inversor será desconectado, automaticamente, portanto não é necessária nenhuma ação por parte da pessoa. Além disso, cabe salientar, que ao “cair” a energia, o disjuntor da fotovoltaica não vai “cair” automaticamente e a priori não é necessário desligá-lo. **Porém, caso o detentor do sistema queira desligar o disjuntor, também não há problema, apenas fica o alerta de ligá-lo novamente quando a energia voltar, para que o sistema possa operar normalmente.**  
