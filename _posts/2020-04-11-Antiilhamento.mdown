@@ -61,5 +61,6 @@ Primeiramente, pode-se apontar para os riscos para a equipe de manutenção. Cas
 Diante disso, diversas normas, nacionais e internacionais, estabelecem que os inversores fotovoltaicos devem ser capazes de detectar a condição de ilhamento, e a partir disso cessar sua operação em um curto intervalo de tempo, garantindo assim a segurança da rede, do sistema fotovoltaico e dos equipamentos ligados.
     
  
-    
+     
+         
 Resumidamente, na condição de falta de energia, o inversor será desconectado, automaticamente, portanto não é necessária nenhuma ação por parte da pessoa. Além disso, cabe salientar, que ao “cair” a energia, o disjuntor da fotovoltaica não vai “cair” automaticamente e a priori não é necessário desligá-lo. **Porém, caso o detentor do sistema queira desligar o disjuntor, também não há problema, apenas fica o alerta de ligá-lo novamente quando a energia voltar, para que o sistema possa operar normalmente.**  
