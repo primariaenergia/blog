@@ -4,7 +4,7 @@ title:  "Anti Ilhamento- Porque fico sem energia"
 description: Porque mesmo gerando minha própria energia eu fico sem luz, quando a concessionária não fornece
 date: 2020-04-11
 categories: Energia Elétrica
-img: inicio.jpeg
+img: img1.png
 author: João Victor Leite
 ---
 
@@ -12,7 +12,7 @@ author: João Victor Leite
 •	Tempo de leitura: 5 minutos
 
 
-![Inicio](img1.sgv)
+![Inicio](img1.png)
 
 Uma dúvida bastante comum entre pessoas que possuem sistemas de energia fotovoltaica instalados em suas casas é o que ocorre com o sistema quando falta energia em suas residências e se há necessidade de realizar alguma ação quando essa situação ocorre. 
 
@@ -43,17 +43,17 @@ Os sistemas conectados à rede são, de certa forma, os mais comumente utilizado
 Além de realizar a conversão da energia de corrente contínua para corrente alternada, controlar a injeção de corrente elétrica na rede, o inversor ainda possui funções de proteção tanto para o sistema fotovoltaico, quanto para a rede elétrica. Dentre essas funções de proteção, destaca-se a proteção anti-ilhamento, a qual está atrelada a falta de energia momentânea da rede. 
 Para entender a função de proteção anti-ilhamento do inversor, primeiramente deve-se analisar o fluxo de energia durante uma condição normal de operação. Observando a ilustração abaixo, para condição normal de operação, verifica-se um fluxo bidirecional de energia, proveniente da rede e do sistema fotovoltaico. Ao mesmo tempo que a rede de distribuição fornece energia para todas as cargas conectadas, o excedente da geração fotovoltaica é injetado na rede, para computar os créditos de geração. 
 
-![Como funciona](rede.png)
+![Como funciona](img2.png)
 
 A partir do momento que ocorre a falta de fornecimento pela rede, observa-se que o fluxo de energia é alterado, como mostrado na ilustração a seguir. Para esta condição, apenas os sistemas fotovoltaicos injetam energia na rede, portanto esta continua energizada e a partir de agora a geração fotovoltaica estaria alimentando as cargas que seriam de responsabilidade da rede, criando assim o conceito de formação de uma ilha.
 
-![Falta de energia](semrede.png)
+![Falta de energia](img3.png)
 
 Portanto, define-se a condição de ilhamento como o fenômeno que ocorre quando parte do sistema elétrico continua sua operação através de fontes de geração distribuída (no caso em questão, os sistemas fotovoltaicos), mesmo quando se encontra eletricamente desconectada da rede principal. 
 E quais os problemas gerados por essa condição de ilhamento?
 Primeiramente, pode-se apontar para os riscos para a equipe de manutenção. Caso seja necessário, uma equipe de manutenção será deslocada para o local do defeito, para corrigir o problema, e ao prestar o serviço de manutenção, eles podem estar sujeitos à uma rede energizada, sem saber, o que implicaria em risco de vida. Além disso, o sistema fotovoltaico, nesta condição, estaria alimentando outras cargas conectadas à rede, o qual não foi projetado para isso, portanto podendo representar um risco para o próprio sistema de energia solar e outros equipamentos conectados à rede. 
 Diante disso, diversas normas, nacionais e internacionais, estabelecem que os inversores fotovoltaicos devem ser capazes de detectar a condição de ilhamento, e a partir disso cessar sua operação em um curto intervalo de tempo, garantindo assim a segurança da rede, do sistema fotovoltaico e dos equipamentos ligados.
 
-![resumo](resumo.png)
+![resumo](img4.png)
 
 Resumidamente, na condição de falta de energia, o inversor será desconectado, automaticamente, portanto não é necessária nenhuma ação por parte da pessoa. Além disso, cabe salientar, que ao “cair” a energia, o disjuntor da fotovoltaica não vai “cair” automaticamente e a priori não é necessário desligá-lo. **Porém, caso o detentor do sistema queira desligar o disjuntor, também não há problema, apenas fica o alerta de ligá-lo novamente quando a energia voltar, para que o sistema possa operar normalmente.**  
