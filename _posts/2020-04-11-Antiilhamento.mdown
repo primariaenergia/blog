@@ -12,7 +12,7 @@ author: João Victor Leite
 •	Tempo de leitura: 5 minutos
 
 
-![Inicio](inicio.png)
+![Inicio](img1.sgv)
 
 Uma dúvida bastante comum entre pessoas que possuem sistemas de energia fotovoltaica instalados em suas casas é o que ocorre com o sistema quando falta energia em suas residências e se há necessidade de realizar alguma ação quando essa situação ocorre. 
 
