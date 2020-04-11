@@ -29,7 +29,7 @@ Um cuidado muito importante deve ser tomado durante a fase do projeto de sistema
 Isso significa que o sistema isolado precisa ter um elemento de conexão, como um disjuntor, para ligar a saída do inversor aos circuitos do quadro que deseja ser alimentado. Sob hipótese alguma, o sistema deve ser acionado quando a rede estiver fornecendo energia para o quadro de distribuição. 
 Portanto, cuidados devem ser tomados durante a transferência da alimentação do quadro, os seguintes passos devem ser seguidos:
 
-<li>Quando perceber a falta de energia, desligue o disjuntor geral do quadro principal de distribuição. Isso impedirá que quando a energia voltar, o quadro seja alimentado tanto pelo sistema quanto pela rede. </l1>
+<li>Quando perceber a falta de energia, desligue o disjuntor geral do quadro principal de distribuição. Isso impedirá que quando a energia voltar, o quadro seja alimentado tanto pelo sistema quanto pela rede.</l1>
 <li>Após desligar o disjuntor geral, acionar por meio de elemento de seccionamento, a utilização da energia gerada pelo sistema isolado no quadro de distribuição.</li>
 <li>Ao perceber que o fornecimento da rede voltou ao normal, desligar o disjuntor que conecta a geração de energia pelo sistema isolado ao quadro.</li>
 <li>Por fim, após o isolamento do sistema autônomo, o disjuntor geral deve ser acionado novamente, permitindo o fornecimento de energia pela rede. </li>  
