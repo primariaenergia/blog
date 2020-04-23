@@ -4,7 +4,7 @@ title:  "Como comparar propostas de energia solar"
 description: Como é possível comparar duas propostas de instalação sem erro
 date: 2020-04-23
 categories: Energia Elétrica
-img: inicio.jpeg
+img: comocompar.jpeg
 author: Igor Girão
 ---
 
