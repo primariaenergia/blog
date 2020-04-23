@@ -1,0 +1,313 @@
+---
+layout: post
+title:  "Como comparar propostas de energia solar"
+description: Como é possível comparar duas propostas de instalação sem erro
+date: 2020-04-23
+categories: Energia Elétrica
+img: inicio.jpeg
+author: Igor Girão
+---
+
+
+•	Tempo de leitura: 5 minutos
+
+
+
+Por ser considerado um investimento, a instalação de um sistema fotovoltaico demanda muita atenção para que tudo aconteça dentro das nossas expectativas. Além disso, é necessário saber o que difere duas ou mais propostas comerciais a fim de escolher o sistema mais adequado para suas necessidades.
+
+
+<h2>Dimensionamento do Sistema Fotovoltaico </h2>
+
+Primeiramente, é necessário saber se o sistema está dimensionado para a sua necessidade. Sistemas de geração de energia são dimensionados para abater uma parcela de consumo da sua fatura de energia (vide explicação a seguir), deste modo, este sistema deve prover a cada mês, algo próximo da média de geração projetada. Apesar de consumo e geração não serem constantes ao longo dos meses do ano, um sistema dimensionado pela média de consumo anual  visa garantir que a partir do segundo ano, no máximo, o sistema esteja adequado, ou seja, com geração mais próxima à simulada. 
+Digamos que você instale, em Brasília, um sistema que entre operação em janeiro, um mês que por padrão possui maior consumo devido às férias escolares dos filhos e de trabalho dos adultos, porém possui menor geração devido à grande quantidade de chuvas neste mês, provavelmente um sistema dimensionado pela média não vai conseguir suprir todo seu consumo no primeiro ano, porém ao longo deste ano, irá gerar créditos nos meses de melhor geração, de modo que estes possam ser consumidos em janeiro do ano seguinte. 
+A tabela abaixo* ilustra o comportamento de um sistema tradicional dimensionado pela média. 
+
+
+Mês
+Consumo
+(kWh)
+Geração
+(kWh)
+Saldo
+(kWh)
+Créditos Acumulados
+ (kWh)
+Janeiro
+545
+421
+-124
+0
+Fevereiro
+412
+432
+20
+20
+Março
+353
+467
+114
+134
+Abril
+334
+430
+96
+229
+Maio
+532
+455
+-77
+153
+Junho
+497
+465
+-32
+121
+Julho
+362
+500
+138
+259
+Agosto
+519
+537
+18
+277
+Setembro
+348
+499
+151
+428
+Outubro
+526
+438
+-88
+340
+Novembro
+298
+379
+81
+421
+Dezembro
+390
+372
+-18
+404
+Janeiro
+545
+417
+-128
+280
+*valores de consumo podem ser encontrados na sua fatura de energia,**[como olhar](https://context.reverso.net/translation/spanish-english/que+aqu)**
+	Com um consumo médio de 426 kWh/mês e geração de 450 kWh/mês, o sistema já consegue utilizar os créditos do primeiro ano no segundo, de modo que o cliente possa sempre pagar o menor valor possível na sua fatura. Para este mesmo sistema, considerando uma tarifa de R$ 0,69 por kWh em uma casa trifásica, a simulação da fatura de energia ao longo do primeiro ano é a seguinte.
+
+
+	Valor da Fatura de Energia no primeiro ano
+Mês
+Com sistema fotovoltaico
+Sem sistema fotovoltaico
+Janeiro
+ R$           97,35 
+ R$         428,20 
+Fevereiro
+ R$           82,65 
+ R$         309,14 
+Março
+ R$           82,65 
+ R$         268,70 
+Abril
+ R$           82,65 
+ R$         255,68 
+Maio
+ R$           76,54 
+ R$         411,78 
+Junho
+ R$           76,54 
+ R$         367,41 
+Julho
+ R$           76,54 
+ R$         274,87 
+Agosto
+ R$           70,41 
+ R$         402,37 
+Setembro
+ R$           68,85 
+ R$         265,27 
+Outubro
+ R$           68,85 
+ R$         407,44 
+Novembro
+ R$           68,85 
+ R$         223,20 
+Dezembro
+ R$           68,85 
+ R$         294,06 
+Média
+ R$           76,73
+ R$         325,68
+
+Deste modo, é interessante que a empresa a ser contratada seja bastante transparente sobre o valor esperado da fatura, evitando que as expectativas do cliente não sejam frustradas. Além disso, você nunca será capaz de abater completamente sua conta de energia, visto que as distribuidoras continuam cobrando um custo de disponibilidade, equivalente à soma da tarifação mínima e da contribuição de iluminação pública. 
+A tarifação mínima depende exclusivamente do tipo de fornecimento que você possui em sua residência, informação que pode ser encontrada na sua conta de energia. Para fornecimento monofásico, 30 kWh, para sistemas bifásicos, 50 kWh, e para trifásicos, 100 kWh. Para o sistema trifásico acima, a redução da fatura de energia é de, em média, 78,85% e, no máximo, de 83,90%. Para sistemas residenciais maiores, é possível reduzir em até 91%, tal como o sistema abaixo.  
+
+
+
+
+
+	Valor da Fatura de Energia no primeiro ano
+Mês
+Consumo
+Geração
+Com sistema fotovoltaico
+Sem sistema fotovoltaico
+Janeiro
+984
+974
+ R$ 117,46 
+ R$          768,41 
+Fevereiro
+1009
+996
+ R$ 111,85 
+ R$          786,50 
+Março
+898
+1088
+ R$ 106,26 
+ R$          706,17 
+Abril
+993
+1061
+ R$ 100,63 
+ R$          774,92 
+Maio
+947
+1077
+ R$ 100,63 
+ R$          741,63 
+Junho
+1037
+1140
+ R$ 94,99 
+ R$          806,77 
+Julho
+914
+1220
+ R$ 87,98 
+ R$          717,75 
+Agosto
+956
+1303
+ R$ 87,98 
+ R$          748,14 
+Setembro
+1091
+1210
+ R$ 82,65 
+ R$          845,85 
+Outubro
+998
+1013
+ R$ 76,54 
+ R$          778,54 
+Novembro
+1029
+877
+ R$ 68,85 
+ R$          800,98 
+Dezembro
+1013
+933
+ R$ 68,85 
+ R$          789,40 
+Média
+984
+974
+ R$ 92,06 
+ R$          772,09 
+
+Além disso, a média de consumo pode não ser a melhor métrica para a definição do tamanho do seu sistema. Muitas pessoas costumam instalar sistemas fotovoltaicos ao mudarem para uma residência maior, deste modo, o padrão de consumo passa a ser superior, e ainda bastante imprevisível. Outro caso em que o dimensionamento pela média não costuma ser muito eficaz é quando o cliente instalou recentemente equipamentos de alto consumo, tais como bombas e motores. Podemos tomar como exemplo o consumo abaixo:
+Mês
+Consumo (kWh)
+Janeiro
+1474
+Fevereiro
+266
+Março
+630
+Abril
+866
+Maio
+810
+Junho
+802
+Julho
+749
+Agosto
+1368
+Setembro
+891
+Outubro
+842
+Novembro
+964
+Dezembro
+1220
+
+	É possível perceber que a partir de março o consumo começou a aumentar bastante, chegando a ser cinco vezes maior no mês de agosto. Nesses casos, é bastante recomendado utilizar apenas os meses mais recentes como referência de média, como por exemplo, entre agosto e janeiro.  
+	Uma terceira possibilidade para dimensionar bem um sistema fotovoltaico é comunicar quando existe uma previsão de aumento de consumo, normalmente por instalação de aparelhos de ar condicionado. Nestes casos, é importante informar a potência dos aparelhos a serem instalados para que possa ser feita uma correta previsão do aumento de consumo. 
+
+
+<h2> Equipamentos do Sistema </h2>
+
+<h3>Módulos Fotovoltaicos </h3>
+
+Os módulos fotovoltaicos são os responsáveis pela captação da luz solar e sua conversão em energia elétrica. Eles possuem vários parâmetros que os diferenciam dentro de uma mesma marca, como por exemplo: 
+
+Potência: Cada módulo possui uma potência de geração, quanto maior a potência, mais energia ele é capaz de produzir. As potências hoje estão compreendidas entre 330 W e 425 W;
+Eficiência: Porcentagem da energia do sol capaz de ser convertida em energia elétrica. Os módulos hoje possuem eficiência entre 17 e 20%.
+
+Já entre diferentes marcas, assim como em qualquer outro produto, existe a diferença de categoria. Painéis solares são produtos que devem durar por cerca de 25 anos, por ser um mercado recente, não existe a garantia histórica de que esses produtos terão tal durabilidade, deste modo, as marcas são divididas em camadas (ou Tiers) de acordo com sua confiabilidade, considerando também sua capacidade de honrar a garantia. 
+Marcas do primeiro escalão são definidas pelos seguintes critérios: 
+Produzem módulos há mais de 5 anos;
+Possuem sistema de produção completamente automatizado;
+Investem significantemente em marketing.
+Além disso, chegam a custar entre 10 e 30% a mais que os painéis de categorias inferiores. Destacam-se como marcas de primeiro escalão na produção de módulos fotovoltaicos: Trina Solar, Canadian Solar, Risen Solar, Sunpower, Solarworld, Panasonic, LG, Jinko e Renesola. 
+Já as marcas de escalão inferior oferecem um produto de potência e eficiência bastante similar, porém não existe a garantia histórica da durabilidade de seus produtos e nem da capacidade de honrar a garantia vendida, no entanto, possuem valor de mercado bastante acessível. 
+
+<h3>Inversores</h3>
+
+Responsável pela conversão da energia em corrente contínua para corrente alternada, de forma que possa entrar em sincronismo com a rede elétrica, os inversores também possuem parâmetros que os diferem dentro da mesma marca e entre marcas. Destacam-se entre as características de um inversor: 
+Potência: Quanto maior a potência de um inversor, mais energia ele conseguirá fornecer à rede elétrica; 
+Quantidade de entradas MPPT: Número de entradas capazes de rastrear o ponto de máxima potência dos módulos fotovoltaicos;
+Eficiência: Grau de conversão da energia de corrente contínua em corrente alternada. Normalmente acima de 95%;
+Monitoramento: Plataforma para acesso à geração do sistema por meio de computador ou celular.
+Do mesmo modo que os painéis, inversores podem ser categorizados em grau de confiabilidade, tanto de sua durabilidade quanto de sua garantia. A garantia do inversor é muito mais relevante, visto que uma falha no mesmo derrubaria todo o sistema, ao contrário de uma falha em um dos painéis. Dentre as marcas que se destacam com menor índice de falhas estão: Fronius, SMA, Solar Edge, Sungrow e ABB (Fimer).
+
+<h3>Dimensionamento dos Equipamentos</h3>
+Por último, deve-se analisar se o dimensionamento de módulos e inversores está bem feito. A potência do sistema fotovoltaico é dada pela soma da potência de todos os módulos. Por exemplo, um sistema com 10 módulos de 400 W, possui potência de 4000 W, ou 4 kW. Já um sistema de 15 módulos de 400 W, possui potência de 6 kW. A potência do inversor se refere à máxima injeção instantânea, ou seja, um inversor de 5 kW será capaz de injetar no máximo 5 kW a cada instante. Para escolher a potência de inversor mais apropriada, devemos considerar duas situações: 
+
+
+Sistema de 4,8 kW e inversor de 5 kW: Caso a potência do inversor seja superior à potência das placas, ela não irá limitar a geração durante o dia, porém quando o sol não estiver na sua melhor posição, o inversor não estará utilizando sua capacidade total, diminuindo então a eficiência do mesmo (pois está diretamente relacionada com a quantidade de energia gerada pelas placas).
+
+Sistema de 4,8 kW e inversor de 4 kW: Caso a potência do inversor seja inferior à potência das placas, ela irá limitar a injeção de energia nos horários de pico (normalmente entre as 12:00 e 14:00), porém irá converter normalmente durante o resto do dia.  
+
+<h2>Análise Financeira</h2>
+Normalmente propostas de sistemas fotovoltaicos possuem análise de viabilidade econômica, com o objetivo de auxiliar na tomada de decisão e também comparar a instalação com um investimento financeiro. No entanto, por questão de confidencialidade as empresas acabam não divulgando os parâmetros utilizados naquela análise financeira, sendo que por várias vezes podem existir erros ou considerações exageradas por parte do fornecedor do serviço. Deste modo, citam-se alguns dos erros mais comuns: 
+
+Valor da tarifa: Algumas propostas não consideram o valor efetivo de tarifa presente na fatura de energia do cliente, padronizando a análise tornando-a pouco precisa. Um sobredimensionamento da tarifa causa uma sensação de retorno do investimento mais curto;
+
+Taxa de desconto: Para que a análise financeira seja válida ao longo dos anos, é preciso que seja considerada a variação do valor do dinheiro no tempo (proveniente de inflação, por exemplo), deste modo, é preciso que seja considerada uma taxa de desconto. Para reconhecer a ausência desta taxa no payback, ele pode ter uma característica de crescimento linear tal como o abaixo. Este caso retornou um Valor Presente Líquido (VPL)* de R$ 77.000,00; 
+
+
+*é o valor, no dia de hoje, da soma de todos os fluxos de caixa ao longo do tempo de vida de um projeto, considerada a taxa de desconto
+
+Em alguns casos, as empresas podem até considerar um crescimento na tarifa de energia acima da inflação, algo que não pode ser previsto e nem possui base histórica, neste caso, a curva ficaria parecida com uma exponencial crescente. A figura abaixo apresenta como seria este gráfico, com um VPL de R$ 171.000,00;
+
+
+O último erro pode ser bastante sutil, mas ainda assim gera alterações no valor e no tempo de retorno do seu investimento: A depreciação do módulo. Estima-se que os módulos fotovoltaicos percam desempenho a cada ano, de modo que ao fim dos 25 anos, eles devem estar com potências próximas a 80%, ou seja, gerando menos energia e menos retorno para o seu investimento. A figura abaixo apresenta um gráfico que não considera essa depreciação, com um VPL de R$ 43.700,00. 
+
+
+Por fim, apresenta-se um gráfico de análise financeira considerando corretamente todas as variáveis, ele deve ter uma característica de crescimento nos primeiros anos, porém cada vez mais linear. Para este exemplo foi considerando um sistema de R$ 15.628,00 com VPL de R$ 38.438,49, ou seja, um índice de lucro de 330% e uma taxa interna de retorno (TIR) de 23%, bastante positiva, mesmo considerando corretamente todos os fatores do fluxo de caixa. 
+
+Assim, é importante ter bastante atenção aos dados que lhe são fornecidos de forma a conseguir a proposta mais adequada e transparente para suas necessidades, visto que um sistema fotovoltaico é um investimento com alta vida útil. 
+
+
