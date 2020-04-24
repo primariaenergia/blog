@@ -84,7 +84,8 @@ Novembro | 1029| 877|R$ 68,85 | R$ 800,98
 Dezembro |1013|933| R$ 68,85 | R$ 789,40
 Média | 984 |974 | R$ 92,06 |R$ 772,09 
 
-Além disso, a média de consumo pode não ser a melhor métrica para a definição do tamanho do seu sistema. Muitas pessoas costumam instalar sistemas fotovoltaicos ao mudarem para uma residência maior, deste modo, o padrão de consumo passa a ser superior, e ainda bastante imprevisível. Outro caso em que o dimensionamento pela média não costuma ser muito eficaz é quando o cliente instalou recentemente equipamentos de alto consumo, tais como bombas e motores. Podemos tomar como exemplo o consumo abaixo:
+Além disso, a média de consumo pode não ser a melhor métrica para a definição do tamanho do seu sistema. Muitas pessoas costumam instalar sistemas fotovoltaicos ao mudarem para uma residência maior, deste modo, o padrão de consumo passa a ser superior, e ainda bastante imprevisível. Outro caso em que o dimensionamento pela média não costuma ser muito eficaz é quando o cliente instalou recentemente equipamentos de alto consumo, tais como bombas e motores. Podemos tomar como exemplo o consumo abaixo:  
+   
 Mês | Consumo (kWh)
 :----- | :------
 Janeiro | 1474
