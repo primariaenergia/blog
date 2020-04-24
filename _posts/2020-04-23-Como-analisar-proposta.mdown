@@ -66,7 +66,8 @@ Deste modo, é interessante que a empresa a ser contratada seja bastante transpa
   
 A tarifação mínima depende exclusivamente do tipo de fornecimento que você possui em sua residência, informação que pode ser encontrada na sua conta de energia. Para fornecimento monofásico, 30 kWh, para sistemas bifásicos, 50 kWh, e para trifásicos, 100 kWh. Para o sistema trifásico acima, a redução da fatura de energia é de, em média, 78,85% e, no máximo, de 83,90%. Para sistemas residenciais maiores, é possível reduzir em até 91%, tal como o sistema abaixo.  
   
-Valor da Fatura de Energia no primeiro ano 
+Valor da Fatura de Energia no primeiro ano  
+  
 Mês | Consumo | Geração | Com sistema fotovoltaico | Sem sistema fotovoltaico
 :----- | :------| :------- | :------- | :---------
 Janeiro | 984 | 974 | R$ 117,46 |R$ 768,41  
@@ -148,7 +149,7 @@ Por último, deve-se analisar se o dimensionamento de módulos e inversores est�
 <li>Sistema de 4,8 kW e inversor de 4 kW: Caso a potência do inversor seja inferior à potência das placas, ela irá limitar a injeção de energia nos horários de pico (normalmente entre as 12:00 e 14:00), porém irá converter normalmente durante o resto do dia.</li>  
 </ol>
 
-<img src={{ "assets/images/Geração1.PNG"}})/>
+![Geração](assets/images/Geração1.PNG")
 
 <h2>Análise Financeira</h2>
 Normalmente propostas de sistemas fotovoltaicos possuem análise de viabilidade econômica, com o objetivo de auxiliar na tomada de decisão e também comparar a instalação com um investimento financeiro. No entanto, por questão de confidencialidade as empresas acabam não divulgando os parâmetros utilizados naquela análise financeira, sendo que por várias vezes podem existir erros ou considerações exageradas por parte do fornecedor do serviço. Deste modo, citam-se alguns dos erros mais comuns: 
