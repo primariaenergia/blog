@@ -45,7 +45,8 @@ Janeiro | 545 | 417 | -128 | 280
 Com um consumo médio de 426 kWh/mês e geração de 450 kWh/mês, o sistema já consegue utilizar os créditos do primeiro ano no segundo, de modo que o cliente possa sempre pagar o menor valor possível na sua fatura. Para este mesmo sistema, considerando uma tarifa de R$ 0,69 por kWh em uma casa trifásica, a simulação da fatura de energia ao longo do primeiro ano é a seguinte.  
 
   
-Valor da Fatura de Energia no primeiro ano:
+Valor da Fatura de Energia no primeiro ano:  
+  
 Mês | Com sistema fotovoltaico | Sem sistema fotovoltaico
 :----- | :------| :------- 
 Janeiro | R$ 97,35 | R$ 428,20  
