@@ -145,32 +145,34 @@ Por último, deve-se analisar se o dimensionamento de módulos e inversores est�
 
 <ol>
 <li>Sistema de 4,8 kW e inversor de 5 kW: Caso a potência do inversor seja superior à potência das placas, ela não irá limitar a geração durante o dia, porém quando o sol não estiver na sua melhor posição, o inversor não estará utilizando sua capacidade total, diminuindo então a eficiência do mesmo (pois está diretamente relacionada com a quantidade de energia gerada pelas placas).</li>
-
+  
 ![geracao](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/Gera%C3%A7%C3%A3o1.PNG)
-
+  
 <li>Sistema de 4,8 kW e inversor de 4 kW: Caso a potência do inversor seja inferior à potência das placas, ela irá limitar a injeção de energia nos horários de pico (normalmente entre as 12:00 e 14:00), porém irá converter normalmente durante o resto do dia.</li>  
 </ol>
 
 
-![geracao](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/geracao2.PNG)
+<p>![geracao](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/geracao2.PNG)</p>
 
 <h2>Análise Financeira</h2>
-Normalmente propostas de sistemas fotovoltaicos possuem análise de viabilidade econômica, com o objetivo de auxiliar na tomada de decisão e também comparar a instalação com um investimento financeiro. No entanto, por questão de confidencialidade as empresas acabam não divulgando os parâmetros utilizados naquela análise financeira, sendo que por várias vezes podem existir erros ou considerações exageradas por parte do fornecedor do serviço. Deste modo, citam-se alguns dos erros mais comuns: 
-<ol>
-<li>Valor da tarifa: Algumas propostas não consideram o valor efetivo de tarifa presente na fatura de energia do cliente, padronizando a análise tornando-a pouco precisa. Um sobredimensionamento da tarifa causa uma sensação de retorno do investimento mais curto;</li>
+Normalmente propostas de sistemas fotovoltaicos possuem análise de viabilidade econômica, com o objetivo de auxiliar na tomada de decisão e também comparar a instalação com um investimento financeiro. No entanto, por questão de confidencialidade as empresas acabam não divulgando os parâmetros utilizados naquela análise financeira, sendo que por várias vezes podem existir erros ou considerações exageradas por parte do fornecedor do serviço. Deste modo, citam-se alguns dos erros mais comuns:  
   
+<ol>  
+  
+<li>Valor da tarifa: Algumas propostas não consideram o valor efetivo de tarifa presente na fatura de energia do cliente, padronizando a análise tornando-a pouco precisa. Um sobredimensionamento da tarifa causa uma sensação de retorno do investimento mais curto;</li>
+    
 <li>Taxa de desconto: Para que a análise financeira seja válida ao longo dos anos, é preciso que seja considerada a variação do valor do dinheiro no tempo (proveniente de inflação, por exemplo), deste modo, é preciso que seja considerada uma taxa de desconto. Para reconhecer a ausência desta taxa no payback, ele pode ter uma característica de crescimento linear tal como o abaixo. Este caso retornou um Valor Presente Líquido (VPL)* de R$ 77.000,00; </li>
-
-![payback](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/payback1.PNG)
+   
+<p>![payback](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/payback1.PNG) </p>
 
 *é o valor, no dia de hoje, da soma de todos os fluxos de caixa ao longo do tempo de vida de um projeto, considerada a taxa de desconto
 
 <li>Em alguns casos, as empresas podem até considerar um crescimento na tarifa de energia acima da inflação, algo que não pode ser previsto e nem possui base histórica, neste caso, a curva ficaria parecida com uma exponencial crescente. A figura abaixo apresenta como seria este gráfico, com um VPL de R$ 171.000,00;</li>
-![payback](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/payback2.PNG)
+<p>![payback](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/payback2.PNG)</p>
 
 <li>O último erro pode ser bastante sutil, mas ainda assim gera alterações no valor e no tempo de retorno do seu investimento: A depreciação do módulo. Estima-se que os módulos fotovoltaicos percam desempenho a cada ano, de modo que ao fim dos 25 anos, eles devem estar com potências próximas a 80%, ou seja, gerando menos energia e menos retorno para o seu investimento. A figura abaixo apresenta um gráfico que não considera essa depreciação, com um VPL de R$ 43.700,00. </li>
 </ol>
-  ![payback](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/payback3.PNG)  
+<p>  ![payback](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/payback3.PNG)  </p>
     
 Por fim, apresenta-se um gráfico de análise financeira considerando corretamente todas as variáveis, ele deve ter uma característica de crescimento nos primeiros anos, porém cada vez mais linear. Para este exemplo foi considerando um sistema de R$ 15.628,00 com VPL de R$ 38.438,49, ou seja, um índice de lucro de 330% e uma taxa interna de retorno (TIR) de 23%, bastante positiva, mesmo considerando corretamente todos os fatores do fluxo de caixa. 
   ![payback](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/payback4.PNG)
