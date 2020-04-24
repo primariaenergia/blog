@@ -146,12 +146,12 @@ Por último, deve-se analisar se o dimensionamento de módulos e inversores est�
 <ol>
 <li>Sistema de 4,8 kW e inversor de 5 kW: Caso a potência do inversor seja superior à potência das placas, ela não irá limitar a geração durante o dia, porém quando o sol não estiver na sua melhor posição, o inversor não estará utilizando sua capacidade total, diminuindo então a eficiência do mesmo (pois está diretamente relacionada com a quantidade de energia gerada pelas placas).</li>
 
-
+![geracao](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/Gera%C3%A7%C3%A3o1.PNG)
 
 <li>Sistema de 4,8 kW e inversor de 4 kW: Caso a potência do inversor seja inferior à potência das placas, ela irá limitar a injeção de energia nos horários de pico (normalmente entre as 12:00 e 14:00), porém irá converter normalmente durante o resto do dia.</li>  
 </ol>
 
-![geracao](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/Gera%C3%A7%C3%A3o1.PNG)
+
 
 <h2>Análise Financeira</h2>
 Normalmente propostas de sistemas fotovoltaicos possuem análise de viabilidade econômica, com o objetivo de auxiliar na tomada de decisão e também comparar a instalação com um investimento financeiro. No entanto, por questão de confidencialidade as empresas acabam não divulgando os parâmetros utilizados naquela análise financeira, sendo que por várias vezes podem existir erros ou considerações exageradas por parte do fornecedor do serviço. Deste modo, citam-se alguns dos erros mais comuns: 
