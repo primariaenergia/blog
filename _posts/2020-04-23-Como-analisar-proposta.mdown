@@ -84,32 +84,20 @@ Dezembro |1013|933| R$ 68,85 | R$ 789,40
 Média | 984 |974 | R$ 92,06 |R$ 772,09 
 
 Além disso, a média de consumo pode não ser a melhor métrica para a definição do tamanho do seu sistema. Muitas pessoas costumam instalar sistemas fotovoltaicos ao mudarem para uma residência maior, deste modo, o padrão de consumo passa a ser superior, e ainda bastante imprevisível. Outro caso em que o dimensionamento pela média não costuma ser muito eficaz é quando o cliente instalou recentemente equipamentos de alto consumo, tais como bombas e motores. Podemos tomar como exemplo o consumo abaixo:
-Mês
-Consumo (kWh)
-Janeiro
-1474
-Fevereiro
-266
-Março
-630
-Abril
-866
-Maio
-810
-Junho
-802
-Julho
-749
-Agosto
-1368
-Setembro
-891
-Outubro
-842
-Novembro
-964
-Dezembro
-1220
+Mês | Consumo (kWh)
+:----- | :------
+Janeiro | 1474
+Fevereiro | 266
+Março |630
+Abril| 866
+Maio| 810
+Junho| 802
+Julho| 749
+Agosto| 1368
+Setembro| 891
+Outubro| 842
+Novembro |964
+Dezembro| 1220
 
 É possível perceber que a partir de março o consumo começou a aumentar bastante, chegando a ser cinco vezes maior no mês de agosto. Nesses casos, é bastante recomendado utilizar apenas os meses mais recentes como referência de média, como por exemplo, entre agosto e janeiro.    
 Uma terceira possibilidade para dimensionar bem um sistema fotovoltaico é comunicar quando existe uma previsão de aumento de consumo, normalmente por instalação de aparelhos de ar condicionado. Nestes casos, é importante informar a potência dos aparelhos a serem instalados para que possa ser feita uma correta previsão do aumento de consumo.   
@@ -120,35 +108,45 @@ Uma terceira possibilidade para dimensionar bem um sistema fotovoltaico é comun
 <h3>Módulos Fotovoltaicos </h3>  
 
 Os módulos fotovoltaicos são os responsáveis pela captação da luz solar e sua conversão em energia elétrica. Eles possuem vários parâmetros que os diferenciam dentro de uma mesma marca, como por exemplo:   
+<ul>
+<li> Potência: Cada módulo possui uma potência de geração, quanto maior a potência, mais energia ele é capaz de produzir. As potências hoje estão compreendidas entre 330 W e 425 W;</li>
+<li>Eficiência: Porcentagem da energia do sol capaz de ser convertida em energia elétrica. Os módulos hoje possuem eficiência entre 17 e 20%.</li>  </ul>
 
-Potência: Cada módulo possui uma potência de geração, quanto maior a potência, mais energia ele é capaz de produzir. As potências hoje estão compreendidas entre 330 W e 425 W;  
-Eficiência: Porcentagem da energia do sol capaz de ser convertida em energia elétrica. Os módulos hoje possuem eficiência entre 17 e 20%.  
-
-Já entre diferentes marcas, assim como em qualquer outro produto, existe a diferença de categoria. Painéis solares são produtos que devem durar por cerca de 25 anos, por ser um mercado recente, não existe a garantia histórica de que esses produtos terão tal durabilidade, deste modo, as marcas são divididas em camadas (ou Tiers) de acordo com sua confiabilidade, considerando também sua capacidade de honrar a garantia.   
-Marcas do primeiro escalão são definidas pelos seguintes critérios:   
-Produzem módulos há mais de 5 anos;
-Possuem sistema de produção completamente automatizado;
-Investem significantemente em marketing.
+Já entre diferentes marcas, assim como em qualquer outro produto, existe a diferença de categoria. Painéis solares são produtos que devem durar por cerca de 25 anos, por ser um mercado recente, não existe a garantia histórica de que esses produtos terão tal durabilidade, deste modo, as marcas são divididas em camadas (ou Tiers) de acordo com sua confiabilidade, considerando também sua capacidade de honrar a garantia.  
+  
+Marcas do primeiro escalão são definidas pelos seguintes critérios:  
+  
+<ul>  
+  <lI>Produzem módulos há mais de 5 anos;</li>
+<lI>Possuem sistema de produção completamente automatizado;</li>
+<lI>Investem significantemente em marketing. </li> 
+</ul>  
+  
 Além disso, chegam a custar entre 10 e 30% a mais que os painéis de categorias inferiores. Destacam-se como marcas de primeiro escalão na produção de módulos fotovoltaicos: Trina Solar, Canadian Solar, Risen Solar, Sunpower, Solarworld, Panasonic, LG, Jinko e Renesola. 
 Já as marcas de escalão inferior oferecem um produto de potência e eficiência bastante similar, porém não existe a garantia histórica da durabilidade de seus produtos e nem da capacidade de honrar a garantia vendida, no entanto, possuem valor de mercado bastante acessível. 
-
+  
 <h3>Inversores</h3>
-
-Responsável pela conversão da energia em corrente contínua para corrente alternada, de forma que possa entrar em sincronismo com a rede elétrica, os inversores também possuem parâmetros que os diferem dentro da mesma marca e entre marcas. Destacam-se entre as características de um inversor: 
-Potência: Quanto maior a potência de um inversor, mais energia ele conseguirá fornecer à rede elétrica; 
-Quantidade de entradas MPPT: Número de entradas capazes de rastrear o ponto de máxima potência dos módulos fotovoltaicos;
-Eficiência: Grau de conversão da energia de corrente contínua em corrente alternada. Normalmente acima de 95%;
-Monitoramento: Plataforma para acesso à geração do sistema por meio de computador ou celular.
+  
+Responsável pela conversão da energia em corrente contínua para corrente alternada, de forma que possa entrar em sincronismo com a rede elétrica, os inversores também possuem parâmetros que os diferem dentro da mesma marca e entre marcas. Destacam-se entre as características de um inversor:  
+<ul>
+<lI>Potência: Quanto maior a potência de um inversor, mais energia ele conseguirá fornecer à rede elétrica; </li>
+<lI>Quantidade de entradas MPPT: Número de entradas capazes de rastrear o ponto de máxima potência dos módulos fotovoltaicos;</li>
+<lI>Eficiência: Grau de conversão da energia de corrente contínua em corrente alternada. Normalmente acima de 95%;</li>
+<lI>Monitoramento: Plataforma para acesso à geração do sistema por meio de computador ou celular.</li>  
+</ul>  
+  
 Do mesmo modo que os painéis, inversores podem ser categorizados em grau de confiabilidade, tanto de sua durabilidade quanto de sua garantia. A garantia do inversor é muito mais relevante, visto que uma falha no mesmo derrubaria todo o sistema, ao contrário de uma falha em um dos painéis. Dentre as marcas que se destacam com menor índice de falhas estão: Fronius, SMA, Solar Edge, Sungrow e ABB (Fimer).
 
 <h3>Dimensionamento dos Equipamentos</h3>
 Por último, deve-se analisar se o dimensionamento de módulos e inversores está bem feito. A potência do sistema fotovoltaico é dada pela soma da potência de todos os módulos. Por exemplo, um sistema com 10 módulos de 400 W, possui potência de 4000 W, ou 4 kW. Já um sistema de 15 módulos de 400 W, possui potência de 6 kW. A potência do inversor se refere à máxima injeção instantânea, ou seja, um inversor de 5 kW será capaz de injetar no máximo 5 kW a cada instante. Para escolher a potência de inversor mais apropriada, devemos considerar duas situações: 
 
+<ol>
+<li>Sistema de 4,8 kW e inversor de 5 kW: Caso a potência do inversor seja superior à potência das placas, ela não irá limitar a geração durante o dia, porém quando o sol não estiver na sua melhor posição, o inversor não estará utilizando sua capacidade total, diminuindo então a eficiência do mesmo (pois está diretamente relacionada com a quantidade de energia gerada pelas placas).</li>
 
-Sistema de 4,8 kW e inversor de 5 kW: Caso a potência do inversor seja superior à potência das placas, ela não irá limitar a geração durante o dia, porém quando o sol não estiver na sua melhor posição, o inversor não estará utilizando sua capacidade total, diminuindo então a eficiência do mesmo (pois está diretamente relacionada com a quantidade de energia gerada pelas placas).
 
-Sistema de 4,8 kW e inversor de 4 kW: Caso a potência do inversor seja inferior à potência das placas, ela irá limitar a injeção de energia nos horários de pico (normalmente entre as 12:00 e 14:00), porém irá converter normalmente durante o resto do dia.  
 
+<li>Sistema de 4,8 kW e inversor de 4 kW: Caso a potência do inversor seja inferior à potência das placas, ela irá limitar a injeção de energia nos horários de pico (normalmente entre as 12:00 e 14:00), porém irá converter normalmente durante o resto do dia.</li>  
+</ol>
 <h2>Análise Financeira</h2>
 Normalmente propostas de sistemas fotovoltaicos possuem análise de viabilidade econômica, com o objetivo de auxiliar na tomada de decisão e também comparar a instalação com um investimento financeiro. No entanto, por questão de confidencialidade as empresas acabam não divulgando os parâmetros utilizados naquela análise financeira, sendo que por várias vezes podem existir erros ou considerações exageradas por parte do fornecedor do serviço. Deste modo, citam-se alguns dos erros mais comuns: 
 
