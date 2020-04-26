@@ -143,13 +143,13 @@ Do mesmo modo que os painéis, inversores podem ser categorizados em grau de con
 <h3>Dimensionamento dos Equipamentos</h3>
 Por último, deve-se analisar se o dimensionamento de módulos e inversores está bem feito. A potência do sistema fotovoltaico é dada pela soma da potência de todos os módulos. Por exemplo, um sistema com 10 módulos de 400 W, possui potência de 4000 W, ou 4 kW. Já um sistema de 15 módulos de 400 W, possui potência de 6 kW. A potência do inversor se refere à máxima injeção instantânea, ou seja, um inversor de 5 kW será capaz de injetar no máximo 5 kW a cada instante. Para escolher a potência de inversor mais apropriada, devemos considerar duas situações: 
 
-<ol>
-<li>Sistema de 4,8 kW e inversor de 5 kW: Caso a potência do inversor seja superior à potência das placas, ela não irá limitar a geração durante o dia, porém quando o sol não estiver na sua melhor posição, o inversor não estará utilizando sua capacidade total, diminuindo então a eficiência do mesmo (pois está diretamente relacionada com a quantidade de energia gerada pelas placas).</li>
-  
+
+Sistema de 4,8 kW e inversor de 5 kW: Caso a potência do inversor seja superior à potência das placas, ela não irá limitar a geração durante o dia, porém quando o sol não estiver na sua melhor posição, o inversor não estará utilizando sua capacidade total, diminuindo então a eficiência do mesmo (pois está diretamente relacionada com a quantidade de energia gerada pelas placas).
+     
 ![geracao](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/Gera%C3%A7%C3%A3o1.PNG)
-  
-<li>Sistema de 4,8 kW e inversor de 4 kW: Caso a potência do inversor seja inferior à potência das placas, ela irá limitar a injeção de energia nos horários de pico (normalmente entre as 12:00 e 14:00), porém irá converter normalmente durante o resto do dia.</li>  
-</ol>
+    
+Sistema de 4,8 kW e inversor de 4 kW: Caso a potência do inversor seja inferior à potência das placas, ela irá limitar a injeção de energia nos horários de pico (normalmente entre as 12:00 e 14:00), porém irá converter normalmente durante o resto do dia.  
+
 
 
 ![geracao](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/geracao2.PNG)
