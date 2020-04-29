@@ -4,7 +4,7 @@ title:  "Quanto da conta a fotovoltaica economiza?"
 description: Saiba quanto você pode economizar da conta de luz com a luz do sol
 date: 2019-02-13
 categories: Energia Elétrica
-img: Quantoeconomiza.png
+img: comofotovoltaicaeconom.jpeg
 author: Jéssica Leite
 ---
 
