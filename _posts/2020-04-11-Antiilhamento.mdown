@@ -12,7 +12,7 @@ author: João Victor Leite
 •	Tempo de leitura: 5 minutos
 
 
-![Inicio](img1.png)
+![Inicio](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/_posts/img1.png)
 
 Uma dúvida bastante comum entre pessoas que possuem sistemas de energia fotovoltaica instalados em suas casas é o que ocorre com o sistema quando falta energia em suas residências e se há necessidade de realizar alguma ação quando essa situação ocorre. 
 
