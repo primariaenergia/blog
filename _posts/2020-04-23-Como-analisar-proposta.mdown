@@ -146,7 +146,7 @@ Por último, deve-se analisar se o dimensionamento de módulos e inversores est�
 
 Sistema de 4,8 kW e inversor de 5 kW: Caso a potência do inversor seja superior à potência das placas, ela não irá limitar a geração durante o dia, porém quando o sol não estiver na sua melhor posição, o inversor não estará utilizando sua capacidade total, diminuindo então a eficiência do mesmo (pois está diretamente relacionada com a quantidade de energia gerada pelas placas).
      
-![geracao](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/Gera%C3%A7%C3%A3o1.PNG)
+![geracao](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/compararpropostas1.png)
     
 Sistema de 4,8 kW e inversor de 4 kW: Caso a potência do inversor seja inferior à potência das placas, ela irá limitar a injeção de energia nos horários de pico (normalmente entre as 12:00 e 14:00), porém irá converter normalmente durante o resto do dia.  
 
