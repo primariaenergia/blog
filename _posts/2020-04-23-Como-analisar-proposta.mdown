@@ -163,7 +163,7 @@ Valor da tarifa: Algumas propostas não consideram o valor efetivo de tarifa pre
     
 Taxa de desconto: Para que a análise financeira seja válida ao longo dos anos, é preciso que seja considerada a variação do valor do dinheiro no tempo (proveniente de inflação, por exemplo), deste modo, é preciso que seja considerada uma taxa de desconto. Para reconhecer a ausência desta taxa no payback, ele pode ter uma característica de crescimento linear tal como o abaixo. Este caso retornou um Valor Presente Líquido (VPL)* de R$ 77.000,00; 
    
-![payback](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/payback1.PNG) 
+![payback](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/compararpropostas2.png) 
 
 *é o valor, no dia de hoje, da soma de todos os fluxos de caixa ao longo do tempo de vida de um projeto, considerada a taxa de desconto
 
