@@ -169,15 +169,15 @@ Taxa de desconto: Para que a análise financeira seja válida ao longo dos anos,
 
 Em alguns casos, as empresas podem até considerar um crescimento na tarifa de energia acima da inflação, algo que não pode ser previsto e nem possui base histórica, neste caso, a curva ficaria parecida com uma exponencial crescente. A figura abaixo apresenta como seria este gráfico, com um VPL de R$ 171.000,00;  
   
-![payback](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/payback2.PNG)
+![payback](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/compararpropostas4.png)
 
 O último erro pode ser bastante sutil, mas ainda assim gera alterações no valor e no tempo de retorno do seu investimento: A depreciação do módulo. Estima-se que os módulos fotovoltaicos percam desempenho a cada ano, de modo que ao fim dos 25 anos, eles devem estar com potências próximas a 80%, ou seja, gerando menos energia e menos retorno para o seu investimento. A figura abaixo apresenta um gráfico que não considera essa depreciação, com um VPL de R$ 43.700,00. 
   
-![payback](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/payback3.PNG)  
+![payback](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/compararpropostas5.png)  
     
 Por fim, apresenta-se um gráfico de análise financeira considerando corretamente todas as variáveis, ele deve ter uma característica de crescimento nos primeiros anos, porém cada vez mais linear. Para este exemplo foi considerando um sistema de R$ 15.628,00 com VPL de R$ 38.438,49, ou seja, um índice de lucro de 330% e uma taxa interna de retorno (TIR) de 23%, bastante positiva, mesmo considerando corretamente todos os fatores do fluxo de caixa.  
   
-![payback](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/payback4.PNG)  
+![payback](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/compararpropostas6.png)  
    
 Assim, é importante ter bastante atenção aos dados que lhe são fornecidos de forma a conseguir a proposta mais adequada e transparente para suas necessidades, visto que um sistema fotovoltaico é um investimento com alta vida útil. 
 
