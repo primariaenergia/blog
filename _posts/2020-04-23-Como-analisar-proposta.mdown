@@ -152,7 +152,7 @@ Sistema de 4,8 kW e inversor de 4 kW: Caso a potência do inversor seja inferior
 
 
 
-![geracao](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/geracao2.PNG)
+![geracao](https://raw.githubusercontent.com/primariaenergia/blog/gh-pages/assets/images/compararpropostas2.png)
 
 <h2>Análise Financeira</h2>
 Normalmente propostas de sistemas fotovoltaicos possuem análise de viabilidade econômica, com o objetivo de auxiliar na tomada de decisão e também comparar a instalação com um investimento financeiro. No entanto, por questão de confidencialidade as empresas acabam não divulgando os parâmetros utilizados naquela análise financeira, sendo que por várias vezes podem existir erros ou considerações exageradas por parte do fornecedor do serviço. Deste modo, citam-se alguns dos erros mais comuns:  
